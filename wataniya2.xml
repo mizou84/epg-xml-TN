@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv source-info-name="tunisiatv.tn" source-info-url="https://www.tunisiatv.tn/ar/programme">
+  <channel id="wataniya2">
+    <display-name>Wataniya 2</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/langfr-500px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png"/>
+  </channel>
+  <programme start="20260502060000 +0100" stop="20260502060100 +0100" channel="wataniya2">
+    <title lang="ar">النشيد الرسمي</title>
+    <desc lang="ar">النشيد الرسمي</desc>
+  </programme>
+  <programme start="20260502060200 +0100" stop="20260502062200 +0100" channel="wataniya2">
+    <title lang="ar">القرآن الكريم</title>
+    <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
+  </programme>
+  <programme start="20260502062300 +0100" stop="20260502062900 +0100" channel="wataniya2">
+    <title lang="ar">ابتهالات</title>
+    <desc lang="ar">لحظات روحانية مع ابتهالات خاشعة تلامس القلوب وتُحلّق بالأرواح نحو السمو. بكلمات مناجية وأصوات صادقة،… حيث ترتقي الأرواح وتطمئن القلوب.</desc>
+  </programme>
+  <programme start="20260502063000 +0100" stop="20260502070400 +0100" channel="wataniya2">
+    <title lang="ar">مقتطفات من أغاني أحمد جلمام</title>
+    <desc lang="ar">مقتطفات من أغاني أحمد جلمام</desc>
+  </programme>
+  <programme start="20260502070500 +0100" stop="20260502075900 +0100" channel="wataniya2">
+    <title lang="ar">تبّعني</title>
+    <desc lang="ar">دعوة لاكتشاف تونس بعيون جديدة، حيث تتقاطع الطبيعة مع التاريخ في لوحات نابضة بالحياة. من الشواطئ الساحرة إلى الجبال والواحات، ومن المدن العريقة إلى القرى الهادئة، يعرّفكم البرنامج على أبرز الوجهات السياحية وأجمل المناطق الطبيعية، ويكشف خفايا أماكن قد لا يعرفها الكثيرون</desc>
+  </programme>
+  <programme start="20260502080000 +0100" stop="20260502082900 +0100" channel="wataniya2">
+    <title lang="ar">سلسلة خضراء والكنز </title>
+    <desc lang="ar">سلسلة هزلية ومواقف طريف </desc>
+  </programme>
+  <programme start="20260502083000 +0100" stop="20260502093900 +0100" channel="wataniya2">
+    <title lang="ar">وثائقي: الجمهور عايز كده</title>
+    <desc lang="ar">وثائقي: الجمهور عايز كده</desc>
+  </programme>
+  <programme start="20260502094000 +0100" stop="20260502114900 +0100" channel="wataniya2">
+    <title lang="ar">سبور ماكس</title>
+    <desc lang="ar">سبور ماكس</desc>
+  </programme>
+  <programme start="20260502115000 +0100" stop="20260502125900 +0100" channel="wataniya2">
+    <title lang="ar">صور متحركة</title>
+    <desc lang="ar">صور متحركة</desc>
+  </programme>
+  <programme start="20260502130000 +0100" stop="20260502134400 +0100" channel="wataniya2">
+    <title lang="ar">شوفلي حل</title>
+    <desc lang="ar">شوفلي حل</desc>
+  </programme>
+  <programme start="20260502134500 +0100" stop="20260502143400 +0100" channel="wataniya2">
+    <title lang="ar">مسلسل الدوار</title>
+    <desc lang="ar">تدور أحداث المسلسل في قرية صغيرة اسمه الدوار تابعة لمدينة توزر بالجنوب التونسي، يتحكم في هذه القرية رجل ظالم تزوج أرملة طمعًا في مالها وأصبح يتحكم فيه بدلا من ابنها وابنتها ويعاملهم معاملة قاسية.</desc>
+  </programme>
+  <programme start="20260502143500 +0100" stop="20260502154400 +0100" channel="wataniya2">
+    <title lang="ar">سهرة من الأرشيف </title>
+    <desc lang="ar"> سهرة من الأرشيف </desc>
+  </programme>
+  <programme start="20260502154500 +0100" stop="20260502180400 +0100" channel="wataniya2">
+    <title lang="ar">الكرة الطائرة- نهائي كأس تونس سيدات: النادي النسائي بقرطاج / النادي صفاقسي</title>
+    <desc lang="ar">الكرة الطائرة- نهائي كأس تونس سيدات: النادي النسائي بقرطاج / النادي صفاقسي</desc>
+  </programme>
+  <programme start="20260502180500 +0100" stop="20260502190400 +0100" channel="wataniya2">
+    <title lang="ar">صور متحركة</title>
+    <desc lang="ar">صور متحركة</desc>
+  </programme>
+  <programme start="20260502190500 +0100" stop="20260502194900 +0100" channel="wataniya2">
+    <title lang="ar">محلاها بلادي... تونس البية</title>
+    <desc lang="ar">برنامج يحتفي بجمال تونس يكتشف ملامحها كما نحبّها: أصيلة، متنوّعة، ومليئة بالحياة. هو دعوة لاكتشاف تفاصيل صغيرة تصنع الفرق، وتُبرز روح البلاد في أبسط صورها وأجملها.</desc>
+  </programme>
+  <programme start="20260502195000 +0100" stop="20260502201400 +0100" channel="wataniya2">
+    <title lang="ar">سلة سلة</title>
+    <desc lang="ar">في إطار كوميدي، تدور أحداث المسلسل بشكل ساخر داخل أحد المطاعم، حيث تدير (ليلى) وزوجها مطعمًا في دبي وتدخل إحدى المؤثرات عبر مواقع التواصل الاجتماعي إلى حياتهما فجأة، وتحاول إدخال الطعام الصحي للمطعم، ويتعرض العمل للعلاقات الأسرية.</desc>
+  </programme>
+  <programme start="20260502201500 +0100" stop="20260502202900 +0100" channel="wataniya2">
+    <title lang="ar">سلسلة حلو و حار</title>
+    <desc lang="ar">سلسلة حلو و حار</desc>
+  </programme>
+  <programme start="20260502203000 +0100" stop="20260502211400 +0100" channel="wataniya2">
+    <title lang="ar">شوفلي حل</title>
+    <desc lang="ar">شوفلي حل</desc>
+  </programme>
+  <programme start="20260502211500 +0100" stop="20260502220900 +0100" channel="wataniya2">
+    <title lang="ar">مسلسل الدوار</title>
+    <desc lang="ar">تدور أحداث المسلسل في قرية صغيرة اسمه الدوار تابعة لمدينة توزر بالجنوب التونسي، يتحكم في هذه القرية رجل ظالم تزوج أرملة طمعًا في مالها وأصبح يتحكم فيه بدلا من ابنها وابنتها ويعاملهم معاملة قاسية.</desc>
+  </programme>
+  <programme start="20260502221000 +0100" stop="20260502225900 +0100" channel="wataniya2">
+    <title lang="ar">سوبر فاميلي الجزء 2</title>
+    <desc lang="ar">سوبر فاميلي هو مسلسل اجتماعي كوميدي سوري</desc>
+  </programme>
+  <programme start="20260502230000 +0100" stop="20260502232400 +0100" channel="wataniya2">
+    <title lang="ar">سلة سلة</title>
+    <desc lang="ar">في إطار كوميدي، تدور أحداث المسلسل بشكل ساخر داخل أحد المطاعم، حيث تدير (ليلى) وزوجها مطعمًا في دبي وتدخل إحدى المؤثرات عبر مواقع التواصل الاجتماعي إلى حياتهما فجأة، وتحاول إدخال الطعام الصحي للمطعم، ويتعرض العمل للعلاقات الأسرية.</desc>
+  </programme>
+  <programme start="20260502232500 +0100" stop="20260502235900 +0100" channel="wataniya2">
+    <title lang="ar">و الله زمان</title>
+    <desc lang="ar">لأن الأمم بثقافاتها تنهض و لأن الأمجاد تخط بسواعد مبدعيها...و لان لا خير في جيل تنكر لماضيه..ارتأينا هذا العمل الذي أردناه توثيقا و لمسة شكر لهؤلاء...مبدعين و فنانين كانوا و لازالوا صناعا للأمجاد.</desc>
+  </programme>
+</tv>
