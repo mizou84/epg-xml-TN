@@ -6,7 +6,7 @@
 import scrapy
 
 
-class Wataniya1Item(scrapy.Item):
+class WataniyaItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     pass

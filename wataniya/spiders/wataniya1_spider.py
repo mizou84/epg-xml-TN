@@ -4,11 +4,11 @@ from zoneinfo import ZoneInfo
 import scrapy
 
 
-class QuotesSpider(scrapy.Spider):
-    name = "quotes2"
+class epgSpider(scrapy.Spider):
+    name = "wataniya1"
 
     start_urls = [
-        "https://www.tunisiatv.tn/ar/programme/6/69c593d18d6cac7a55cd575c/%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9%202"
+        "https://www.tunisiatv.tn/ar/programme/3/69c58aac8d6cac7a55cd2e09/%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9%201"
     ]
 
     def parse(self, response):
@@ -48,12 +48,12 @@ class QuotesSpider(scrapy.Spider):
         header = [
             '<?xml version="1.0" encoding="UTF-8"?>\n',
             '<tv source-info-name="tunisiatv.tn" source-info-url="https://www.tunisiatv.tn/ar/programme">\n',
-            '  <channel id="wataniya2">\n',
-            "    <display-name>Wataniya 2</display-name>\n",
-            '    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/langfr-500px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png"/>\n',
+            '  <channel id="wataniya1">\n',
+            "    <display-name>Wataniya 1</display-name>\n",
+            '    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/960px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png"/>\n',
             "  </channel>\n",
         ]
-        with open("wataniya2.xml", "w", encoding="utf-8") as file:
+        with open("wataniya1.xml", "w", encoding="utf-8") as file:
             file.writelines(header)
 
         progTotal = len(titleAll)
@@ -64,17 +64,17 @@ class QuotesSpider(scrapy.Spider):
                 + str(begin_xml[ind])
                 + '" stop="'
                 + str(end_xml[ind])
-                + '" channel="wataniya2">\n',
+                + '" channel="wataniya1">\n',
                 '    <title lang="ar">' + str(titleAll[ind]) + "</title>\n",
                 '    <desc lang="ar">' + str(contentAll[ind]) + "</desc>\n",
                 "  </programme>\n",
             ]
-            with open("wataniya2.xml", "a", encoding="utf-8") as file:
+            with open("wataniya1.xml", "a", encoding="utf-8") as file:
                 file.writelines(body)
 
         fin = "</tv>\n"
 
-        with open("wataniya2.xml", "a", encoding="utf-8") as file:
+        with open("wataniya1.xml", "a", encoding="utf-8") as file:
             file.write(fin)
 
         # for program in programs:
