@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">To date, only two tunisian TV channels release a non-curated 24h EPG of their programs (خير من بلاش).  Some other TV providers don't even have a website 👎. This is just not acceptable in 2026.<br><br>This tiny project aims to scrap (circa at midnight when updated by channel websites) the complete schedule of daily programs and store the generated EPG in two XMLTV files:</p>
+<p align="left">To date, only two tunisian TV channels release a non-curated 24h EPG of their programs (خير من بلاش).  Some other TV providers don't even have a website 👎. This is just not acceptable in 2026.<br><br>This tiny project aims to scrap with scrapy the complete schedule of the daily programs of the day (circa at midnight when updated by channel websites) and store the generated EPG in two XMLTV files:</p>
 
 ###
 
