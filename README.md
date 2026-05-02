@@ -43,6 +43,8 @@
 
 ###
 
+<br>
+
 <p align="left">Just specify the url of the XMLTV file into your EPG manager e.g. Dispatcharr and refresh your TV player.</p>
 
 ###
