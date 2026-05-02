@@ -41,6 +41,7 @@
 
 <p align="left">Wataniya 2 | <a href="https://raw.githubusercontent.com/mizou84/epg-xml-TN/refs/heads/main/wataniya2.xml">wataniya2.xml</a></p>
 
+
 ###
 
 <br>
@@ -48,3 +49,8 @@
 <p align="left">Just specify the url of the XMLTV file into your EPG manager e.g. Dispatcharr and refresh your TV player.</p>
 
 ###
+
+
+<h3 align="left">Screenshots:</h3>
+
+<img width="563" height="267" alt="image" src="https://github.com/user-attachments/assets/59e6adc4-3861-42af-b7c2-595c0c895745" />
