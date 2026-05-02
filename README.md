@@ -35,8 +35,6 @@
 
 ###
 
-<br clear="both">
-
 <img align="left" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/langfr-500px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png"  />
 
 ###
