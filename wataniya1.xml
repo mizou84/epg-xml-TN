@@ -4,136 +4,144 @@
     <display-name>Wataniya 1</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/960px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png"/>
   </channel>
-  <programme start="20260505060000 +0100" stop="20260505060100 +0100" channel="wataniya1">
+  <programme start="20260506060000 +0100" stop="20260506060100 +0100" channel="wataniya1">
     <title lang="ar">النشيد الرسمي</title>
     <desc lang="ar">النشيد الرسمي</desc>
   </programme>
-  <programme start="20260505060200 +0100" stop="20260505062200 +0100" channel="wataniya1">
+  <programme start="20260506060200 +0100" stop="20260506061800 +0100" channel="wataniya1">
     <title lang="ar">القرآن الكريم</title>
     <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
   </programme>
-  <programme start="20260505062300 +0100" stop="20260505064400 +0100" channel="wataniya1">
+  <programme start="20260506061900 +0100" stop="20260506064400 +0100" channel="wataniya1">
     <title lang="ar">ابتهالات</title>
     <desc lang="ar">لحظات روحانية مع ابتهالات خاشعة تلامس القلوب وتُحلّق بالأرواح نحو السمو. بكلمات مناجية وأصوات صادقة،… حيث ترتقي الأرواح وتطمئن القلوب.</desc>
   </programme>
-  <programme start="20260505064500 +0100" stop="20260505072900 +0100" channel="wataniya1">
+  <programme start="20260506064500 +0100" stop="20260506072900 +0100" channel="wataniya1">
     <title lang="ar">المسلسل التاريخي ج2: خالد بن الوليد </title>
     <desc lang="ar">المسلسل التاريخي ج2: خالد بن الوليد </desc>
   </programme>
-  <programme start="20260505073000 +0100" stop="20260505081900 +0100" channel="wataniya1">
+  <programme start="20260506073000 +0100" stop="20260506081900 +0100" channel="wataniya1">
     <title lang="ar">قصص من الأرض</title>
     <desc lang="ar">رحلة استكشافية حول أعظم وأطول الأنهار في العالم، والتي كانت مهداً للحضارات وشريان الحياة لملايين الكائنات</desc>
   </programme>
-  <programme start="20260505082000 +0100" stop="20260505085900 +0100" channel="wataniya1">
-    <title lang="ar">محلاها بلادي... تونس البية</title>
-    <desc lang="ar">برنامج يحتفي بجمال تونس يكتشف ملامحها كما نحبّها: أصيلة، متنوّعة، ومليئة بالحياة. هو دعوة لاكتشاف تفاصيل صغيرة تصنع الفرق، وتُبرز روح البلاد في أبسط صورها وأجملها.</desc>
+  <programme start="20260506082000 +0100" stop="20260506085900 +0100" channel="wataniya1">
+    <title lang="ar">تونس المدينة العتيقة</title>
+    <desc lang="ar">رحلة داخل أزقة المدينة العتيقة، حيث يلتقي التاريخ بالحياة اليومية في تناغم فريد. ن خلال معالمها العريقة، وأسواقها النابضة، وحِرفها التقليدية نغوص في ذاكرة المكان، حيث لكل زاوية حكاية، ولكل باب أثر يروي جزءًا من تاريخ تونس.</desc>
   </programme>
-  <programme start="20260505090000 +0100" stop="20260505110400 +0100" channel="wataniya1">
+  <programme start="20260506090000 +0100" stop="20260506105900 +0100" channel="wataniya1">
     <title lang="ar">صباحكم أحلى</title>
     <desc lang="ar">برنامج صباحي متنوّع يجمع بين الفائدة والمتعة، ويواكب اهتمامات العائلة في بداية اليوم.
 يتناول البرنامج أبرز المواضيع التي تهمّ الأسرة التونسية، من أخبار خفيفة ونصائح يومية، إلى فقرات صحية، اجتماعية وثقافية، مع استضافات تضيف قيمة وحيوية للحوار.
 هو موعد صباحي متكامل يمنح بداية يوم إيجابية ويقرّب المشاهد من نبض الحياة اليومية.</desc>
   </programme>
-  <programme start="20260505110500 +0100" stop="20260505113900 +0100" channel="wataniya1">
+  <programme start="20260506110000 +0100" stop="20260506112400 +0100" channel="wataniya1">
     <title lang="ar">ديما عامرة</title>
     <desc lang="ar">من الأكلات الشعبية إلى الأطباق العائلية الغنية، نكتشف معًا أسرار المطبخ التونسي، بلمسة عصرية وروح مليئة بالدفء والكرم</desc>
   </programme>
-  <programme start="20260505114000 +0100" stop="20260505115900 +0100" channel="wataniya1">
-    <title lang="ar">أحكيلي عليها</title>
-    <desc lang="ar">برنامجنا الجديد على الوطنية الأولى بمناسبة شهر رمضان المعظم سوف يأخذنا في جولات داخل الأحياء(الحوم جمع حومة) وفي كل حي أو مدينة سوف تتحدث عن الماضي و الحاضر.
- تذكر بما كان يرويه الأسلاف من حكايات في شكل خرافات حتى نربط الماضي بالحاضر.
-</desc>
+  <programme start="20260506112500 +0100" stop="20260506115900 +0100" channel="wataniya1">
+    <title lang="ar">تونس المزيانة</title>
+    <desc lang="ar">تونس المزيانة</desc>
   </programme>
-  <programme start="20260505120000 +0100" stop="20260505125900 +0100" channel="wataniya1">
-    <title lang="ar">مسرح المدينة</title>
-    <desc lang="ar">حصة أسبوعية تعنى بالمسرح ومواكبة العروض المسرحية الراهنة وتناقشها مع عدد من المسرحيين</desc>
-  </programme>
-  <programme start="20260505130000 +0100" stop="20260505132400 +0100" channel="wataniya1">
-    <title lang="ar">نشرة الظهر للأخبار </title>
-    <desc lang="ar">نشرة الظهر للأخبار </desc>
-  </programme>
-  <programme start="20260505132500 +0100" stop="20260505133900 +0100" channel="wataniya1">
-    <title lang="ar">ولله على الناس حجّ البيت</title>
-    <desc lang="ar">برنامج توعوي يُرافق القاصدين إلى بيت الله الحرام،
-يقدّم الإرشادات الدينية والنصائح العملية الصحية والتنظيمية لأداء مناسك الحج في أفضل الظروف،
-البرنامج بالتعاون بين وزارة الشؤون الدينية والتلفزة التونسية.
-"ولله على الناس حجّ البيت"
-دليلكم إلى رحلة العمر.</desc>
-  </programme>
-  <programme start="20260505134000 +0100" stop="20260505153900 +0100" channel="wataniya1">
-    <title lang="ar">الاثنين الرياضي</title>
-    <desc lang="ar"> موعدكم في سهرة  الاثنين 4 ماي مع برنامج الاثنين الرياضي  على الساعة 20:55 وفيه مواكبة للجولة الثامنة والعشرون للرابطة المحترفة الأولى لكرة القدم.</desc>
-  </programme>
-  <programme start="20260505154000 +0100" stop="20260505165900 +0100" channel="wataniya1">
-    <title lang="ar">حدث وتحليل</title>
-    <desc lang="ar">برنامج 'حدث وتحليل' يجمع نخبة من المحللين ليقدموا لكم قراءة هادئة وسط ضجيج الأخبار. من كواليس السياسة إلى أزمات الاقتصاد، نمنحكم الأدوات لتحليل الواقع واستشراف المستقبل</desc>
-  </programme>
-  <programme start="20260505170000 +0100" stop="20260505172900 +0100" channel="wataniya1">
-    <title lang="ar">النشرة المسائية للأخبار</title>
-    <desc lang="ar">النشرة المسائية للأخبار</desc>
-  </programme>
-  <programme start="20260505173000 +0100" stop="20260505173400 +0100" channel="wataniya1">
-    <title lang="ar">إصدارات</title>
-    <desc lang="ar">ملخص لآخر الاصدارات الادبية والدواوين الشعرية والنشريات الثقافية</desc>
-  </programme>
-  <programme start="20260505173500 +0100" stop="20260505182900 +0100" channel="wataniya1">
-    <title lang="ar">ولله على الناس حجّ البيت</title>
-    <desc lang="ar">برنامج توعوي يُرافق القاصدين إلى بيت الله الحرام،
-يقدّم الإرشادات الدينية والنصائح العملية الصحية والتنظيمية لأداء مناسك الحج في أفضل الظروف،
-البرنامج بالتعاون بين وزارة الشؤون الدينية والتلفزة التونسية.
-"ولله على الناس حجّ البيت"
-دليلكم إلى رحلة العمر.</desc>
-  </programme>
-  <programme start="20260505183000 +0100" stop="20260505195900 +0100" channel="wataniya1">
-    <title lang="ar">تونس الاقتصادية</title>
-    <desc lang="ar">تونس الاقتصادية</desc>
-  </programme>
-  <programme start="20260505200000 +0100" stop="20260505202900 +0100" channel="wataniya1">
-    <title lang="ar">النشرة الرئيسية للأخبار </title>
-    <desc lang="ar">النشرة الرئيسية للأخبار </desc>
-  </programme>
-  <programme start="20260505203000 +0100" stop="20260505203400 +0100" channel="wataniya1">
-    <title lang="ar">النشرة الجوية</title>
-    <desc lang="ar">النشرة الجوية</desc>
-  </programme>
-  <programme start="20260505203500 +0100" stop="20260505212900 +0100" channel="wataniya1">
+  <programme start="20260506120000 +0100" stop="20260506125900 +0100" channel="wataniya1">
     <title lang="ar">مسلسل الدوامة</title>
     <desc lang="ar">يروي المسلسل صراع على قطعة أرض تخفي أسراراً ظلت مخفية في باطنها يجعل عائلتيْ القادري وغانم يتصادمان ليفرقهما حب تملّكها، فيخلق عداوة بين الأبناء بعد ود كان يجمع الآباء. لكن الجيل الجديد من العائلتين رفض أن يقع الزج به في هذه المعركة وخير الحب على الكراهية وتحدي الإملاءات العائلية الجائرة، وراح يبحث وراء السر الذي تخفيه تلك الأرض الملعونة التي فرقت بين العائلتين المتناحرتين. 
 
 </desc>
   </programme>
-  <programme start="20260505213000 +0100" stop="20260505230400 +0100" channel="wataniya1">
-    <title lang="ar">كلامنا فن</title>
-    <desc lang="ar">كلامنا فن</desc>
+  <programme start="20260506130000 +0100" stop="20260506132900 +0100" channel="wataniya1">
+    <title lang="ar">نشرة الظهر للأخبار </title>
+    <desc lang="ar">نشرة الظهر للأخبار </desc>
   </programme>
-  <programme start="20260505230500 +0100" stop="20260505235900 +0100" channel="wataniya1">
+  <programme start="20260506133000 +0100" stop="20260506141400 +0100" channel="wataniya1">
     <title lang="ar">مسلسل عربي الوشم</title>
     <desc lang="ar">في إحدى العشائر البدوية، ينشب خلاف بين رجلان يتصارعان من أجل الظفر بقلب أجمل بنات العشيرة، لكن يتغير كل شيء عندما يقتل أحدهمها الآخر، وتتوالى الأحداث.</desc>
   </programme>
-  <programme start="20260505000000 +0100" stop="20260505001900 +0100" channel="wataniya1">
-    <title lang="ar">نشرة منتصف الليل للأخبار </title>
-    <desc lang="ar">نشرة منتصف الليل للأخبار </desc>
+  <programme start="20260506141500 +0100" stop="20260506144400 +0100" channel="wataniya1">
+    <title lang="ar">مواسم الثقافة</title>
+    <desc lang="ar">مواسم الثقافة</desc>
   </programme>
-  <programme start="20260505002000 +0100" stop="20260505002400 +0100" channel="wataniya1">
-    <title lang="ar">النشرة الجوية</title>
-    <desc lang="ar">النشرة الجوية</desc>
+  <programme start="20260506144500 +0100" stop="20260506153400 +0100" channel="wataniya1">
+    <title lang="ar">ولله على الناس حجّ البيت</title>
+    <desc lang="ar">برنامج توعوي يُرافق القاصدين إلى بيت الله الحرام،
+يقدّم الإرشادات الدينية والنصائح العملية الصحية والتنظيمية لأداء مناسك الحج في أفضل الظروف،
+البرنامج بالتعاون بين وزارة الشؤون الدينية والتلفزة التونسية.
+"ولله على الناس حجّ البيت"
+دليلكم إلى رحلة العمر.</desc>
   </programme>
-  <programme start="20260505002500 +0100" stop="20260505011900 +0100" channel="wataniya1">
-    <title lang="ar">مسلسل من أيام مليحة</title>
-    <desc lang="ar">مسلسل من أيام مليحة</desc>
-  </programme>
-  <programme start="20260505012000 +0100" stop="20260505023400 +0100" channel="wataniya1">
+  <programme start="20260506153500 +0100" stop="20260506165900 +0100" channel="wataniya1">
     <title lang="ar">تونس الاقتصادية</title>
     <desc lang="ar">تونس الاقتصادية</desc>
   </programme>
-  <programme start="20260505023500 +0100" stop="20260505035900 +0100" channel="wataniya1">
-    <title lang="ar">كلامنا فن</title>
-    <desc lang="ar">كلامنا فن</desc>
+  <programme start="20260506170000 +0100" stop="20260506171900 +0100" channel="wataniya1">
+    <title lang="ar">النشرة المسائية للأخبار</title>
+    <desc lang="ar">النشرة المسائية للأخبار</desc>
   </programme>
-  <programme start="20260505040000 +0100" stop="20260505055900 +0100" channel="wataniya1">
+  <programme start="20260506172000 +0100" stop="20260506181400 +0100" channel="wataniya1">
+    <title lang="ar">مسلسل من أيام مليحة</title>
+    <desc lang="ar">مسلسل من أيام مليحة</desc>
+  </programme>
+  <programme start="20260506181500 +0100" stop="20260506185900 +0100" channel="wataniya1">
+    <title lang="ar">تونس الأهلية</title>
+    <desc lang="ar">تونس الأهلية</desc>
+  </programme>
+  <programme start="20260506190000 +0100" stop="20260506195900 +0100" channel="wataniya1">
+    <title lang="ar">جيل المستقبل</title>
+    <desc lang="ar">برنامج يواكب طموحات الشباب التونسي، بين قصص نجاح ملهمة ونقاشات حول تحديات العصر الرقمي والاجتماعي.
+مساحة لصوت الجيل الجديد ورؤيته للمستقبل.
+جيل المستقبل برنامج نصف شهري إعداد وتقديم فاطمة بن جمعة</desc>
+  </programme>
+  <programme start="20260506200000 +0100" stop="20260506204400 +0100" channel="wataniya1">
+    <title lang="ar">النشرة الرئيسية للأخبار </title>
+    <desc lang="ar">النشرة الرئيسية للأخبار </desc>
+  </programme>
+  <programme start="20260506204500 +0100" stop="20260506205400 +0100" channel="wataniya1">
+    <title lang="ar">النشرة الجوية</title>
+    <desc lang="ar">النشرة الجوية</desc>
+  </programme>
+  <programme start="20260506205500 +0100" stop="20260506214400 +0100" channel="wataniya1">
+    <title lang="ar">مسلسل الدوامة</title>
+    <desc lang="ar">يروي المسلسل صراع على قطعة أرض تخفي أسراراً ظلت مخفية في باطنها يجعل عائلتيْ القادري وغانم يتصادمان ليفرقهما حب تملّكها، فيخلق عداوة بين الأبناء بعد ود كان يجمع الآباء. لكن الجيل الجديد من العائلتين رفض أن يقع الزج به في هذه المعركة وخير الحب على الكراهية وتحدي الإملاءات العائلية الجائرة، وراح يبحث وراء السر الذي تخفيه تلك الأرض الملعونة التي فرقت بين العائلتين المتناحرتين. 
+
+</desc>
+  </programme>
+  <programme start="20260506214500 +0100" stop="20260506230400 +0100" channel="wataniya1">
+    <title lang="ar">منابع</title>
+    <desc lang="ar">منابع</desc>
+  </programme>
+  <programme start="20260506230500 +0100" stop="20260506235900 +0100" channel="wataniya1">
+    <title lang="ar">مسلسل عربي الوشم</title>
+    <desc lang="ar">في إحدى العشائر البدوية، ينشب خلاف بين رجلان يتصارعان من أجل الظفر بقلب أجمل بنات العشيرة، لكن يتغير كل شيء عندما يقتل أحدهمها الآخر، وتتوالى الأحداث.</desc>
+  </programme>
+  <programme start="20260506000000 +0100" stop="20260506001900 +0100" channel="wataniya1">
+    <title lang="ar">نشرة منتصف الليل للأخبار </title>
+    <desc lang="ar">نشرة منتصف الليل للأخبار </desc>
+  </programme>
+  <programme start="20260506002000 +0100" stop="20260506002400 +0100" channel="wataniya1">
+    <title lang="ar">النشرة الجوية</title>
+    <desc lang="ar">النشرة الجوية</desc>
+  </programme>
+  <programme start="20260506002500 +0100" stop="20260506011900 +0100" channel="wataniya1">
+    <title lang="ar">مسلسل من أيام مليحة</title>
+    <desc lang="ar">مسلسل من أيام مليحة</desc>
+  </programme>
+  <programme start="20260506012000 +0100" stop="20260506020400 +0100" channel="wataniya1">
+    <title lang="ar">تونس الأهلية</title>
+    <desc lang="ar">تونس الأهلية</desc>
+  </programme>
+  <programme start="20260506020500 +0100" stop="20260506025900 +0100" channel="wataniya1">
+    <title lang="ar">جيل المستقبل</title>
+    <desc lang="ar">برنامج يواكب طموحات الشباب التونسي، بين قصص نجاح ملهمة ونقاشات حول تحديات العصر الرقمي والاجتماعي.
+مساحة لصوت الجيل الجديد ورؤيته للمستقبل.
+جيل المستقبل برنامج نصف شهري إعداد وتقديم فاطمة بن جمعة</desc>
+  </programme>
+  <programme start="20260506030000 +0100" stop="20260506045900 +0100" channel="wataniya1">
     <title lang="ar">صباحكم أحلى</title>
     <desc lang="ar">برنامج صباحي متنوّع يجمع بين الفائدة والمتعة، ويواكب اهتمامات العائلة في بداية اليوم.
 يتناول البرنامج أبرز المواضيع التي تهمّ الأسرة التونسية، من أخبار خفيفة ونصائح يومية، إلى فقرات صحية، اجتماعية وثقافية، مع استضافات تضيف قيمة وحيوية للحوار.
 هو موعد صباحي متكامل يمنح بداية يوم إيجابية ويقرّب المشاهد من نبض الحياة اليومية.</desc>
+  </programme>
+  <programme start="20260506050000 +0100" stop="20260506055900 +0100" channel="wataniya1">
+    <title lang="ar">قصص من الأرض</title>
+    <desc lang="ar">رحلة استكشافية حول أعظم وأطول الأنهار في العالم، والتي كانت مهداً للحضارات وشريان الحياة لملايين الكائنات</desc>
   </programme>
 </tv>
