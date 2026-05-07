@@ -4,98 +4,88 @@
     <display-name>Wataniya 2</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/langfr-500px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png"/>
   </channel>
-  <programme start="20260507060000 +0100" stop="20260507060100 +0100" channel="wataniya2">
+  <programme start="20260508060000 +0100" stop="20260508060100 +0100" channel="wataniya2">
     <title lang="ar">النشيد الرسمي</title>
     <desc lang="ar">النشيد الرسمي</desc>
   </programme>
-  <programme start="20260507060200 +0100" stop="20260507061700 +0100" channel="wataniya2">
+  <programme start="20260508060200 +0100" stop="20260508061800 +0100" channel="wataniya2">
     <title lang="ar">القرآن الكريم</title>
     <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
   </programme>
-  <programme start="20260507061800 +0100" stop="20260507062900 +0100" channel="wataniya2">
+  <programme start="20260508061900 +0100" stop="20260508063000 +0100" channel="wataniya2">
     <title lang="ar">ابتهالات</title>
     <desc lang="ar">لحظات روحانية مع ابتهالات خاشعة تلامس القلوب وتُحلّق بالأرواح نحو السمو. بكلمات مناجية وأصوات صادقة،… حيث ترتقي الأرواح وتطمئن القلوب.</desc>
   </programme>
-  <programme start="20260507063000 +0100" stop="20260507070400 +0100" channel="wataniya2">
-    <title lang="ar">مقتطفات من حفل فيروز</title>
-    <desc lang="ar">مقتطفات من حفل فيروز</desc>
+  <programme start="20260508063000 +0100" stop="20260508070400 +0100" channel="wataniya2">
+    <title lang="ar">مقتطفات من أغاني أحمد جلمام</title>
+    <desc lang="ar">مقتطفات من أغاني أحمد جلمام</desc>
   </programme>
-  <programme start="20260507070500 +0100" stop="20260507075900 +0100" channel="wataniya2">
+  <programme start="20260508070500 +0100" stop="20260508080900 +0100" channel="wataniya2">
     <title lang="ar">تبّعني</title>
     <desc lang="ar">دعوة لاكتشاف تونس بعيون جديدة، حيث تتقاطع الطبيعة مع التاريخ في لوحات نابضة بالحياة. من الشواطئ الساحرة إلى الجبال والواحات، ومن المدن العريقة إلى القرى الهادئة، يعرّفكم البرنامج على أبرز الوجهات السياحية وأجمل المناطق الطبيعية، ويكشف خفايا أماكن قد لا يعرفها الكثيرون</desc>
   </programme>
-  <programme start="20260507080000 +0100" stop="20260507083400 +0100" channel="wataniya2">
+  <programme start="20260508081000 +0100" stop="20260508084400 +0100" channel="wataniya2">
     <title lang="ar">سلسلة خضراء والكنز </title>
     <desc lang="ar">سلسلة هزلية ومواقف طريف </desc>
   </programme>
-  <programme start="20260507083500 +0100" stop="20260507094400 +0100" channel="wataniya2">
-    <title lang="ar">وثائقي: أحيانا نغني أثناء التصوير</title>
-    <desc lang="ar">في قلب المدينة العتيقة، حيث يمتزج عبق الأزقة بصخب الحياة، يروي سوق القماش حكاية زمنٍ حيّ لم ينقطع. هذا الوثائقي يغوص في تاريخ السوق وعلاقته بـجامع الزيتونة المعمور، حيث كان الأئمة من روّاده، في تداخل فريد بين العلم والتجارة.
-وبمرافقة باحث في الأنثروبولوجيا، نكتشف كيف ظلّ السوق يحافظ على روحه، رابطًا بين ذاكرة الماضي وتحولات الحاضر.
-</desc>
+  <programme start="20260508084500 +0100" stop="20260508093400 +0100" channel="wataniya2">
+    <title lang="ar">شريط وثائقي: نوافذ البراق</title>
+    <desc lang="ar">شريط وثائقي: نوافذ البراق</desc>
   </programme>
-  <programme start="20260507094500 +0100" stop="20260507095900 +0100" channel="wataniya2">
+  <programme start="20260508093500 +0100" stop="20260508095900 +0100" channel="wataniya2">
     <title lang="ar">صنعة إيديك</title>
     <desc lang="ar">صنعة إيديك</desc>
   </programme>
-  <programme start="20260507100000 +0100" stop="20260507112900 +0100" channel="wataniya2">
-    <title lang="ar">نقل مباشر لفعاليات مجلس الجهات والأقاليم</title>
-    <desc lang="ar">نقل مباشر لفعاليات مجلس الجهات والأقاليم</desc>
+  <programme start="20260508100000 +0100" stop="20260508122400 +0100" channel="wataniya2">
+    <title lang="ar">نقل مباشر لجلسات مجلس نواب الشعب </title>
+    <desc lang="ar">نقل مباشر لجلسات مجلس نواب الشعب </desc>
   </programme>
-  <programme start="20260507113000 +0100" stop="20260507125900 +0100" channel="wataniya2">
-    <title lang="ar">كرة القدم: نجم المتلوي - النجم الساحلي   (تسجيل)</title>
-    <desc lang="ar">كرة القدم: نجم المتلوي - النجم الساحلي   (تسجيل)</desc>
+  <programme start="20260508122500 +0100" stop="20260508125400 +0100" channel="wataniya2">
+    <title lang="ar">مقتطفات من أغاني أحمد جلمام</title>
+    <desc lang="ar">مقتطفات من أغاني أحمد جلمام</desc>
   </programme>
-  <programme start="20260507130000 +0100" stop="20260507140400 +0100" channel="wataniya2">
-    <title lang="ar">الثانية مباشر</title>
-    <desc lang="ar">الثانية مباشر</desc>
+  <programme start="20260508125500 +0100" stop="20260508125900 +0100" channel="wataniya2">
+    <title lang="ar">القرآن الكريم</title>
+    <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
   </programme>
-  <programme start="20260507140500 +0100" stop="20260507144400 +0100" channel="wataniya2">
+  <programme start="20260508130000 +0100" stop="20260508132900 +0100" channel="wataniya2">
+    <title lang="ar">خطبة وصلاة الجمعة</title>
+    <desc lang="ar">موعد أسبوعي يجمع بين العبادة والتأملفي  نقل مباشر لخطبة وصلاة الجمعة من أحد الجوامع التونسية</desc>
+  </programme>
+  <programme start="20260508133000 +0100" stop="20260508134900 +0100" channel="wataniya2">
+    <title lang="ar">ابتهالات</title>
+    <desc lang="ar">لحظات روحانية مع ابتهالات خاشعة تلامس القلوب وتُحلّق بالأرواح نحو السمو. بكلمات مناجية وأصوات صادقة،… حيث ترتقي الأرواح وتطمئن القلوب.</desc>
+  </programme>
+  <programme start="20260508135000 +0100" stop="20260508154400 +0100" channel="wataniya2">
+    <title lang="ar">الكرة الطائرة: النجم الرياضي الساحلي /مولدية بوسالم</title>
+    <desc lang="ar">الكرة الطائرة: النجم الرياضي الساحلي /مولدية بوسالم</desc>
+  </programme>
+  <programme start="20260508154500 +0100" stop="20260508174400 +0100" channel="wataniya2">
+    <title lang="ar">كرة القدم: شبيبة القيروان/ الإتحاد الرياضي المنستيري</title>
+    <desc lang="ar">كرة القدم: شبيبة القيروان/ الإتحاد الرياضي المنستيري</desc>
+  </programme>
+  <programme start="20260508174500 +0100" stop="20260508192900 +0100" channel="wataniya2">
+    <title lang="ar">كرة اليد: النجم الرياضي الساحلي/الترجي الرياضي التونسي</title>
+    <desc lang="ar">كرة اليد: النجم الرياضي الساحلي/الترجي الرياضي التونسي</desc>
+  </programme>
+  <programme start="20260508193000 +0100" stop="20260508202900 +0100" channel="wataniya2">
+    <title lang="ar">مسلسل : يا زهرة في خيالي </title>
+    <desc lang="ar">مسلسل اجتماعي كوميدي يتناول العلاقة بين الرجل والمرأة، من خلال علاقة حب بين شاب وفتاة تواجه العديد من التحديات، منها معارضة أهل الفتاة للزيجة، ومحاولة صديق الشاب إبعاده عنها.</desc>
+  </programme>
+  <programme start="20260508203000 +0100" stop="20260508211400 +0100" channel="wataniya2">
     <title lang="ar">شوفلي حل</title>
     <desc lang="ar">شوفلي حل</desc>
   </programme>
-  <programme start="20260507144500 +0100" stop="20260507152900 +0100" channel="wataniya2">
-    <title lang="ar">شريط وثائقي: الفن المعماري في الجريد التونسي </title>
-    <desc lang="ar">شريط وثائقي: الفن المعماري في الجريد التونسي </desc>
+  <programme start="20260508211500 +0100" stop="20260508220900 +0100" channel="wataniya2">
+    <title lang="ar">مسلسل الريحانة</title>
+    <desc lang="ar">دراما تونسية تتناول قصة امرأة ثرية يحاول زوجها القيام بخداعها للاستيلاء على أملاكها وهى دائمًا المرأة الطيبة ذات المشاعر الفياضة التي تعامل جميع من حولها بود وحب.</desc>
   </programme>
-  <programme start="20260507153000 +0100" stop="20260507172400 +0100" channel="wataniya2">
-    <title lang="ar">كرة القدم: شبيبة القيروان - اتحاد بنقردان</title>
-    <desc lang="ar">نقل مباشر من ملعب حمدة العواني لمباراة الشبيبة القيروان واتحاد بنقردان في إطار الجولة السابعة والعشرون للرابطة المحترفة الأولى لكرة القدم </desc>
+  <programme start="20260508221000 +0100" stop="20260508230000 +0100" channel="wataniya2">
+    <title lang="ar">مسلسل لبناني نص يوم</title>
+    <desc lang="ar">تبدأ أحداث العمل بوفاة رجل لديه إقطاعية زيتون واسعة، فيعود ابنه المغترب (ميار) إلى البلاد لإنهاء كل الالتزامات المهنية والعائلية للسفر من جديد، إلا أنه يقع في غرام فتاة جميلة اسمها (يارا)، وهو ما يجعله يلغي سفره ويبقي في البلاد. وتمر الأحداث بالعديد من الصراعات ضمن قالب بوليسي مشوق بعد اكتشاف الشاب بأن حبيبته امرأة لعوب ومحتالة.</desc>
   </programme>
-  <programme start="20260507172500 +0100" stop="20260507175900 +0100" channel="wataniya2">
-    <title lang="ar">صور متحركة</title>
-    <desc lang="ar">صور متحركة</desc>
-  </programme>
-  <programme start="20260507180000 +0100" stop="20260507192900 +0100" channel="wataniya2">
-    <title lang="ar">كرة القدم: مستقبل المرسى - الترجي الجرجيسي   (تسجيل)</title>
-    <desc lang="ar">كرة القدم: مستقبل المرسى - الترجي الجرجيسي   (تسجيل) </desc>
-  </programme>
-  <programme start="20260507193000 +0100" stop="20260507195900 +0100" channel="wataniya2">
-    <title lang="ar">محلاها بلادي... تونس البية</title>
-    <desc lang="ar">برنامج يحتفي بجمال تونس يكتشف ملامحها كما نحبّها: أصيلة، متنوّعة، ومليئة بالحياة. هو دعوة لاكتشاف تفاصيل صغيرة تصنع الفرق، وتُبرز روح البلاد في أبسط صورها وأجملها.</desc>
-  </programme>
-  <programme start="20260507200000 +0100" stop="20260507202900 +0100" channel="wataniya2">
-    <title lang="ar">سلة سلة</title>
-    <desc lang="ar">في إطار كوميدي، تدور أحداث المسلسل بشكل ساخر داخل أحد المطاعم، حيث تدير (ليلى) وزوجها مطعمًا في دبي وتدخل إحدى المؤثرات عبر مواقع التواصل الاجتماعي إلى حياتهما فجأة، وتحاول إدخال الطعام الصحي للمطعم، ويتعرض العمل للعلاقات الأسرية.</desc>
-  </programme>
-  <programme start="20260507203000 +0100" stop="20260507211400 +0100" channel="wataniya2">
-    <title lang="ar">شوفلي حل</title>
-    <desc lang="ar">شوفلي حل</desc>
-  </programme>
-  <programme start="20260507211500 +0100" stop="20260507220900 +0100" channel="wataniya2">
-    <title lang="ar">مسلسل الدوار</title>
-    <desc lang="ar">تدور أحداث المسلسل في قرية صغيرة اسمه الدوار تابعة لمدينة توزر بالجنوب التونسي، يتحكم في هذه القرية رجل ظالم تزوج أرملة طمعًا في مالها وأصبح يتحكم فيه بدلا من ابنها وابنتها ويعاملهم معاملة قاسية.</desc>
-  </programme>
-  <programme start="20260507221000 +0100" stop="20260507225400 +0100" channel="wataniya2">
-    <title lang="ar">سوبر فاميلي الجزء 2</title>
-    <desc lang="ar">سوبر فاميلي هو مسلسل اجتماعي كوميدي سوري</desc>
-  </programme>
-  <programme start="20260507225500 +0100" stop="20260507231900 +0100" channel="wataniya2">
-    <title lang="ar">سلة سلة</title>
-    <desc lang="ar">في إطار كوميدي، تدور أحداث المسلسل بشكل ساخر داخل أحد المطاعم، حيث تدير (ليلى) وزوجها مطعمًا في دبي وتدخل إحدى المؤثرات عبر مواقع التواصل الاجتماعي إلى حياتهما فجأة، وتحاول إدخال الطعام الصحي للمطعم، ويتعرض العمل للعلاقات الأسرية.</desc>
-  </programme>
-  <programme start="20260507232000 +0100" stop="20260507235900 +0100" channel="wataniya2">
-    <title lang="ar">فقرة غنائية: أم كلثوم</title>
-    <desc lang="ar">فقرة غنائية: أم كلثوم</desc>
+  <programme start="20260508230100 +0100" stop="20260508235900 +0100" channel="wataniya2">
+    <title lang="ar">و الله زمان</title>
+    <desc lang="ar">لأن الأمم بثقافاتها تنهض و لأن الأمجاد تخط بسواعد مبدعيها...و لان لا خير في جيل تنكر لماضيه..ارتأينا هذا العمل الذي أردناه توثيقا و لمسة شكر لهؤلاء...مبدعين و فنانين كانوا و لازالوا صناعا للأمجاد.</desc>
   </programme>
 </tv>
