@@ -4,88 +4,112 @@
     <display-name>Wataniya 2</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/langfr-500px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png"/>
   </channel>
-  <programme start="20260521060000 +0100" stop="20260521060100 +0100" channel="wataniya2">
+  <programme start="20260522060000 +0100" stop="20260522060100 +0100" channel="wataniya2">
     <title lang="ar">النشيد الرسمي</title>
     <desc lang="ar">النشيد الرسمي</desc>
   </programme>
-  <programme start="20260521060200 +0100" stop="20260521062200 +0100" channel="wataniya2">
+  <programme start="20260522060200 +0100" stop="20260522061900 +0100" channel="wataniya2">
     <title lang="ar">القرآن الكريم</title>
     <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
   </programme>
-  <programme start="20260521062300 +0100" stop="20260521062900 +0100" channel="wataniya2">
+  <programme start="20260522062000 +0100" stop="20260522063000 +0100" channel="wataniya2">
     <title lang="ar">ابتهالات</title>
     <desc lang="ar">لحظات روحانية مع ابتهالات خاشعة تلامس القلوب وتُحلّق بالأرواح نحو السمو. بكلمات مناجية وأصوات صادقة،… حيث ترتقي الأرواح وتطمئن القلوب.</desc>
   </programme>
-  <programme start="20260521063000 +0100" stop="20260521070400 +0100" channel="wataniya2">
-    <title lang="ar">مقتطفات من حفل فيروز</title>
-    <desc lang="ar">مقتطفات من حفل فيروز</desc>
+  <programme start="20260522063000 +0100" stop="20260522070400 +0100" channel="wataniya2">
+    <title lang="ar">مقتطفات من أغاني أحمد جلمام</title>
+    <desc lang="ar">مقتطفات من أغاني أحمد جلمام</desc>
   </programme>
-  <programme start="20260521070500 +0100" stop="20260521080900 +0100" channel="wataniya2">
+  <programme start="20260522070500 +0100" stop="20260522080900 +0100" channel="wataniya2">
     <title lang="ar">تبّعني</title>
     <desc lang="ar">دعوة لاكتشاف تونس بعيون جديدة، حيث تتقاطع الطبيعة مع التاريخ في لوحات نابضة بالحياة. من الشواطئ الساحرة إلى الجبال والواحات، ومن المدن العريقة إلى القرى الهادئة، يعرّفكم البرنامج على أبرز الوجهات السياحية وأجمل المناطق الطبيعية، ويكشف خفايا أماكن قد لا يعرفها الكثيرون</desc>
   </programme>
-  <programme start="20260521081000 +0100" stop="20260521084400 +0100" channel="wataniya2">
+  <programme start="20260522081000 +0100" stop="20260522084400 +0100" channel="wataniya2">
     <title lang="ar">سلسلة خضراء والكنز </title>
     <desc lang="ar">سلسلة هزلية ومواقف طريف </desc>
   </programme>
-  <programme start="20260521084500 +0100" stop="20260521093900 +0100" channel="wataniya2">
+  <programme start="20260522084500 +0100" stop="20260522091400 +0100" channel="wataniya2">
+    <title lang="ar">في حضرة الزيتونة</title>
+    <desc lang="ar">وثائقي يروي تاريخ جامع الزيتونة المعمور و علمائه و أبرز محطات التأسيس و النشأة مع إعادة تسجيد لفترات تاريخية و حضارات مرت على تونس.</desc>
+  </programme>
+  <programme start="20260522091500 +0100" stop="20260522101400 +0100" channel="wataniya2">
     <title lang="ar">مسلسل : يا زهرة في خيالي </title>
     <desc lang="ar">مسلسل اجتماعي كوميدي يتناول العلاقة بين الرجل والمرأة، من خلال علاقة حب بين شاب وفتاة تواجه العديد من التحديات، منها معارضة أهل الفتاة للزيجة، ومحاولة صديق الشاب إبعاده عنها.</desc>
   </programme>
-  <programme start="20260521094000 +0100" stop="20260521114400 +0100" channel="wataniya2">
-    <title lang="ar">سبور ماكس</title>
-    <desc lang="ar">سبور ماكس</desc>
+  <programme start="20260522101500 +0100" stop="20260522105900 +0100" channel="wataniya2">
+    <title lang="ar">شريط وثائقي: القيروان رغم النسيان</title>
+    <desc lang="ar">شريط وثائقي: القيروان رغم النسيان</desc>
   </programme>
-  <programme start="20260521114500 +0100" stop="20260521125900 +0100" channel="wataniya2">
-    <title lang="ar">صور متحركة</title>
-    <desc lang="ar">صور متحركة</desc>
-  </programme>
-  <programme start="20260521130000 +0100" stop="20260521140400 +0100" channel="wataniya2">
-    <title lang="ar">الثانية مباشر</title>
-    <desc lang="ar">الثانية مباشر</desc>
-  </programme>
-  <programme start="20260521140500 +0100" stop="20260521144900 +0100" channel="wataniya2">
-    <title lang="ar">شوفلي حل</title>
-    <desc lang="ar">شوفلي حل</desc>
-  </programme>
-  <programme start="20260521145000 +0100" stop="20260521152900 +0100" channel="wataniya2">
-    <title lang="ar">الفايجة... كاف النقشة</title>
-    <desc lang="ar">الفايجة محمية طبيعية عالمية، تمتاز بغابات الزان والفرنان الكثيفة، وهي الملاذ الأخير للأيل الأطلسي. لكن جمالها لا يتوقف عند الطبيعة الخضراء، بل يمتد إلى تشكيلاتها الصخرية العملاقة التي اتخذها الإنسان قديماً حصوناً ومساكن.</desc>
-  </programme>
-  <programme start="20260521153000 +0100" stop="20260521171900 +0100" channel="wataniya2">
-    <title lang="ar">كرة القدم: تقدم ساقية الداير - شبيبة العمران</title>
-    <desc lang="ar">نقل مباشر من الملعب البلدي بساقية الداير لمباراة تقدم ساقية الداير وشبيبة العمران في إطار الدور الربع النهائي لكّأس تونس لكرة القدم</desc>
-  </programme>
-  <programme start="20260521172000 +0100" stop="20260521180400 +0100" channel="wataniya2">
-    <title lang="ar">صور متحركة</title>
-    <desc lang="ar">صور متحركة</desc>
-  </programme>
-  <programme start="20260521180500 +0100" stop="20260521190900 +0100" channel="wataniya2">
-    <title lang="ar">الثانية مباشر</title>
-    <desc lang="ar">الثانية مباشر</desc>
-  </programme>
-  <programme start="20260521191000 +0100" stop="20260521201400 +0100" channel="wataniya2">
-    <title lang="ar">مسلسل : يا زهرة في خيالي </title>
-    <desc lang="ar">مسلسل اجتماعي كوميدي يتناول العلاقة بين الرجل والمرأة، من خلال علاقة حب بين شاب وفتاة تواجه العديد من التحديات، منها معارضة أهل الفتاة للزيجة، ومحاولة صديق الشاب إبعاده عنها.</desc>
-  </programme>
-  <programme start="20260521201500 +0100" stop="20260521202900 +0100" channel="wataniya2">
+  <programme start="20260522110000 +0100" stop="20260522111900 +0100" channel="wataniya2">
     <title lang="ar">سلسلة حلو و حار</title>
     <desc lang="ar">سلسلة حلو و حار</desc>
   </programme>
-  <programme start="20260521203000 +0100" stop="20260521212400 +0100" channel="wataniya2">
+  <programme start="20260522112000 +0100" stop="20260522122400 +0100" channel="wataniya2">
+    <title lang="ar">صور متحركة</title>
+    <desc lang="ar">صور متحركة</desc>
+  </programme>
+  <programme start="20260522122500 +0100" stop="20260522125400 +0100" channel="wataniya2">
+    <title lang="ar">مقتطفات من أغاني أحمد جلمام</title>
+    <desc lang="ar">مقتطفات من أغاني أحمد جلمام</desc>
+  </programme>
+  <programme start="20260522125500 +0100" stop="20260522125900 +0100" channel="wataniya2">
+    <title lang="ar">القرآن الكريم</title>
+    <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
+  </programme>
+  <programme start="20260522130000 +0100" stop="20260522133900 +0100" channel="wataniya2">
+    <title lang="ar">خطبة وصلاة الجمعة</title>
+    <desc lang="ar">موعد أسبوعي يجمع بين العبادة والتأملفي  نقل مباشر لخطبة وصلاة الجمعة من أحد الجوامع التونسية</desc>
+  </programme>
+  <programme start="20260522134000 +0100" stop="20260522142400 +0100" channel="wataniya2">
     <title lang="ar">شوفلي حل</title>
     <desc lang="ar">شوفلي حل</desc>
   </programme>
-  <programme start="20260521212500 +0100" stop="20260521222900 +0100" channel="wataniya2">
+  <programme start="20260522142500 +0100" stop="20260522152900 +0100" channel="wataniya2">
     <title lang="ar">مسلسل الريحانة</title>
     <desc lang="ar">دراما تونسية تتناول قصة امرأة ثرية يحاول زوجها القيام بخداعها للاستيلاء على أملاكها وهى دائمًا المرأة الطيبة ذات المشاعر الفياضة التي تعامل جميع من حولها بود وحب.</desc>
   </programme>
-  <programme start="20260521223000 +0100" stop="20260521231400 +0100" channel="wataniya2">
+  <programme start="20260522153000 +0100" stop="20260522162400 +0100" channel="wataniya2">
+    <title lang="ar">سهرة من الأرشيف </title>
+    <desc lang="ar"> سهرة من الأرشيف </desc>
+  </programme>
+  <programme start="20260522162500 +0100" stop="20260522165400 +0100" channel="wataniya2">
+    <title lang="ar">وثائقي: جربة قباب من نور</title>
+    <desc lang="ar">"جربة… قباب من نور" وثائقي يستكشف جمال العمارة في جزيرة جربة، حيث تروي القباب البيضاء حكاية المكان والذاكرة. </desc>
+  </programme>
+  <programme start="20260522165500 +0100" stop="20260522174400 +0100" channel="wataniya2">
     <title lang="ar">مسلسل لبناني نص يوم</title>
     <desc lang="ar">تبدأ أحداث العمل بوفاة رجل لديه إقطاعية زيتون واسعة، فيعود ابنه المغترب (ميار) إلى البلاد لإنهاء كل الالتزامات المهنية والعائلية للسفر من جديد، إلا أنه يقع في غرام فتاة جميلة اسمها (يارا)، وهو ما يجعله يلغي سفره ويبقي في البلاد. وتمر الأحداث بالعديد من الصراعات ضمن قالب بوليسي مشوق بعد اكتشاف الشاب بأن حبيبته امرأة لعوب ومحتالة.</desc>
   </programme>
-  <programme start="20260521231500 +0100" stop="20260521235900 +0100" channel="wataniya2">
-    <title lang="ar">فقرة غنائية: أم كلثوم</title>
-    <desc lang="ar">فقرة غنائية: أم كلثوم</desc>
+  <programme start="20260522174500 +0100" stop="20260522182900 +0100" channel="wataniya2">
+    <title lang="ar">صور متحركة</title>
+    <desc lang="ar">صور متحركة</desc>
+  </programme>
+  <programme start="20260522183000 +0100" stop="20260522190900 +0100" channel="wataniya2">
+    <title lang="ar">محلاها بلادي... تونس البية</title>
+    <desc lang="ar">برنامج يحتفي بجمال تونس يكتشف ملامحها كما نحبّها: أصيلة، متنوّعة، ومليئة بالحياة. هو دعوة لاكتشاف تفاصيل صغيرة تصنع الفرق، وتُبرز روح البلاد في أبسط صورها وأجملها.</desc>
+  </programme>
+  <programme start="20260522191000 +0100" stop="20260522201400 +0100" channel="wataniya2">
+    <title lang="ar">مسلسل: أمواج</title>
+    <desc lang="ar">سناء فتاة جميلة وطيبة ومدللة من قبل والدها "مالك". يتوفى والدها ويترك لها ارثا كبيرا فيغار منها عمها وعمتها ويقرران التخلص منها باستعمال كل الطريق لكنهما لا ينجحان خاصة بوجود أشخاص مقربين منها يحولون دون تنفيذ مخططاتهما.</desc>
+  </programme>
+  <programme start="20260522201500 +0100" stop="20260522202900 +0100" channel="wataniya2">
+    <title lang="ar">سلسلة حلو و حار</title>
+    <desc lang="ar">سلسلة حلو و حار</desc>
+  </programme>
+  <programme start="20260522203000 +0100" stop="20260522212400 +0100" channel="wataniya2">
+    <title lang="ar">شوفلي حل</title>
+    <desc lang="ar">شوفلي حل</desc>
+  </programme>
+  <programme start="20260522212500 +0100" stop="20260522222900 +0100" channel="wataniya2">
+    <title lang="ar">مسلسل الريحانة</title>
+    <desc lang="ar">دراما تونسية تتناول قصة امرأة ثرية يحاول زوجها القيام بخداعها للاستيلاء على أملاكها وهى دائمًا المرأة الطيبة ذات المشاعر الفياضة التي تعامل جميع من حولها بود وحب.</desc>
+  </programme>
+  <programme start="20260522223000 +0100" stop="20260522231900 +0100" channel="wataniya2">
+    <title lang="ar">ذكريات "محمد كوكة"</title>
+    <desc lang="ar">ذكريات "محمد كوكة"</desc>
+  </programme>
+  <programme start="20260522232000 +0100" stop="20260522235900 +0100" channel="wataniya2">
+    <title lang="ar">مسلسل لبناني نص يوم</title>
+    <desc lang="ar">تبدأ أحداث العمل بوفاة رجل لديه إقطاعية زيتون واسعة، فيعود ابنه المغترب (ميار) إلى البلاد لإنهاء كل الالتزامات المهنية والعائلية للسفر من جديد، إلا أنه يقع في غرام فتاة جميلة اسمها (يارا)، وهو ما يجعله يلغي سفره ويبقي في البلاد. وتمر الأحداث بالعديد من الصراعات ضمن قالب بوليسي مشوق بعد اكتشاف الشاب بأن حبيبته امرأة لعوب ومحتالة.</desc>
   </programme>
 </tv>
