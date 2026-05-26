@@ -4,92 +4,104 @@
     <display-name>Wataniya 1</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/960px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png"/>
   </channel>
-  <programme start="20260526060000 +0100" stop="20260526060100 +0100" channel="wataniya1">
+  <programme start="20260527060000 +0100" stop="20260527060100 +0100" channel="wataniya1">
     <title lang="ar">النشيد الرسمي</title>
     <desc lang="ar">النشيد الرسمي</desc>
   </programme>
-  <programme start="20260526060200 +0100" stop="20260526062200 +0100" channel="wataniya1">
+  <programme start="20260527060200 +0100" stop="20260527061900 +0100" channel="wataniya1">
     <title lang="ar">القرآن الكريم</title>
     <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
   </programme>
-  <programme start="20260526062300 +0100" stop="20260526064400 +0100" channel="wataniya1">
+  <programme start="20260527062000 +0100" stop="20260527064400 +0100" channel="wataniya1">
     <title lang="ar">ابتهالات</title>
     <desc lang="ar">لحظات روحانية مع ابتهالات خاشعة تلامس القلوب وتُحلّق بالأرواح نحو السمو. بكلمات مناجية وأصوات صادقة،… حيث ترتقي الأرواح وتطمئن القلوب.</desc>
   </programme>
-  <programme start="20260526063000 +0100" stop="20260526065900 +0100" channel="wataniya1">
+  <programme start="20260527064500 +0100" stop="20260527073400 +0100" channel="wataniya1">
     <title lang="ar">المسلسل التاريخي ج2: خالد بن الوليد </title>
     <desc lang="ar">المسلسل التاريخي ج2: خالد بن الوليد </desc>
   </programme>
-  <programme start="20260526070000 +0100" stop="20260526075900 +0100" channel="wataniya1">
-    <title lang="ar">في كنف الله</title>
-    <desc lang="ar">وثائقي يستعرض التاريخ الروحاني والاجتماعي لمدينة تونس العتيقة من خلال تسليط الضوء على حياة العباد والزهاد ودور الزوايا الصوفية.</desc>
+  <programme start="20260527073500 +0100" stop="20260527080900 +0100" channel="wataniya1">
+    <title lang="ar">في حضرة الزيتونة</title>
+    <desc lang="ar">وثائقي يروي تاريخ جامع الزيتونة المعمور و علمائه و أبرز محطات التأسيس و النشأة مع إعادة تسجيد لفترات تاريخية و حضارات مرت على تونس.</desc>
   </programme>
-  <programme start="20260526080000 +0100" stop="20260526085900 +0100" channel="wataniya1">
-    <title lang="ar">الدين و الحياة</title>
-    <desc lang="ar">برنامج يُقارب القضايا الدينية في ارتباطها بحياتنا اليومية، ويطرح أسئلة الواقع برؤية معتدلة تجمع بين الفهم الصحيح والتطبيق العملي.</desc>
+  <programme start="20260527081000 +0100" stop="20260527091400 +0100" channel="wataniya1">
+    <title lang="ar">وثائقي: جربة قباب من نور</title>
+    <desc lang="ar">"جربة… قباب من نور" وثائقي يستكشف جمال العمارة في جزيرة جربة، حيث تروي القباب البيضاء حكاية المكان والذاكرة. </desc>
   </programme>
-  <programme start="20260526090000 +0100" stop="20260526125900 +0100" channel="wataniya1">
-    <title lang="ar">وقفة عرفة</title>
-    <desc lang="ar">يوم عرفة هو اليوم التاسع من شهر ذي الحجة، وهو ركن الحج الأعظم الذي يقف فيه الحجاج على جبل عرفات. </desc>
+  <programme start="20260527091500 +0100" stop="20260527105900 +0100" channel="wataniya1">
+    <title lang="ar">مقتطفات من أغاني أحمد جلمام</title>
+    <desc lang="ar">مقتطفات من أغاني أحمد جلمام</desc>
   </programme>
-  <programme start="20260526130000 +0100" stop="20260526132900 +0100" channel="wataniya1">
+  <programme start="20260527110000 +0100" stop="20260527125900 +0100" channel="wataniya1">
+    <title lang="ar">منوعة خاصة بعيد الأضحى المبارك</title>
+    <desc lang="ar">حصة خاصة بعيد الأضحى تجمع بين الفقرات الدينية والترفيهية، وتنقل أجواء البهجة والتحضيرات المرتبطة بهذه المناسبة المباركة.</desc>
+  </programme>
+  <programme start="20260527130000 +0100" stop="20260527131900 +0100" channel="wataniya1">
     <title lang="ar">نشرة الظهر للأخبار </title>
     <desc lang="ar">نشرة الظهر للأخبار </desc>
   </programme>
-  <programme start="20260526133000 +0100" stop="20260526165900 +0100" channel="wataniya1">
-    <title lang="ar">وقفة عرفة</title>
-    <desc lang="ar">يوم عرفة هو اليوم التاسع من شهر ذي الحجة، وهو ركن الحج الأعظم الذي يقف فيه الحجاج على جبل عرفات. </desc>
-  </programme>
-  <programme start="20260526170000 +0100" stop="20260526171900 +0100" channel="wataniya1">
-    <title lang="ar">النشرة المسائية للأخبار</title>
-    <desc lang="ar">النشرة المسائية للأخبار</desc>
-  </programme>
-  <programme start="20260526172000 +0100" stop="20260526185900 +0100" channel="wataniya1">
-    <title lang="ar">نفرة الحجيج من عرفات إلى المزدلفة</title>
-    <desc lang="ar">مواكبة حية للحظات نفرة الحجيج من عرفات إلى مزدلفة  حيث يواصل الحجيج أداء المناسك في أجواء تعبّدية مفعمة بالسكينة والدعاء. </desc>
-  </programme>
-  <programme start="20260526190000 +0100" stop="20260526195900 +0100" channel="wataniya1">
-    <title lang="ar">حصة خاصة بعيد الإضحى</title>
-    <desc lang="ar">تتضمن الحصة الخاصة بعيد الأضحى مجموعة متنوعة من الفقرات الدينية والترفيهية التي تحتفي بهذه المناسبة المباركة. تعكس هذه البرامج أجواء البهجة وتغطي التحضيرات المختلفة.</desc>
-  </programme>
-  <programme start="20260526200000 +0100" stop="20260526203900 +0100" channel="wataniya1">
-    <title lang="ar">النشرة الرئيسية للأخبار </title>
-    <desc lang="ar">النشرة الرئيسية للأخبار </desc>
-  </programme>
-  <programme start="20260526204000 +0100" stop="20260526204400 +0100" channel="wataniya1">
-    <title lang="ar">النشرة الجوية</title>
-    <desc lang="ar">النشرة الجوية</desc>
-  </programme>
-  <programme start="20260526204500 +0100" stop="20260526235900 +0100" channel="wataniya1">
-    <title lang="ar">شريط سينمائي: الرسالة</title>
-    <desc lang="ar">يبدأ الفيلم في مكة حيث ينزل الوحي على الرسول محمد ﷺ، ويبدأ بدعوة من حوله إلى الإسلام. فكره سادة مكة ما يدعوا إليه فقرروا تعذيب متبعيه كي يرتدوا عن دينه. وعلى رأس معارضيه أبو جهل وأبو لهب فعذبوا بلالاً وعماراً مع والديه سمية وياسر حتى قتلا. واضطر عمار للارتداد مكرهاً. </desc>
-  </programme>
-  <programme start="20260526000000 +0100" stop="20260526001900 +0100" channel="wataniya1">
-    <title lang="ar">نشرة منتصف الليل للأخبار </title>
-    <desc lang="ar">نشرة منتصف الليل للأخبار </desc>
-  </programme>
-  <programme start="20260526002000 +0100" stop="20260526002900 +0100" channel="wataniya1">
-    <title lang="ar">النشرة الجوية</title>
-    <desc lang="ar">النشرة الجوية</desc>
-  </programme>
-  <programme start="20260526003000 +0100" stop="20260526013900 +0100" channel="wataniya1">
-    <title lang="ar">حصة خاصة بعيد الإضحى</title>
-    <desc lang="ar">تتضمن الحصة الخاصة بعيد الأضحى مجموعة متنوعة من الفقرات الدينية والترفيهية التي تحتفي بهذه المناسبة المباركة. تعكس هذه البرامج أجواء البهجة وتغطي التحضيرات المختلفة.</desc>
-  </programme>
-  <programme start="20260526014000 +0100" stop="20260526020900 +0100" channel="wataniya1">
-    <title lang="ar">ابتهالات</title>
-    <desc lang="ar">لحظات روحانية مع ابتهالات خاشعة تلامس القلوب وتُحلّق بالأرواح نحو السمو. بكلمات مناجية وأصوات صادقة،… حيث ترتقي الأرواح وتطمئن القلوب.</desc>
-  </programme>
-  <programme start="20260526021000 +0100" stop="20260526023900 +0100" channel="wataniya1">
-    <title lang="ar">العمارة الإسلامية</title>
-    <desc lang="ar"> لم تكن العمارة الإسلامية يوماً مجرد أحجار تُرصَف أو أسقف تُرفَع، بل كانت تجسيداً مادياً لفلسفة روحية عميقة، ولغة بصرية تتحدث بلسان الحضارة والجمال. من نقوش القصور وصولاً إلى المآذن والزواياتروي لنا العمارة قصة أمة استطاعت ترويض الفضاء والمادة لخدمة المعنى.</desc>
-  </programme>
-  <programme start="20260526024000 +0100" stop="20260526045900 +0100" channel="wataniya1">
+  <programme start="20260527132000 +0100" stop="20260527134900 +0100" channel="wataniya1">
     <title lang="ar">عرض الحضرة من مهرجان صفاقس 2024</title>
     <desc lang="ar">تم تنظيم عرض "زوار الحضرة والنوبة: ريحة الأجداد" بقيادة الشيخ مرشد بوليلة يوم الجمعة 16 أوت 2024، على ركح المسرح الصيفي سيدي منصور، وذلك ضمن فعاليات الدورة الـ 44 لمهرجان صفاقس الدولي.</desc>
   </programme>
-  <programme start="20260526050000 +0100" stop="20260526055900 +0100" channel="wataniya1">
-    <title lang="ar">في حضرة الزيتونة</title>
-    <desc lang="ar">وثائقي يروي تاريخ جامع الزيتونة المعمور و علمائه و أبرز محطات التأسيس و النشأة مع إعادة تسجيد لفترات تاريخية و حضارات مرت على تونس.</desc>
+  <programme start="20260527135000 +0100" stop="20260527165900 +0100" channel="wataniya1">
+    <title lang="ar">شريط سينمائي: الرسالة</title>
+    <desc lang="ar">يبدأ الفيلم في مكة حيث ينزل الوحي على الرسول محمد ﷺ، ويبدأ بدعوة من حوله إلى الإسلام. فكره سادة مكة ما يدعوا إليه فقرروا تعذيب متبعيه كي يرتدوا عن دينه. وعلى رأس معارضيه أبو جهل وأبو لهب فعذبوا بلالاً وعماراً مع والديه سمية وياسر حتى قتلا. واضطر عمار للارتداد مكرهاً. </desc>
+  </programme>
+  <programme start="20260527163000 +0100" stop="20260527172900 +0100" channel="wataniya1">
+    <title lang="ar">كرة القدم: النادي الصفاقسي - الملعب القابسي</title>
+    <desc lang="ar">نقل مباشر من ملعب الطيب المهيري بصفاقس لمباراة النادي الصفاقسي والملعب القابسي في إطار الدور الربع النهائي لكأس تونس لكرة القدم</desc>
+  </programme>
+  <programme start="20260527170000 +0100" stop="20260527171900 +0100" channel="wataniya1">
+    <title lang="ar">النشرة الرئيسية للأخبار </title>
+    <desc lang="ar">النشرة الرئيسية للأخبار </desc>
+  </programme>
+  <programme start="20260527172000 +0100" stop="20260527172400 +0100" channel="wataniya1">
+    <title lang="ar">إصدارات</title>
+    <desc lang="ar">ملخص لآخر الاصدارات الادبية والدواوين الشعرية والنشريات الثقافية</desc>
+  </programme>
+  <programme start="20260527172500 +0100" stop="20260527181900 +0100" channel="wataniya1">
+    <title lang="ar">مقتطفات من أغاني أحمد جلمام</title>
+    <desc lang="ar">مقتطفات من أغاني أحمد جلمام</desc>
+  </programme>
+  <programme start="20260527182000 +0100" stop="20260527195900 +0100" channel="wataniya1">
+    <title lang="ar">شريط سينمائي: تيمور وشفيقة </title>
+    <desc lang="ar">تيمور وشفيقة هو فيلم رومانسي كوميدي مصري عُرض في صيف عام 2007، وتدور أحداثه حول قصة حب تنشأ منذ الطفولة بين الجارين "تيمور" و"شفيقة"، وتتوتر علاقتهما عندما تُعين "شفيقة" وزيرة للبيئة ويصبح "تيمور" ضابط الحراسات الخاص بها</desc>
+  </programme>
+  <programme start="20260527200000 +0100" stop="20260527203900 +0100" channel="wataniya1">
+    <title lang="ar">النشرة الرئيسية للأخبار </title>
+    <desc lang="ar">النشرة الرئيسية للأخبار </desc>
+  </programme>
+  <programme start="20260527204000 +0100" stop="20260527204900 +0100" channel="wataniya1">
+    <title lang="ar">النشرة الجوية</title>
+    <desc lang="ar">النشرة الجوية</desc>
+  </programme>
+  <programme start="20260527205000 +0100" stop="20260527224900 +0100" channel="wataniya1">
+    <title lang="ar">باب بنات صبرية في السبعينات</title>
+    <desc lang="ar">باب بنات صبرية في السبعينات</desc>
+  </programme>
+  <programme start="20260527225000 +0100" stop="20260527235900 +0100" channel="wataniya1">
+    <title lang="ar">عرض الحضرة من مهرجان صفاقس 2024</title>
+    <desc lang="ar">تم تنظيم عرض "زوار الحضرة والنوبة: ريحة الأجداد" بقيادة الشيخ مرشد بوليلة يوم الجمعة 16 أوت 2024، على ركح المسرح الصيفي سيدي منصور، وذلك ضمن فعاليات الدورة الـ 44 لمهرجان صفاقس الدولي.</desc>
+  </programme>
+  <programme start="20260527000000 +0100" stop="20260527001900 +0100" channel="wataniya1">
+    <title lang="ar">نشرة منتصف الليل للأخبار </title>
+    <desc lang="ar">نشرة منتصف الليل للأخبار </desc>
+  </programme>
+  <programme start="20260527002000 +0100" stop="20260527002400 +0100" channel="wataniya1">
+    <title lang="ar">النشرة الجوية</title>
+    <desc lang="ar">النشرة الجوية</desc>
+  </programme>
+  <programme start="20260527002500 +0100" stop="20260527023900 +0100" channel="wataniya1">
+    <title lang="ar">مسرحية دار الهناء</title>
+    <desc lang="ar">تتناول المسرحية علاقة الرجل بالمرأة في تونس بعد الزواج وخلال مراحله، وتقاسمهم مصروف البيت، ورغم الخلافات على الماديات، يسعى كل طرف للحفاظ على العشرة والأخر.</desc>
+  </programme>
+  <programme start="20260527024000 +0100" stop="20260527045900 +0100" channel="wataniya1">
+    <title lang="ar">منوعة خاصة بعيد الأضحى المبارك</title>
+    <desc lang="ar">حصة خاصة بعيد الأضحى تجمع بين الفقرات الدينية والترفيهية، وتنقل أجواء البهجة والتحضيرات المرتبطة بهذه المناسبة المباركة.</desc>
+  </programme>
+  <programme start="20260527050000 +0100" stop="20260527055900 +0100" channel="wataniya1">
+    <title lang="ar">قصص من الأرض</title>
+    <desc lang="ar">رحلة استكشافية حول أعظم وأطول الأنهار في العالم، والتي كانت مهداً للحضارات وشريان الحياة لملايين الكائنات</desc>
   </programme>
 </tv>
