@@ -4,88 +4,105 @@
     <display-name>Wataniya 2</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/langfr-500px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png"/>
   </channel>
-  <programme start="20260528060000 +0100" stop="20260528060100 +0100" channel="wataniya2">
+  <programme start="20260529060000 +0100" stop="20260529060100 +0100" channel="wataniya2">
     <title lang="ar">النشيد الرسمي</title>
     <desc lang="ar">النشيد الرسمي</desc>
   </programme>
-  <programme start="20260528060200 +0100" stop="20260528062200 +0100" channel="wataniya2">
+  <programme start="20260529060200 +0100" stop="20260529061900 +0100" channel="wataniya2">
     <title lang="ar">القرآن الكريم</title>
     <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
   </programme>
-  <programme start="20260528062300 +0100" stop="20260528062900 +0100" channel="wataniya2">
+  <programme start="20260529062000 +0100" stop="20260529063000 +0100" channel="wataniya2">
     <title lang="ar">ابتهالات</title>
     <desc lang="ar">لحظات روحانية مع ابتهالات خاشعة تلامس القلوب وتُحلّق بالأرواح نحو السمو. بكلمات مناجية وأصوات صادقة،… حيث ترتقي الأرواح وتطمئن القلوب.</desc>
   </programme>
-  <programme start="20260528063000 +0100" stop="20260528070400 +0100" channel="wataniya2">
-    <title lang="ar">مقتطفات من حفل فيروز</title>
-    <desc lang="ar">مقتطفات من حفل فيروز</desc>
+  <programme start="20260529063000 +0100" stop="20260529070400 +0100" channel="wataniya2">
+    <title lang="ar">مقتطفات من أغاني أحمد جلمام</title>
+    <desc lang="ar">مقتطفات من أغاني أحمد جلمام</desc>
   </programme>
-  <programme start="20260528070500 +0100" stop="20260528075900 +0100" channel="wataniya2">
+  <programme start="20260529070500 +0100" stop="20260529083400 +0100" channel="wataniya2">
     <title lang="ar">تبّعني</title>
     <desc lang="ar">دعوة لاكتشاف تونس بعيون جديدة، حيث تتقاطع الطبيعة مع التاريخ في لوحات نابضة بالحياة. من الشواطئ الساحرة إلى الجبال والواحات، ومن المدن العريقة إلى القرى الهادئة، يعرّفكم البرنامج على أبرز الوجهات السياحية وأجمل المناطق الطبيعية، ويكشف خفايا أماكن قد لا يعرفها الكثيرون</desc>
   </programme>
-  <programme start="20260528080000 +0100" stop="20260528084400 +0100" channel="wataniya2">
+  <programme start="20260529083500 +0100" stop="20260529091900 +0100" channel="wataniya2">
     <title lang="ar">مسلسل ماطوس</title>
     <desc lang="ar">تدور أحداث المسلسل في قرية «ماطوس» في نهاية القرن السابع عشر بالجنوب الشرقي التونسي، و التي يعيش متساكنوها في كنف الأمن والرخاء، إذ يعمرون تلك الأراضي الصحراوية القاحلة و يحولونها إلى واحات خضراء، لكن سرعان ما تنقلب الأمور رأسا على عقب عندما تتم مهاجمتها و مهاجمة سكانها من طرف بعض قطاع الطرق لتنقلب الموازين</desc>
   </programme>
-  <programme start="20260528084500 +0100" stop="20260528091400 +0100" channel="wataniya2">
+  <programme start="20260529092000 +0100" stop="20260529101900 +0100" channel="wataniya2">
     <title lang="ar">وثائقي: أولياء الله</title>
     <desc lang="ar"> في تونس التصوف بين المخيال الشعبي والبحث العلمي</desc>
   </programme>
-  <programme start="20260528091500 +0100" stop="20260528101900 +0100" channel="wataniya2">
-    <title lang="ar">تونس المزيانة</title>
-    <desc lang="ar">تونس المزيانة</desc>
-  </programme>
-  <programme start="20260528102000 +0100" stop="20260528110400 +0100" channel="wataniya2">
+  <programme start="20260529102000 +0100" stop="20260529105900 +0100" channel="wataniya2">
     <title lang="ar">مسلسل: أمواج</title>
     <desc lang="ar">سناء فتاة جميلة وطيبة ومدللة من قبل والدها "مالك". يتوفى والدها ويترك لها ارثا كبيرا فيغار منها عمها وعمتها ويقرران التخلص منها باستعمال كل الطريق لكنهما لا ينجحان خاصة بوجود أشخاص مقربين منها يحولون دون تنفيذ مخططاتهما.</desc>
   </programme>
-  <programme start="20260528110500 +0100" stop="20260528114900 +0100" channel="wataniya2">
+  <programme start="20260529110000 +0100" stop="20260529111900 +0100" channel="wataniya2">
+    <title lang="ar">صنعة إيديك</title>
+    <desc lang="ar">صنعة إيديك</desc>
+  </programme>
+  <programme start="20260529112000 +0100" stop="20260529122400 +0100" channel="wataniya2">
+    <title lang="ar">صور متحركة</title>
+    <desc lang="ar">صور متحركة</desc>
+  </programme>
+  <programme start="20260529122500 +0100" stop="20260529125400 +0100" channel="wataniya2">
+    <title lang="ar">مقتطفات من أغاني أحمد جلمام</title>
+    <desc lang="ar">مقتطفات من أغاني أحمد جلمام</desc>
+  </programme>
+  <programme start="20260529125500 +0100" stop="20260529125900 +0100" channel="wataniya2">
+    <title lang="ar">القرآن الكريم</title>
+    <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
+  </programme>
+  <programme start="20260529130000 +0100" stop="20260529132900 +0100" channel="wataniya2">
+    <title lang="ar">خطبة وصلاة الجمعة</title>
+    <desc lang="ar">موعد أسبوعي يجمع بين العبادة والتأملفي  نقل مباشر لخطبة وصلاة الجمعة من أحد الجوامع التونسية</desc>
+  </programme>
+  <programme start="20260529133000 +0100" stop="20260529141400 +0100" channel="wataniya2">
+    <title lang="ar">شوفلي حل</title>
+    <desc lang="ar">شوفلي حل</desc>
+  </programme>
+  <programme start="20260529141500 +0100" stop="20260529151400 +0100" channel="wataniya2">
+    <title lang="ar">مسلسل قمرة سيدي محروس</title>
+    <desc lang="ar">تدور أحداثه في الفترة الممتدة بين الحرب العالمية الثانية واستقلال البلاد التونسية من الحماية الفرنسية، حيث تناول المسلسل ما عرفته تلك الفترة من نضال الحركة الوطنية التونسية ومساهمة المقاومة المسلحة في نيل الاستقلال ضمن إطار تاريخي، درامي واقعي.</desc>
+  </programme>
+  <programme start="20260529151500 +0100" stop="20260529155900 +0100" channel="wataniya2">
+    <title lang="ar">أحكيلي عليها</title>
+    <desc lang="ar">برنامجنا الجديد على الوطنية الأولى بمناسبة شهر رمضان المعظم سوف يأخذنا في جولات داخل الأحياء(الحوم جمع حومة) وفي كل حي أو مدينة سوف تتحدث عن الماضي و الحاضر.
+ تذكر بما كان يرويه الأسلاف من حكايات في شكل خرافات حتى نربط الماضي بالحاضر.
+</desc>
+  </programme>
+  <programme start="20260529160000 +0100" stop="20260529175900 +0100" channel="wataniya2">
+    <title lang="ar">كرة القدم: تقدم ساقية الداير - أمل حمام سوسة</title>
+    <desc lang="ar">نقل مباشر لمباراة تقدم ساقية الداير وأمل حمام سوسة في إطار تحديد بطل الرابط المحترفة الثانية لكرة القدم</desc>
+  </programme>
+  <programme start="20260529180000 +0100" stop="20260529185900 +0100" channel="wataniya2">
+    <title lang="ar">صور متحركة</title>
+    <desc lang="ar">صور متحركة</desc>
+  </programme>
+  <programme start="20260529190000 +0100" stop="20260529194400 +0100" channel="wataniya2">
     <title lang="ar">محلاها بلادي... تونس البية</title>
     <desc lang="ar">برنامج يحتفي بجمال تونس يكتشف ملامحها كما نحبّها: أصيلة، متنوّعة، ومليئة بالحياة. هو دعوة لاكتشاف تفاصيل صغيرة تصنع الفرق، وتُبرز روح البلاد في أبسط صورها وأجملها.</desc>
   </programme>
-  <programme start="20260528115000 +0100" stop="20260528125900 +0100" channel="wataniya2">
-    <title lang="ar">صور متحركة</title>
-    <desc lang="ar">صور متحركة</desc>
-  </programme>
-  <programme start="20260528130000 +0100" stop="20260528134900 +0100" channel="wataniya2">
-    <title lang="ar">شوفلي حل</title>
-    <desc lang="ar">شوفلي حل</desc>
-  </programme>
-  <programme start="20260528135000 +0100" stop="20260528144900 +0100" channel="wataniya2">
-    <title lang="ar">مسلسل قمرة سيدي محروس</title>
-    <desc lang="ar">تدور أحداثه في الفترة الممتدة بين الحرب العالمية الثانية واستقلال البلاد التونسية من الحماية الفرنسية، حيث تناول المسلسل ما عرفته تلك الفترة من نضال الحركة الوطنية التونسية ومساهمة المقاومة المسلحة في نيل الاستقلال ضمن إطار تاريخي، درامي واقعي.</desc>
-  </programme>
-  <programme start="20260528145000 +0100" stop="20260528154900 +0100" channel="wataniya2">
-    <title lang="ar">هريسة لاند</title>
-    <desc lang="ar">سلسلة تقدم مزجا بين صور ساخرة لتقاعس بعض الموظفين في الإدارة وثقافة العمل لدى البعض الآخر</desc>
-  </programme>
-  <programme start="20260528155000 +0100" stop="20260528180900 +0100" channel="wataniya2">
-    <title lang="ar">حفل من مهرجان</title>
-    <desc lang="ar">حفل من أحد المهرجانات، في أجواء احتفالية تجمع بين الفن والموسيقى وحضور جماهيري مميز.
-سهرة نابضة بالحياة، يلتقي فيها الجمهور مع عروض فنية متنوّعة، تعكس ثراء المشهد الثقافي وروح الاحتفال.</desc>
-  </programme>
-  <programme start="20260528181000 +0100" stop="20260528194400 +0100" channel="wataniya2">
-    <title lang="ar">صور متحركة</title>
-    <desc lang="ar">صور متحركة</desc>
-  </programme>
-  <programme start="20260528194500 +0100" stop="20260528202900 +0100" channel="wataniya2">
+  <programme start="20260529194500 +0100" stop="20260529202900 +0100" channel="wataniya2">
     <title lang="ar">مسلسل: أمواج</title>
     <desc lang="ar">سناء فتاة جميلة وطيبة ومدللة من قبل والدها "مالك". يتوفى والدها ويترك لها ارثا كبيرا فيغار منها عمها وعمتها ويقرران التخلص منها باستعمال كل الطريق لكنهما لا ينجحان خاصة بوجود أشخاص مقربين منها يحولون دون تنفيذ مخططاتهما.</desc>
   </programme>
-  <programme start="20260528203000 +0100" stop="20260528212400 +0100" channel="wataniya2">
+  <programme start="20260529203000 +0100" stop="20260529210900 +0100" channel="wataniya2">
     <title lang="ar">شوفلي حل</title>
     <desc lang="ar">شوفلي حل</desc>
   </programme>
-  <programme start="20260528212500 +0100" stop="20260528222400 +0100" channel="wataniya2">
+  <programme start="20260529211000 +0100" stop="20260529220900 +0100" channel="wataniya2">
     <title lang="ar">مسلسل قمرة سيدي محروس</title>
     <desc lang="ar">تدور أحداثه في الفترة الممتدة بين الحرب العالمية الثانية واستقلال البلاد التونسية من الحماية الفرنسية، حيث تناول المسلسل ما عرفته تلك الفترة من نضال الحركة الوطنية التونسية ومساهمة المقاومة المسلحة في نيل الاستقلال ضمن إطار تاريخي، درامي واقعي.</desc>
   </programme>
-  <programme start="20260528222500 +0100" stop="20260528232400 +0100" channel="wataniya2">
-    <title lang="ar">هريسة لاند</title>
-    <desc lang="ar">سلسلة تقدم مزجا بين صور ساخرة لتقاعس بعض الموظفين في الإدارة وثقافة العمل لدى البعض الآخر</desc>
+  <programme start="20260529221000 +0100" stop="20260529225900 +0100" channel="wataniya2">
+    <title lang="ar">ذكريات "محمد كوكة"</title>
+    <desc lang="ar">ذكريات "محمد كوكة"</desc>
   </programme>
-  <programme start="20260528232500 +0100" stop="20260528235900 +0100" channel="wataniya2">
+  <programme start="20260529230000 +0100" stop="20260529234400 +0100" channel="wataniya2">
+    <title lang="ar">مسلسل لبناني نص يوم</title>
+    <desc lang="ar">تبدأ أحداث العمل بوفاة رجل لديه إقطاعية زيتون واسعة، فيعود ابنه المغترب (ميار) إلى البلاد لإنهاء كل الالتزامات المهنية والعائلية للسفر من جديد، إلا أنه يقع في غرام فتاة جميلة اسمها (يارا)، وهو ما يجعله يلغي سفره ويبقي في البلاد. وتمر الأحداث بالعديد من الصراعات ضمن قالب بوليسي مشوق بعد اكتشاف الشاب بأن حبيبته امرأة لعوب ومحتالة.</desc>
+  </programme>
+  <programme start="20260529234500 +0100" stop="20260529235900 +0100" channel="wataniya2">
     <title lang="ar">والله زمان</title>
     <desc lang="ar">والله زمان</desc>
   </programme>
