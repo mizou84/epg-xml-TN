@@ -4,135 +4,147 @@
     <display-name>Wataniya 1</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/960px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png"/>
   </channel>
-  <programme start="20260602060000 +0100" stop="20260602060100 +0100" channel="wataniya1">
+  <programme start="20260603060000 +0100" stop="20260603060100 +0100" channel="wataniya1">
     <title lang="ar">النشيد الرسمي</title>
     <desc lang="ar">النشيد الرسمي</desc>
   </programme>
-  <programme start="20260602060200 +0100" stop="20260602061900 +0100" channel="wataniya1">
+  <programme start="20260603060200 +0100" stop="20260603061900 +0100" channel="wataniya1">
     <title lang="ar">القرآن الكريم</title>
     <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
   </programme>
-  <programme start="20260602062000 +0100" stop="20260602064400 +0100" channel="wataniya1">
+  <programme start="20260603062000 +0100" stop="20260603064400 +0100" channel="wataniya1">
     <title lang="ar">ابتهالات</title>
     <desc lang="ar">لحظات روحانية مع ابتهالات خاشعة تلامس القلوب وتُحلّق بالأرواح نحو السمو. بكلمات مناجية وأصوات صادقة،… حيث ترتقي الأرواح وتطمئن القلوب.</desc>
   </programme>
-  <programme start="20260602064500 +0100" stop="20260602072900 +0100" channel="wataniya1">
+  <programme start="20260603064500 +0100" stop="20260603072900 +0100" channel="wataniya1">
     <title lang="ar">المسلسل التاريخي ج2: خالد بن الوليد </title>
     <desc lang="ar">المسلسل التاريخي ج2: خالد بن الوليد </desc>
   </programme>
-  <programme start="20260602073000 +0100" stop="20260602081900 +0100" channel="wataniya1">
+  <programme start="20260603073000 +0100" stop="20260603081900 +0100" channel="wataniya1">
     <title lang="ar">قصص من الأرض</title>
     <desc lang="ar">رحلة استكشافية حول أعظم وأطول الأنهار في العالم، والتي كانت مهداً للحضارات وشريان الحياة لملايين الكائنات</desc>
   </programme>
-  <programme start="20260602082000 +0100" stop="20260602085900 +0100" channel="wataniya1">
-    <title lang="ar">تونس المزيانة</title>
-    <desc lang="ar">تونس المزيانة</desc>
+  <programme start="20260603082000 +0100" stop="20260603085900 +0100" channel="wataniya1">
+    <title lang="ar">تونس المدينة العتيقة</title>
+    <desc lang="ar">رحلة داخل أزقة المدينة العتيقة، حيث يلتقي التاريخ بالحياة اليومية في تناغم فريد. ن خلال معالمها العريقة، وأسواقها النابضة، وحِرفها التقليدية نغوص في ذاكرة المكان، حيث لكل زاوية حكاية، ولكل باب أثر يروي جزءًا من تاريخ تونس.</desc>
   </programme>
-  <programme start="20260602090000 +0100" stop="20260602105900 +0100" channel="wataniya1">
+  <programme start="20260603090000 +0100" stop="20260603105900 +0100" channel="wataniya1">
     <title lang="ar">صباحكم أحلى</title>
     <desc lang="ar">برنامج صباحي متنوّع يجمع بين الفائدة والمتعة، ويواكب اهتمامات العائلة في بداية اليوم.
 يتناول البرنامج أبرز المواضيع التي تهمّ الأسرة التونسية، من أخبار خفيفة ونصائح يومية، إلى فقرات صحية، اجتماعية وثقافية، مع استضافات تضيف قيمة وحيوية للحوار.
 هو موعد صباحي متكامل يمنح بداية يوم إيجابية ويقرّب المشاهد من نبض الحياة اليومية.</desc>
   </programme>
-  <programme start="20260602110000 +0100" stop="20260602111900 +0100" channel="wataniya1">
+  <programme start="20260603110000 +0100" stop="20260603112900 +0100" channel="wataniya1">
     <title lang="ar">ديما عامرة</title>
     <desc lang="ar">من الأكلات الشعبية إلى الأطباق العائلية الغنية، نكتشف معًا أسرار المطبخ التونسي، بلمسة عصرية وروح مليئة بالدفء والكرم</desc>
   </programme>
-  <programme start="20260602112000 +0100" stop="20260602120400 +0100" channel="wataniya1">
-    <title lang="ar">وثائقي ميلاد التلفزة التونسية: الميلاد و العنفوان</title>
-    <desc lang="ar">وثائقي حول ميلاد التلفزة التونسية بمناسبة الذكرى الستين لانبعاثها </desc>
-  </programme>
-  <programme start="20260602120500 +0100" stop="20260602125900 +0100" channel="wataniya1">
-    <title lang="ar">المايسترو</title>
-    <desc lang="ar">المايسترو</desc>
-  </programme>
-  <programme start="20260602130000 +0100" stop="20260602132900 +0100" channel="wataniya1">
-    <title lang="ar">نشرة الظهر للأخبار </title>
-    <desc lang="ar">نشرة الظهر للأخبار </desc>
-  </programme>
-  <programme start="20260602133000 +0100" stop="20260602141900 +0100" channel="wataniya1">
-    <title lang="ar">مسلسل عربي الوشم</title>
-    <desc lang="ar">في إحدى العشائر البدوية، ينشب خلاف بين رجلان يتصارعان من أجل الظفر بقلب أجمل بنات العشيرة، لكن يتغير كل شيء عندما يقتل أحدهمها الآخر، وتتوالى الأحداث.</desc>
-  </programme>
-  <programme start="20260602142000 +0100" stop="20260602145900 +0100" channel="wataniya1">
-    <title lang="ar">قصص من الأرض</title>
-    <desc lang="ar">رحلة استكشافية حول أعظم وأطول الأنهار في العالم، والتي كانت مهداً للحضارات وشريان الحياة لملايين الكائنات</desc>
-  </programme>
-  <programme start="20260602150000 +0100" stop="20260602154400 +0100" channel="wataniya1">
+  <programme start="20260603113000 +0100" stop="20260603120400 +0100" channel="wataniya1">
     <title lang="ar">محلاها بلادي... تونس البية</title>
     <desc lang="ar">برنامج يحتفي بجمال تونس يكتشف ملامحها كما نحبّها: أصيلة، متنوّعة، ومليئة بالحياة. هو دعوة لاكتشاف تفاصيل صغيرة تصنع الفرق، وتُبرز روح البلاد في أبسط صورها وأجملها.</desc>
   </programme>
-  <programme start="20260602154500 +0100" stop="20260602165900 +0100" channel="wataniya1">
-    <title lang="ar">حدث وتحليل</title>
-    <desc lang="ar">برنامج 'حدث وتحليل' يجمع نخبة من المحللين ليقدموا لكم قراءة هادئة وسط ضجيج الأخبار. من كواليس السياسة إلى أزمات الاقتصاد، نمنحكم الأدوات لتحليل الواقع واستشراف المستقبل</desc>
-  </programme>
-  <programme start="20260602170000 +0100" stop="20260602171900 +0100" channel="wataniya1">
-    <title lang="ar">النشرة المسائية للأخبار</title>
-    <desc lang="ar">النشرة المسائية للأخبار</desc>
-  </programme>
-  <programme start="20260602172000 +0100" stop="20260602172400 +0100" channel="wataniya1">
-    <title lang="ar">إصدارات</title>
-    <desc lang="ar">ملخص لآخر الاصدارات الادبية والدواوين الشعرية والنشريات الثقافية</desc>
-  </programme>
-  <programme start="20260602172500 +0100" stop="20260602181900 +0100" channel="wataniya1">
-    <title lang="ar">مسلسل شرع الحب</title>
-    <desc lang="ar">يعرض المسلسل حالتين طلاق في سن مبكرة وأخرى في سن متقدمة؛ ولكن لكل من الحالتين خصوصيتهما ومشاكلهما ومعاناتهما التي تتجمع لتنسج دراما ملتصقة بالواقع.</desc>
-  </programme>
-  <programme start="20260602182000 +0100" stop="20260602182900 +0100" channel="wataniya1">
-    <title lang="ar">سلسلة كلام ناس بكري</title>
-    <desc lang="ar">سيتكوم "كلام ناس بكري" هو سلسلة تلفزية تونسية كوميدية اجتماعية، عُرضت على القناة الوطنية التونسية الثانية خلال شهر رمضان 2022، وتعتبر آخر أعمال الممثل القدير الراحل توفيق البحري. تميزت السلسلة بتركيزها على الموروث الثقافي والأمثال الشعبية التونسية في قالب فكاهي وعبر 14 حلقة.</desc>
-  </programme>
-  <programme start="20260602183000 +0100" stop="20260602195900 +0100" channel="wataniya1">
-    <title lang="ar">تونس الاقتصادية</title>
-    <desc lang="ar">تونس الاقتصادية</desc>
-  </programme>
-  <programme start="20260602200000 +0100" stop="20260602202900 +0100" channel="wataniya1">
-    <title lang="ar">النشرة الرئيسية للأخبار </title>
-    <desc lang="ar">النشرة الرئيسية للأخبار </desc>
-  </programme>
-  <programme start="20260602203000 +0100" stop="20260602203400 +0100" channel="wataniya1">
-    <title lang="ar">النشرة الجوية</title>
-    <desc lang="ar">النشرة الجوية</desc>
-  </programme>
-  <programme start="20260602203500 +0100" stop="20260602212900 +0100" channel="wataniya1">
+  <programme start="20260603120500 +0100" stop="20260603125900 +0100" channel="wataniya1">
     <title lang="ar">المايسترو</title>
     <desc lang="ar">المايسترو</desc>
   </programme>
-  <programme start="20260602213000 +0100" stop="20260602230900 +0100" channel="wataniya1">
-    <title lang="ar">كلامنا فن</title>
-    <desc lang="ar">كلامنا فن</desc>
+  <programme start="20260603130000 +0100" stop="20260603132900 +0100" channel="wataniya1">
+    <title lang="ar">نشرة الظهر للأخبار </title>
+    <desc lang="ar">نشرة الظهر للأخبار </desc>
   </programme>
-  <programme start="20260602231000 +0100" stop="20260602235900 +0100" channel="wataniya1">
+  <programme start="20260603133000 +0100" stop="20260603141900 +0100" channel="wataniya1">
     <title lang="ar">مسلسل عربي الوشم</title>
     <desc lang="ar">في إحدى العشائر البدوية، ينشب خلاف بين رجلان يتصارعان من أجل الظفر بقلب أجمل بنات العشيرة، لكن يتغير كل شيء عندما يقتل أحدهمها الآخر، وتتوالى الأحداث.</desc>
   </programme>
-  <programme start="20260602000000 +0100" stop="20260602001900 +0100" channel="wataniya1">
-    <title lang="ar">نشرة منتصف الليل للأخبار </title>
-    <desc lang="ar">نشرة منتصف الليل للأخبار </desc>
+  <programme start="20260603142000 +0100" stop="20260603154400 +0100" channel="wataniya1">
+    <title lang="ar">كلامنا فن</title>
+    <desc lang="ar">كلامنا فن</desc>
   </programme>
-  <programme start="20260602002000 +0100" stop="20260602002400 +0100" channel="wataniya1">
-    <title lang="ar">النشرة الجوية</title>
-    <desc lang="ar">النشرة الجوية</desc>
-  </programme>
-  <programme start="20260602002500 +0100" stop="20260602011900 +0100" channel="wataniya1">
-    <title lang="ar">مسلسل شرع الحب</title>
-    <desc lang="ar">يعرض المسلسل حالتين طلاق في سن مبكرة وأخرى في سن متقدمة؛ ولكن لكل من الحالتين خصوصيتهما ومشاكلهما ومعاناتهما التي تتجمع لتنسج دراما ملتصقة بالواقع.</desc>
-  </programme>
-  <programme start="20260602012000 +0100" stop="20260602024900 +0100" channel="wataniya1">
+  <programme start="20260603154500 +0100" stop="20260603165900 +0100" channel="wataniya1">
     <title lang="ar">تونس الاقتصادية</title>
     <desc lang="ar">تونس الاقتصادية</desc>
   </programme>
-  <programme start="20260602025000 +0100" stop="20260602025900 +0100" channel="wataniya1">
-    <title lang="ar">سلسلة كلام ناس بكري</title>
-    <desc lang="ar">سيتكوم "كلام ناس بكري" هو سلسلة تلفزية تونسية كوميدية اجتماعية، عُرضت على القناة الوطنية التونسية الثانية خلال شهر رمضان 2022، وتعتبر آخر أعمال الممثل القدير الراحل توفيق البحري. تميزت السلسلة بتركيزها على الموروث الثقافي والأمثال الشعبية التونسية في قالب فكاهي وعبر 14 حلقة.</desc>
+  <programme start="20260603170000 +0100" stop="20260603172400 +0100" channel="wataniya1">
+    <title lang="ar">النشرة الرئيسية للأخبار </title>
+    <desc lang="ar">النشرة الرئيسية للأخبار </desc>
   </programme>
-  <programme start="20260602025000 +0100" stop="20260602050900 +0100" channel="wataniya1">
+  <programme start="20260603172500 +0100" stop="20260603172900 +0100" channel="wataniya1">
+    <title lang="ar">إصدارات</title>
+    <desc lang="ar">ملخص لآخر الاصدارات الادبية والدواوين الشعرية والنشريات الثقافية</desc>
+  </programme>
+  <programme start="20260603173000 +0100" stop="20260603182900 +0100" channel="wataniya1">
+    <title lang="ar">مسلسل شرع الحب</title>
+    <desc lang="ar">يعرض المسلسل حالتين طلاق في سن مبكرة وأخرى في سن متقدمة؛ ولكن لكل من الحالتين خصوصيتهما ومشاكلهما ومعاناتهما التي تتجمع لتنسج دراما ملتصقة بالواقع.</desc>
+  </programme>
+  <programme start="20260603183000 +0100" stop="20260603190400 +0100" channel="wataniya1">
+    <title lang="ar">تونس الأهلية</title>
+    <desc lang="ar">تونس الأهلية</desc>
+  </programme>
+  <programme start="20260603190500 +0100" stop="20260603195900 +0100" channel="wataniya1">
+    <title lang="ar">منا و فينا</title>
+    <desc lang="ar">"منا وفينا" برنامج اجتماعي نصف شهري يلامس واقع التونسيين، ويطرح أبرز مشاغل المواطن وقضايا الأسرة التونسية في مختلف أبعادها الاجتماعية والاقتصادية والتربوية.
+
+يعتمد البرنامج على نقاشات مباشرة مع مختصّين وضيوف من مجالات مختلفة، إلى جانب نقل شهادات حيّة من الشارع، بهدف فهم أعمق للإشكاليات المطروحة واقتراح حلول واقعية.   إعداد: ألفة الخديمي، زينة الخميري تقديم: زينة الخميري إخراج: آنيس درقاع
+
+</desc>
+  </programme>
+  <programme start="20260603200000 +0100" stop="20260603202900 +0100" channel="wataniya1">
+    <title lang="ar">النشرة الرئيسية للأخبار </title>
+    <desc lang="ar">النشرة الرئيسية للأخبار </desc>
+  </programme>
+  <programme start="20260603203000 +0100" stop="20260603203400 +0100" channel="wataniya1">
+    <title lang="ar">النشرة الجوية</title>
+    <desc lang="ar">النشرة الجوية</desc>
+  </programme>
+  <programme start="20260603203500 +0100" stop="20260603212900 +0100" channel="wataniya1">
+    <title lang="ar">المايسترو</title>
+    <desc lang="ar">المايسترو</desc>
+  </programme>
+  <programme start="20260603213000 +0100" stop="20260603230900 +0100" channel="wataniya1">
+    <title lang="ar">منابع</title>
+    <desc lang="ar">منابع</desc>
+  </programme>
+  <programme start="20260603231000 +0100" stop="20260603235900 +0100" channel="wataniya1">
+    <title lang="ar">مسلسل عربي الوشم</title>
+    <desc lang="ar">في إحدى العشائر البدوية، ينشب خلاف بين رجلان يتصارعان من أجل الظفر بقلب أجمل بنات العشيرة، لكن يتغير كل شيء عندما يقتل أحدهمها الآخر، وتتوالى الأحداث.</desc>
+  </programme>
+  <programme start="20260603000000 +0100" stop="20260603001900 +0100" channel="wataniya1">
+    <title lang="ar">نشرة منتصف الليل للأخبار </title>
+    <desc lang="ar">نشرة منتصف الليل للأخبار </desc>
+  </programme>
+  <programme start="20260603002000 +0100" stop="20260603002400 +0100" channel="wataniya1">
+    <title lang="ar">النشرة الجوية</title>
+    <desc lang="ar">النشرة الجوية</desc>
+  </programme>
+  <programme start="20260603002500 +0100" stop="20260603011900 +0100" channel="wataniya1">
+    <title lang="ar">مسلسل شرع الحب</title>
+    <desc lang="ar">يعرض المسلسل حالتين طلاق في سن مبكرة وأخرى في سن متقدمة؛ ولكن لكل من الحالتين خصوصيتهما ومشاكلهما ومعاناتهما التي تتجمع لتنسج دراما ملتصقة بالواقع.</desc>
+  </programme>
+  <programme start="20260603012000 +0100" stop="20260603020900 +0100" channel="wataniya1">
+    <title lang="ar">منا و فينا</title>
+    <desc lang="ar">"منا وفينا" برنامج اجتماعي نصف شهري يلامس واقع التونسيين، ويطرح أبرز مشاغل المواطن وقضايا الأسرة التونسية في مختلف أبعادها الاجتماعية والاقتصادية والتربوية.
+
+يعتمد البرنامج على نقاشات مباشرة مع مختصّين وضيوف من مجالات مختلفة، إلى جانب نقل شهادات حيّة من الشارع، بهدف فهم أعمق للإشكاليات المطروحة واقتراح حلول واقعية.   إعداد: ألفة الخديمي، زينة الخميري تقديم: زينة الخميري إخراج: آنيس درقاع
+
+</desc>
+  </programme>
+  <programme start="20260603021000 +0100" stop="20260603023900 +0100" channel="wataniya1">
+    <title lang="ar">منا و فينا</title>
+    <desc lang="ar">"منا وفينا" برنامج اجتماعي نصف شهري يلامس واقع التونسيين، ويطرح أبرز مشاغل المواطن وقضايا الأسرة التونسية في مختلف أبعادها الاجتماعية والاقتصادية والتربوية.
+
+يعتمد البرنامج على نقاشات مباشرة مع مختصّين وضيوف من مجالات مختلفة، إلى جانب نقل شهادات حيّة من الشارع، بهدف فهم أعمق للإشكاليات المطروحة واقتراح حلول واقعية.   إعداد: ألفة الخديمي، زينة الخميري تقديم: زينة الخميري إخراج: آنيس درقاع
+
+</desc>
+  </programme>
+  <programme start="20260603024000 +0100" stop="20260603030900 +0100" channel="wataniya1">
+    <title lang="ar">منابع</title>
+    <desc lang="ar">منابع</desc>
+  </programme>
+  <programme start="20260603031000 +0100" stop="20260603050900 +0100" channel="wataniya1">
     <title lang="ar">صباحكم أحلى</title>
     <desc lang="ar">برنامج صباحي متنوّع يجمع بين الفائدة والمتعة، ويواكب اهتمامات العائلة في بداية اليوم.
 يتناول البرنامج أبرز المواضيع التي تهمّ الأسرة التونسية، من أخبار خفيفة ونصائح يومية، إلى فقرات صحية، اجتماعية وثقافية، مع استضافات تضيف قيمة وحيوية للحوار.
 هو موعد صباحي متكامل يمنح بداية يوم إيجابية ويقرّب المشاهد من نبض الحياة اليومية.</desc>
   </programme>
-  <programme start="20260602051000 +0100" stop="20260602055900 +0100" channel="wataniya1">
+  <programme start="20260603051000 +0100" stop="20260603055900 +0100" channel="wataniya1">
     <title lang="ar">قصص من الأرض</title>
     <desc lang="ar">رحلة استكشافية حول أعظم وأطول الأنهار في العالم، والتي كانت مهداً للحضارات وشريان الحياة لملايين الكائنات</desc>
   </programme>
