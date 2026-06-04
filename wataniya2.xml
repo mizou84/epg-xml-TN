@@ -4,96 +4,106 @@
     <display-name>Wataniya 2</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/langfr-500px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png"/>
   </channel>
-  <programme start="20260604060000 +0100" stop="20260604060100 +0100" channel="wataniya2">
+  <programme start="20260605060000 +0100" stop="20260605060100 +0100" channel="wataniya2">
     <title lang="ar">النشيد الرسمي</title>
     <desc lang="ar">النشيد الرسمي</desc>
   </programme>
-  <programme start="20260604060200 +0100" stop="20260604061800 +0100" channel="wataniya2">
+  <programme start="20260605060200 +0100" stop="20260605061700 +0100" channel="wataniya2">
     <title lang="ar">القرآن الكريم</title>
     <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
   </programme>
-  <programme start="20260604061900 +0100" stop="20260604062900 +0100" channel="wataniya2">
+  <programme start="20260605061800 +0100" stop="20260605063000 +0100" channel="wataniya2">
     <title lang="ar">ابتهالات</title>
     <desc lang="ar">لحظات روحانية مع ابتهالات خاشعة تلامس القلوب وتُحلّق بالأرواح نحو السمو. بكلمات مناجية وأصوات صادقة،… حيث ترتقي الأرواح وتطمئن القلوب.</desc>
   </programme>
-  <programme start="20260604063000 +0100" stop="20260604070400 +0100" channel="wataniya2">
+  <programme start="20260605063000 +0100" stop="20260605070400 +0100" channel="wataniya2">
     <title lang="ar">مقتطفات من أغاني أحمد جلمام</title>
     <desc lang="ar">مقتطفات من أغاني أحمد جلمام</desc>
   </programme>
-  <programme start="20260604070500 +0100" stop="20260604081400 +0100" channel="wataniya2">
+  <programme start="20260605070500 +0100" stop="20260605080900 +0100" channel="wataniya2">
     <title lang="ar">تبّعني</title>
     <desc lang="ar">دعوة لاكتشاف تونس بعيون جديدة، حيث تتقاطع الطبيعة مع التاريخ في لوحات نابضة بالحياة. من الشواطئ الساحرة إلى الجبال والواحات، ومن المدن العريقة إلى القرى الهادئة، يعرّفكم البرنامج على أبرز الوجهات السياحية وأجمل المناطق الطبيعية، ويكشف خفايا أماكن قد لا يعرفها الكثيرون</desc>
   </programme>
-  <programme start="20260604081500 +0100" stop="20260604085400 +0100" channel="wataniya2">
+  <programme start="20260605081000 +0100" stop="20260605084900 +0100" channel="wataniya2">
     <title lang="ar">مسلسل ماطوس</title>
     <desc lang="ar">تدور أحداث المسلسل في قرية «ماطوس» في نهاية القرن السابع عشر بالجنوب الشرقي التونسي، و التي يعيش متساكنوها في كنف الأمن والرخاء، إذ يعمرون تلك الأراضي الصحراوية القاحلة و يحولونها إلى واحات خضراء، لكن سرعان ما تنقلب الأمور رأسا على عقب عندما تتم مهاجمتها و مهاجمة سكانها من طرف بعض قطاع الطرق لتنقلب الموازين</desc>
   </programme>
-  <programme start="20260604085500 +0100" stop="20260604095900 +0100" channel="wataniya2">
-    <title lang="ar">وثائقي: الجمهور عايز كده</title>
-    <desc lang="ar">وثائقي: الجمهور عايز كده</desc>
+  <programme start="20260605085000 +0100" stop="20260605095400 +0100" channel="wataniya2">
+    <title lang="ar">شريط وثائقي: ما تزال في الزوايا بقايا</title>
+    <desc lang="ar">شريط وثائقي: ما تزال في الزوايا بقايا</desc>
   </programme>
-  <programme start="20260604100000 +0100" stop="20260604104900 +0100" channel="wataniya2">
+  <programme start="20260605095500 +0100" stop="20260605105900 +0100" channel="wataniya2">
     <title lang="ar">مسلسل: أمواج</title>
     <desc lang="ar">سناء فتاة جميلة وطيبة ومدللة من قبل والدها "مالك". يتوفى والدها ويترك لها ارثا كبيرا فيغار منها عمها وعمتها ويقرران التخلص منها باستعمال كل الطريق لكنهما لا ينجحان خاصة بوجود أشخاص مقربين منها يحولون دون تنفيذ مخططاتهما.</desc>
   </programme>
-  <programme start="20260604105500 +0100" stop="20260604114900 +0100" channel="wataniya2">
-    <title lang="ar">تونس المزيانة</title>
-    <desc lang="ar">تونس المزيانة</desc>
+  <programme start="20260605110000 +0100" stop="20260605111900 +0100" channel="wataniya2">
+    <title lang="ar">صنعة إيديك</title>
+    <desc lang="ar">صنعة إيديك</desc>
   </programme>
-  <programme start="20260604115000 +0100" stop="20260604125900 +0100" channel="wataniya2">
+  <programme start="20260605112000 +0100" stop="20260605122400 +0100" channel="wataniya2">
     <title lang="ar">صور متحركة</title>
     <desc lang="ar">صور متحركة</desc>
   </programme>
-  <programme start="20260604130000 +0100" stop="20260604140400 +0100" channel="wataniya2">
-    <title lang="ar">الثانية مباشر</title>
-    <desc lang="ar">الثانية مباشر</desc>
+  <programme start="20260605122500 +0100" stop="20260605125400 +0100" channel="wataniya2">
+    <title lang="ar">مقتطفات من أغاني أحمد جلمام</title>
+    <desc lang="ar">مقتطفات من أغاني أحمد جلمام</desc>
   </programme>
-  <programme start="20260604140500 +0100" stop="20260604143400 +0100" channel="wataniya2">
+  <programme start="20260605125500 +0100" stop="20260605125900 +0100" channel="wataniya2">
+    <title lang="ar">القرآن الكريم</title>
+    <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
+  </programme>
+  <programme start="20260605130000 +0100" stop="20260605133900 +0100" channel="wataniya2">
+    <title lang="ar">خطبة وصلاة الجمعة</title>
+    <desc lang="ar">موعد أسبوعي يجمع بين العبادة والتأملفي  نقل مباشر لخطبة وصلاة الجمعة من أحد الجوامع التونسية</desc>
+  </programme>
+  <programme start="20260605134000 +0100" stop="20260605141400 +0100" channel="wataniya2">
     <title lang="ar">شوفلي حل</title>
     <desc lang="ar">شوفلي حل</desc>
   </programme>
-  <programme start="20260604143500 +0100" stop="20260604153400 +0100" channel="wataniya2">
+  <programme start="20260605141500 +0100" stop="20260605151400 +0100" channel="wataniya2">
     <title lang="ar">مسلسل قمرة سيدي محروس</title>
     <desc lang="ar">تدور أحداثه في الفترة الممتدة بين الحرب العالمية الثانية واستقلال البلاد التونسية من الحماية الفرنسية، حيث تناول المسلسل ما عرفته تلك الفترة من نضال الحركة الوطنية التونسية ومساهمة المقاومة المسلحة في نيل الاستقلال ضمن إطار تاريخي، درامي واقعي.</desc>
   </programme>
-  <programme start="20260604153500 +0100" stop="20260604161900 +0100" channel="wataniya2">
+  <programme start="20260605151500 +0100" stop="20260605163500 +0100" channel="wataniya2">
+    <title lang="ar">سهرة من الأرشيف </title>
+    <desc lang="ar"> سهرة من الأرشيف </desc>
+  </programme>
+  <programme start="20260605163500 +0100" stop="20260605171900 +0100" channel="wataniya2">
     <title lang="ar">مسلسل نص يوم</title>
     <desc lang="ar">تبدأ أحداث العمل بوفاة رجل لديه إقطاعية زيتون واسعة، فيعود ابنه المغترب (ميار) إلى البلاد لإنهاء كل الالتزامات المهنية والعائلية للسفر من جديد، إلا أنهيقع شاب في حب يارا، الفتاة الجميلة التي تأسر قلبه وتدفعه إلى تغيير خططه والتخلي عن السفر، مفضّلًا البقاء إلى جانبها.
 
 لكن ما يبدو في البداية قصة حب واعدة سرعان ما يتحوّل إلى رحلة مليئة بالغموض والمفاجآت، حين يكتشف أن يارا تخفي وراء سحرها أسرارًا كثيرة</desc>
   </programme>
-  <programme start="20260604162000 +0100" stop="20260604171900 +0100" channel="wataniya2">
-    <title lang="ar">برنامج منا وفينا</title>
-    <desc lang="ar">برنامج منا وفينا</desc>
-  </programme>
-  <programme start="20260604172000 +0100" stop="20260604181900 +0100" channel="wataniya2">
+  <programme start="20260605172000 +0100" stop="20260605181900 +0100" channel="wataniya2">
     <title lang="ar">صور متحركة</title>
     <desc lang="ar">صور متحركة</desc>
   </programme>
-  <programme start="20260604182000 +0100" stop="20260604192400 +0100" channel="wataniya2">
-    <title lang="ar">الثانية مباشر</title>
-    <desc lang="ar">الثانية مباشر</desc>
+  <programme start="20260605182000 +0100" stop="20260605192400 +0100" channel="wataniya2">
+    <title lang="ar">منازل الفن</title>
+    <desc lang="ar">منازل الفن فضاء للتفكير والتفكيك داخل بيوت الثقافة والفن ..ليس المهم أن نجيب عن جميع الأسئلة ولكن حسبنا أننا نستعرض الأسئلة وندعو الى التفكير والفهم.
+منازل الفن برنامج ثقافي إعداد وتقديم شادية خذير إخراج هشام العكرمي 
+</desc>
   </programme>
-  <programme start="20260604192500 +0100" stop="20260604202900 +0100" channel="wataniya2">
+  <programme start="20260605192500 +0100" stop="20260605202900 +0100" channel="wataniya2">
     <title lang="ar">مسلسل: أمواج</title>
     <desc lang="ar">سناء فتاة جميلة وطيبة ومدللة من قبل والدها "مالك". يتوفى والدها ويترك لها ارثا كبيرا فيغار منها عمها وعمتها ويقرران التخلص منها باستعمال كل الطريق لكنهما لا ينجحان خاصة بوجود أشخاص مقربين منها يحولون دون تنفيذ مخططاتهما.</desc>
   </programme>
-  <programme start="20260604203000 +0100" stop="20260604211400 +0100" channel="wataniya2">
+  <programme start="20260605203000 +0100" stop="20260605211400 +0100" channel="wataniya2">
     <title lang="ar">شوفلي حل</title>
     <desc lang="ar">شوفلي حل</desc>
   </programme>
-  <programme start="20260604211500 +0100" stop="20260604221400 +0100" channel="wataniya2">
+  <programme start="20260605211500 +0100" stop="20260605221400 +0100" channel="wataniya2">
     <title lang="ar">مسلسل قمرة سيدي محروس</title>
     <desc lang="ar">تدور أحداثه في الفترة الممتدة بين الحرب العالمية الثانية واستقلال البلاد التونسية من الحماية الفرنسية، حيث تناول المسلسل ما عرفته تلك الفترة من نضال الحركة الوطنية التونسية ومساهمة المقاومة المسلحة في نيل الاستقلال ضمن إطار تاريخي، درامي واقعي.</desc>
   </programme>
-  <programme start="20260604221500 +0100" stop="20260604225900 +0100" channel="wataniya2">
+  <programme start="20260605221500 +0100" stop="20260605225900 +0100" channel="wataniya2">
     <title lang="ar">مسلسل نص يوم</title>
     <desc lang="ar">تبدأ أحداث العمل بوفاة رجل لديه إقطاعية زيتون واسعة، فيعود ابنه المغترب (ميار) إلى البلاد لإنهاء كل الالتزامات المهنية والعائلية للسفر من جديد، إلا أنهيقع شاب في حب يارا، الفتاة الجميلة التي تأسر قلبه وتدفعه إلى تغيير خططه والتخلي عن السفر، مفضّلًا البقاء إلى جانبها.
 
 لكن ما يبدو في البداية قصة حب واعدة سرعان ما يتحوّل إلى رحلة مليئة بالغموض والمفاجآت، حين يكتشف أن يارا تخفي وراء سحرها أسرارًا كثيرة</desc>
   </programme>
-  <programme start="20260604230000 +0100" stop="20260604235900 +0100" channel="wataniya2">
-    <title lang="ar">فقرة غنائية: أم كلثوم</title>
-    <desc lang="ar">فقرة غنائية: أم كلثوم</desc>
+  <programme start="20260605230000 +0100" stop="20260605235900 +0100" channel="wataniya2">
+    <title lang="ar">سهرة من الأرشيف </title>
+    <desc lang="ar"> سهرة من الأرشيف </desc>
   </programme>
 </tv>
