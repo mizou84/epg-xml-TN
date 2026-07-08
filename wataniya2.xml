@@ -4,92 +4,86 @@
     <display-name>Wataniya 2</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/langfr-500px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png"/>
   </channel>
-  <programme start="20260708060000 +0100" stop="20260708060100 +0100" channel="wataniya2">
+  <programme start="20260709060000 +0100" stop="20260709060100 +0100" channel="wataniya2">
     <title lang="ar">النشيد الرسمي</title>
     <desc lang="ar">النشيد الرسمي</desc>
   </programme>
-  <programme start="20260708060200 +0100" stop="20260708062200 +0100" channel="wataniya2">
+  <programme start="20260709060200 +0100" stop="20260709061800 +0100" channel="wataniya2">
     <title lang="ar">القرآن الكريم</title>
     <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
   </programme>
-  <programme start="20260708062300 +0100" stop="20260708062900 +0100" channel="wataniya2">
+  <programme start="20260709061900 +0100" stop="20260709062900 +0100" channel="wataniya2">
     <title lang="ar">ابتهالات</title>
     <desc lang="ar">لحظات روحانية مع ابتهالات خاشعة تلامس القلوب وتُحلّق بالأرواح نحو السمو. بكلمات مناجية وأصوات صادقة،… حيث ترتقي الأرواح وتطمئن القلوب.</desc>
   </programme>
-  <programme start="20260708063000 +0100" stop="20260708070400 +0100" channel="wataniya2">
+  <programme start="20260709063000 +0100" stop="20260709070400 +0100" channel="wataniya2">
     <title lang="ar">مقتطفات من أغاني أحمد جلمام</title>
     <desc lang="ar">مقتطفات من أغاني أحمد جلمام</desc>
   </programme>
-  <programme start="20260708070500 +0100" stop="20260708075900 +0100" channel="wataniya2">
+  <programme start="20260709070500 +0100" stop="20260709075900 +0100" channel="wataniya2">
     <title lang="ar">تبّعني</title>
     <desc lang="ar">دعوة لاكتشاف تونس بعيون جديدة، حيث تتقاطع الطبيعة مع التاريخ في لوحات نابضة بالحياة. من الشواطئ الساحرة إلى الجبال والواحات، ومن المدن العريقة إلى القرى الهادئة، يعرّفكم البرنامج على أبرز الوجهات السياحية وأجمل المناطق الطبيعية، ويكشف خفايا أماكن قد لا يعرفها الكثيرون</desc>
   </programme>
-  <programme start="20260708080000 +0100" stop="20260708084400 +0100" channel="wataniya2">
+  <programme start="20260709080000 +0100" stop="20260709085900 +0100" channel="wataniya2">
     <title lang="ar">المسلسل التاريخي ج2: خالد بن الوليد </title>
     <desc lang="ar">المسلسل التاريخي ج2: خالد بن الوليد </desc>
   </programme>
-  <programme start="20260708084500 +0100" stop="20260708093400 +0100" channel="wataniya2">
-    <title lang="ar">وثائقي: قرطاجنة</title>
-    <desc lang="ar">قرطاجنة هي مدينة ساحلية تقع في منطقة مرسية جنوب شرق إسبانيا</desc>
+  <programme start="20260709090000 +0100" stop="20260709125900 +0100" channel="wataniya2">
+    <title lang="ar">نقل مباشر لجلسات مجلس نواب الشعب </title>
+    <desc lang="ar">نقل مباشر لجلسات مجلس نواب الشعب </desc>
   </programme>
-  <programme start="20260708093500 +0100" stop="20260708095900 +0100" channel="wataniya2">
-    <title lang="ar">الفايجة... كاف النقشة</title>
-    <desc lang="ar">الفايجة محمية طبيعية عالمية، تمتاز بغابات الزان والفرنان الكثيفة، وهي الملاذ الأخير للأيل الأطلسي. لكن جمالها لا يتوقف عند الطبيعة الخضراء، بل يمتد إلى تشكيلاتها الصخرية العملاقة التي اتخذها الإنسان قديماً حصوناً ومساكن.</desc>
-  </programme>
-  <programme start="20260708100000 +0100" stop="20260708104400 +0100" channel="wataniya2">
-    <title lang="ar">مسلسل غادة</title>
-    <desc lang="ar">مسلسل غادة</desc>
-  </programme>
-  <programme start="20260708104500 +0100" stop="20260708105900 +0100" channel="wataniya2">
-    <title lang="ar">صنعة إيديك</title>
-    <desc lang="ar">صنعة إيديك</desc>
-  </programme>
-  <programme start="20260708110000 +0100" stop="20260708125900 +0100" channel="wataniya2">
-    <title lang="ar">صور متحركة</title>
-    <desc lang="ar">صور متحركة</desc>
-  </programme>
-  <programme start="20260708130000 +0100" stop="20260708133900 +0100" channel="wataniya2">
+  <programme start="20260709130000 +0100" stop="20260709134900 +0100" channel="wataniya2">
     <title lang="ar">شوفلي حل</title>
     <desc lang="ar">شوفلي حل</desc>
   </programme>
-  <programme start="20260708134000 +0100" stop="20260708143900 +0100" channel="wataniya2">
+  <programme start="20260709135000 +0100" stop="20260709144400 +0100" channel="wataniya2">
     <title lang="ar">عنبر الليل </title>
     <desc lang="ar">تدور أحداث المسلسل في تونس في فترة الأربعينات، مع عائلة من الطبقة المتوسطة تعصف بها أنماط العيش الجديدة التي فرضتها تحولات القيم التي شهدتها فترة ما بعد الحرب العالمية الثانية تحول خلالها الأخوان سليمان وعزوز إلى أعداء وتتوالى الأحداث.</desc>
   </programme>
-  <programme start="20260708144000 +0100" stop="20260708151900 +0100" channel="wataniya2">
-    <title lang="ar">الذكرى الستون للتلفزة التونسية: الميلاد و العنفوان (الدراما...الروايات و التمثليات -الجزء الثاني- ) </title>
-    <desc lang="ar">وثائقي بمناسبة مرور 60 عاما على تأسيس التلفزة التونسية</desc>
+  <programme start="20260709144500 +0100" stop="20260709152900 +0100" channel="wataniya2">
+    <title lang="ar">مسرح المدينة</title>
+    <desc lang="ar">حصة أسبوعية تعنى بالمسرح ومواكبة العروض المسرحية الراهنة وتناقشها مع عدد من المسرحيين</desc>
   </programme>
-  <programme start="20260708152000 +0100" stop="20260708165400 +0100" channel="wataniya2">
-    <title lang="ar">في الذاكرة الرياضية</title>
-    <desc lang="ar">في الذاكرة الرياضية</desc>
+  <programme start="20260709153000 +0100" stop="20260709165900 +0100" channel="wataniya2">
+    <title lang="ar">شريط تلفزي: طلاق إنشاء</title>
+    <desc lang="ar">تدور الأحداث في إطار درامي حول المرأة التونسية وحقها في طلاق الإنشاء، والاستقواء الذي تمارسه المرأة ضد زوجها، مرورًا بالحرية الكبيرة التي تتمتع بها المرأة.</desc>
   </programme>
-  <programme start="20260708165500 +0100" stop="20260708173400 +0100" channel="wataniya2">
+  <programme start="20260709170000 +0100" stop="20260709174400 +0100" channel="wataniya2">
     <title lang="ar">مسلسل ضيف على غفلة</title>
     <desc lang="ar">مسلسل ضيف على غفلة</desc>
   </programme>
-  <programme start="20260708173500 +0100" stop="20260708191900 +0100" channel="wataniya2">
+  <programme start="20260709174500 +0100" stop="20260709184400 +0100" channel="wataniya2">
     <title lang="ar">صور متحركة</title>
     <desc lang="ar">صور متحركة</desc>
   </programme>
-  <programme start="20260708192000 +0100" stop="20260708202900 +0100" channel="wataniya2">
-    <title lang="ar">مسلسل غادة</title>
-    <desc lang="ar">مسلسل غادة</desc>
+  <programme start="20260709184500 +0100" stop="20260709191400 +0100" channel="wataniya2">
+    <title lang="ar">سلسلة جنون القايلة</title>
+    <desc lang="ar">سلسلة جنون القايلة</desc>
   </programme>
-  <programme start="20260708203000 +0100" stop="20260708211900 +0100" channel="wataniya2">
+  <programme start="20260709191500 +0100" stop="20260709192900 +0100" channel="wataniya2">
+    <title lang="ar">أحكيلي عليها</title>
+    <desc lang="ar">برنامجنا الجديد على الوطنية الأولى بمناسبة شهر رمضان المعظم سوف يأخذنا في جولات داخل الأحياء(الحوم جمع حومة) وفي كل حي أو مدينة سوف تتحدث عن الماضي و الحاضر.
+ تذكر بما كان يرويه الأسلاف من حكايات في شكل خرافات حتى نربط الماضي بالحاضر.
+</desc>
+  </programme>
+  <programme start="20260709193000 +0100" stop="20260709202900 +0100" channel="wataniya2">
+    <title lang="ar">مسلسل بين الثنايا</title>
+    <desc lang="ar">تدور أحداث المسلسل في عالم من الجشع والطمع والرغبة في الاستحواذ على أملاك الغير، في عالم من الحيل والشر.</desc>
+  </programme>
+  <programme start="20260709203000 +0100" stop="20260709211900 +0100" channel="wataniya2">
     <title lang="ar">شوفلي حل</title>
     <desc lang="ar">شوفلي حل</desc>
   </programme>
-  <programme start="20260708212000 +0100" stop="20260708221900 +0100" channel="wataniya2">
-    <title lang="ar">الخطاب على الباب</title>
-    <desc lang="ar">يروي المسلسل أجواء الأحياء العتيقة بالعاصمة التونسية خلال شهر رمضان المعظم، مما يدخل الفكاهة سواء من الشيخ تحيفة وسطيّش في منزل الشاذلي التمار، أو من عبودة وتصرفاته الكوميدية في محل النجار صليح أو في المقهى مع أبناء الحي عندما يحين موعد الإفطار ليحلو السهر في «قهوة السوق». كما يروي المسلسل قصة حب بين فاطمة ابنة الشاذلي التمار، والطالب أحمد المقيم بتونس، إضافة إلى طرح عدة قضايا اجتماعية أخرى. </desc>
+  <programme start="20260709212000 +0100" stop="20260709221900 +0100" channel="wataniya2">
+    <title lang="ar">عنبر الليل </title>
+    <desc lang="ar">تدور أحداث المسلسل في تونس في فترة الأربعينات، مع عائلة من الطبقة المتوسطة تعصف بها أنماط العيش الجديدة التي فرضتها تحولات القيم التي شهدتها فترة ما بعد الحرب العالمية الثانية تحول خلالها الأخوان سليمان وعزوز إلى أعداء وتتوالى الأحداث.</desc>
   </programme>
-  <programme start="20260708222000 +0100" stop="20260708230400 +0100" channel="wataniya2">
+  <programme start="20260709222000 +0100" stop="20260709225900 +0100" channel="wataniya2">
     <title lang="ar">مسلسل ضيف على غفلة</title>
     <desc lang="ar">مسلسل ضيف على غفلة</desc>
   </programme>
-  <programme start="20260708230500 +0100" stop="20260708235900 +0100" channel="wataniya2">
-    <title lang="ar">الذكرى الستون للتلفزة التونسية: الميلاد و العنفوان (الدراما...الروايات و التمثليات -الجزء الثاني- ) </title>
-    <desc lang="ar">وثائقي بمناسبة مرور 60 عاما على تأسيس التلفزة التونسية</desc>
+  <programme start="20260709230000 +0100" stop="20260709235900 +0100" channel="wataniya2">
+    <title lang="ar">فقرة غنائية: أم كلثوم</title>
+    <desc lang="ar">فقرة غنائية: أم كلثوم</desc>
   </programme>
 </tv>
