@@ -4,144 +4,162 @@
     <display-name>Wataniya 1</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/960px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png"/>
   </channel>
-  <programme start="20260713060000 +0100" stop="20260713060100 +0100" channel="wataniya1">
+  <programme start="20260714060000 +0100" stop="20260714060100 +0100" channel="wataniya1">
     <title lang="ar">النشيد الرسمي</title>
     <desc lang="ar">النشيد الرسمي</desc>
   </programme>
-  <programme start="20260713060200 +0100" stop="20260713063400 +0100" channel="wataniya1">
+  <programme start="20260714060200 +0100" stop="20260714061800 +0100" channel="wataniya1">
     <title lang="ar">القرآن الكريم</title>
     <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
   </programme>
-  <programme start="20260713063500 +0100" stop="20260713065900 +0100" channel="wataniya1">
+  <programme start="20260714061900 +0100" stop="20260714064400 +0100" channel="wataniya1">
     <title lang="ar">ابتهالات</title>
     <desc lang="ar">لحظات روحانية مع ابتهالات خاشعة تلامس القلوب وتُحلّق بالأرواح نحو السمو. بكلمات مناجية وأصوات صادقة،… حيث ترتقي الأرواح وتطمئن القلوب.</desc>
   </programme>
-  <programme start="20260713070000 +0100" stop="20260713072900 +0100" channel="wataniya1">
+  <programme start="20260714064500 +0100" stop="20260714070900 +0100" channel="wataniya1">
     <title lang="ar">في خلقه شؤون</title>
     <desc lang="ar">وثائقي يسلّط الضوء على عظمة خلق الله وتنوّع شؤونه في الكون، من خلال عرض مشاهد الطبيعة والحياة، مبرزًا دقّة الخلق وجماله وتجدّده المستمر بأسلوب بصري وتأمّلي يعزّز الإيمان والتفكّر</desc>
   </programme>
-  <programme start="20260713073000 +0100" stop="20260713074900 +0100" channel="wataniya1">
+  <programme start="20260714071000 +0100" stop="20260714072900 +0100" channel="wataniya1">
     <title lang="ar">قضاة من تاريخنا</title>
     <desc lang="ar">حلقات قصيرة منفصلة تتمحور حول شخصيات تاريخية تولّوا القضاء في القيروان أثروا في العديد من مواقف حكام الدولة الأغلبية، متناولًا مسیرة كل منھم.</desc>
   </programme>
-  <programme start="20260713075000 +0100" stop="20260713081900 +0100" channel="wataniya1">
-    <title lang="ar">المتحف الوطني بباردو.. كنوز الحضارات</title>
-    <desc lang="ar">وثائقي يسلط الضوء على كنوز متحف باردو</desc>
+  <programme start="20260714073000 +0100" stop="20260714082900 +0100" channel="wataniya1">
+    <title lang="ar"> فات الفوت</title>
+    <desc lang="ar">فات الفوت لعبداللطيف قروري حول ظاهرة كرة القدم في تونس... معالجة اجتماعية وسياسية و نفسية واقتصادية</desc>
   </programme>
-  <programme start="20260713082000 +0100" stop="20260713091400 +0100" channel="wataniya1">
+  <programme start="20260714083000 +0100" stop="20260714091900 +0100" channel="wataniya1">
     <title lang="ar">قصص من الأرض</title>
     <desc lang="ar">رحلة استكشافية حول أعظم وأطول الأنهار في العالم، والتي كانت مهداً للحضارات وشريان الحياة لملايين الكائنات</desc>
   </programme>
-  <programme start="20260713091500 +0100" stop="20260713095900 +0100" channel="wataniya1">
-    <title lang="ar">تونس المزيانة</title>
-    <desc lang="ar">تونس المزيانة</desc>
+  <programme start="20260714092000 +0100" stop="20260714095900 +0100" channel="wataniya1">
+    <title lang="ar">تونس المدينة العتيقة</title>
+    <desc lang="ar">رحلة داخل أزقة المدينة العتيقة، حيث يلتقي التاريخ بالحياة اليومية في تناغم فريد. ن خلال معالمها العريقة، وأسواقها النابضة، وحِرفها التقليدية نغوص في ذاكرة المكان، حيث لكل زاوية حكاية، ولكل باب أثر يروي جزءًا من تاريخ تونس.</desc>
   </programme>
-  <programme start="20260713100000 +0100" stop="20260713102900 +0100" channel="wataniya1">
+  <programme start="20260714100000 +0100" stop="20260714102900 +0100" channel="wataniya1">
     <title lang="ar">ديما عامرة</title>
     <desc lang="ar">من الأكلات الشعبية إلى الأطباق العائلية الغنية، نكتشف معًا أسرار المطبخ التونسي، بلمسة عصرية وروح مليئة بالدفء والكرم</desc>
   </programme>
-  <programme start="20260713103000 +0100" stop="20260713105900 +0100" channel="wataniya1">
-    <title lang="ar">الفايجة... كاف النقشة</title>
-    <desc lang="ar">الفايجة محمية طبيعية عالمية، تمتاز بغابات الزان والفرنان الكثيفة، وهي الملاذ الأخير للأيل الأطلسي. لكن جمالها لا يتوقف عند الطبيعة الخضراء، بل يمتد إلى تشكيلاتها الصخرية العملاقة التي اتخذها الإنسان قديماً حصوناً ومساكن.</desc>
+  <programme start="20260714103000 +0100" stop="20260714105900 +0100" channel="wataniya1">
+    <title lang="ar">أحكيلي عليها</title>
+    <desc lang="ar">برنامجنا الجديد على الوطنية الأولى بمناسبة شهر رمضان المعظم سوف يأخذنا في جولات داخل الأحياء(الحوم جمع حومة) وفي كل حي أو مدينة سوف تتحدث عن الماضي و الحاضر.
+ تذكر بما كان يرويه الأسلاف من حكايات في شكل خرافات حتى نربط الماضي بالحاضر.
+</desc>
   </programme>
-  <programme start="20260713110000 +0100" stop="20260713115900 +0100" channel="wataniya1">
-    <title lang="ar">المجلة الصحية</title>
-    <desc lang="ar">المجلة الصحية</desc>
+  <programme start="20260714110000 +0100" stop="20260714120900 +0100" channel="wataniya1">
+    <title lang="ar">جيل المستقبل</title>
+    <desc lang="ar">برنامج يواكب طموحات الشباب التونسي، بين قصص نجاح ملهمة ونقاشات حول تحديات العصر الرقمي والاجتماعي.
+مساحة لصوت الجيل الجديد ورؤيته للمستقبل.
+جيل المستقبل برنامج نصف شهري إعداد وتقديم فاطمة بن جمعة</desc>
   </programme>
-  <programme start="20260713120000 +0100" stop="20260713125900 +0100" channel="wataniya1">
+  <programme start="20260714121000 +0100" stop="20260714125900 +0100" channel="wataniya1">
     <title lang="ar">باب الرزق</title>
     <desc lang="ar">باب الرزق</desc>
   </programme>
-  <programme start="20260713130000 +0100" stop="20260713131900 +0100" channel="wataniya1">
+  <programme start="20260714130000 +0100" stop="20260714131900 +0100" channel="wataniya1">
     <title lang="ar">نشرة الظهر للأخبار </title>
     <desc lang="ar">نشرة الظهر للأخبار </desc>
   </programme>
-  <programme start="20260713132000 +0100" stop="20260713140900 +0100" channel="wataniya1">
+  <programme start="20260714132000 +0100" stop="20260714140900 +0100" channel="wataniya1">
     <title lang="ar">أستوديو المونديال</title>
     <desc lang="ar"> استوديو المونديال: حصة يومية خاصة بكأس العالم 2026 ...في الحصة مواكبات … تغطية خاصة لكواليس المنتخب التونسي تصريحات … وهوامش مع بعثة التلفزة الوطنية إلى المكسيك.</desc>
   </programme>
-  <programme start="20260713141000 +0100" stop="20260713145900 +0100" channel="wataniya1">
-    <title lang="ar">قصص من الأرض</title>
-    <desc lang="ar">رحلة استكشافية حول أعظم وأطول الأنهار في العالم، والتي كانت مهداً للحضارات وشريان الحياة لملايين الكائنات</desc>
-  </programme>
-  <programme start="20260713150000 +0100" stop="20260713161900 +0100" channel="wataniya1">
-    <title lang="ar">من حكايات العروي</title>
-    <desc lang="ar">من حكايات العروي</desc>
-  </programme>
-  <programme start="20260713162000 +0100" stop="20260713165900 +0100" channel="wataniya1">
-    <title lang="ar">دار الخلاعة</title>
-    <desc lang="ar">كريّم، خبير محاسب، يقرر قضاء عطلته الصيفية مع زوجته الجديدة حياة، التي تصغره سنًا. يدعو شقيقتي حياة، هادية وهناء، لقضاء العطلة معهما في منزل على البحر في منطقة الوطن القبلي، رفقة عائلاتهما.</desc>
-  </programme>
-  <programme start="20260713170000 +0100" stop="20260713171900 +0100" channel="wataniya1">
-    <title lang="ar">النشرة المسائية للأخبار</title>
-    <desc lang="ar">النشرة المسائية للأخبار</desc>
-  </programme>
-  <programme start="20260713172000 +0100" stop="20260713172400 +0100" channel="wataniya1">
-    <title lang="ar">إصدارات</title>
-    <desc lang="ar">ملخص لآخر الاصدارات الادبية والدواوين الشعرية والنشريات الثقافية</desc>
-  </programme>
-  <programme start="20260713172500 +0100" stop="20260713181900 +0100" channel="wataniya1">
-    <title lang="ar">مسلسل ضفائر</title>
-    <desc lang="ar">تدور أحداث المسلسل في الثلاثينات من القرن الماضي ويروي قصة فتاة ريفية إسمها عارم تعرضت للإختطاف ليلة زواجها من ابن عمها إبراهيم لكنها بقيت تحبه وتقابله خلسة وتتحول فيما بعد إلى مقاومة للإستعمار وتنضم إلى مجموعة الفلاقة فتكرّس كل حياتها من أجل المقاومة والدفاع عن بلدها.</desc>
-  </programme>
-  <programme start="20260713182000 +0100" stop="20260713184400 +0100" channel="wataniya1">
-    <title lang="ar">جيران الغفلة</title>
-    <desc lang="ar">في إطار كوميدي تتبع أحداث المسلسل قصة الكابتن طيار كمال وعائلته مع مدربة اليوغا انتصار وعائلتها اللذان قاما بشراء نفس المنزل من قبل شخص متحيل مما اضطرهم إلى السكن مع بعضهم البعض إلى أن يجدوا حلا في وضعية المنزل المشترك</desc>
-  </programme>
-  <programme start="20260713184500 +0100" stop="20260713195900 +0100" channel="wataniya1">
+  <programme start="20260714141000 +0100" stop="20260714152400 +0100" channel="wataniya1">
     <title lang="ar">حدث وتحليل</title>
     <desc lang="ar">برنامج 'حدث وتحليل' يجمع نخبة من المحللين ليقدموا لكم قراءة هادئة وسط ضجيج الأخبار. من كواليس السياسة إلى أزمات الاقتصاد، نمنحكم الأدوات لتحليل الواقع واستشراف المستقبل</desc>
   </programme>
-  <programme start="20260713200000 +0100" stop="20260713203900 +0100" channel="wataniya1">
+  <programme start="20260714152500 +0100" stop="20260714160400 +0100" channel="wataniya1">
+    <title lang="ar">من حكايات العروي</title>
+    <desc lang="ar">من حكايات العروي</desc>
+  </programme>
+  <programme start="20260714160500 +0100" stop="20260714165900 +0100" channel="wataniya1">
+    <title lang="ar">دار الخلاعة</title>
+    <desc lang="ar">كريّم، خبير محاسب، يقرر قضاء عطلته الصيفية مع زوجته الجديدة حياة، التي تصغره سنًا. يدعو شقيقتي حياة، هادية وهناء، لقضاء العطلة معهما في منزل على البحر في منطقة الوطن القبلي، رفقة عائلاتهما.</desc>
+  </programme>
+  <programme start="20260714170000 +0100" stop="20260714171900 +0100" channel="wataniya1">
+    <title lang="ar">النشرة المسائية للأخبار</title>
+    <desc lang="ar">النشرة المسائية للأخبار</desc>
+  </programme>
+  <programme start="20260714172000 +0100" stop="20260714172400 +0100" channel="wataniya1">
+    <title lang="ar">إصدارات</title>
+    <desc lang="ar">ملخص لآخر الاصدارات الادبية والدواوين الشعرية والنشريات الثقافية</desc>
+  </programme>
+  <programme start="20260714172500 +0100" stop="20260714181900 +0100" channel="wataniya1">
+    <title lang="ar">مسلسل ضفائر</title>
+    <desc lang="ar">تدور أحداث المسلسل في الثلاثينات من القرن الماضي ويروي قصة فتاة ريفية إسمها عارم تعرضت للإختطاف ليلة زواجها من ابن عمها إبراهيم لكنها بقيت تحبه وتقابله خلسة وتتحول فيما بعد إلى مقاومة للإستعمار وتنضم إلى مجموعة الفلاقة فتكرّس كل حياتها من أجل المقاومة والدفاع عن بلدها.</desc>
+  </programme>
+  <programme start="20260714182000 +0100" stop="20260714183900 +0100" channel="wataniya1">
+    <title lang="ar">جيران الغفلة</title>
+    <desc lang="ar">في إطار كوميدي تتبع أحداث المسلسل قصة الكابتن طيار كمال وعائلته مع مدربة اليوغا انتصار وعائلتها اللذان قاما بشراء نفس المنزل من قبل شخص متحيل مما اضطرهم إلى السكن مع بعضهم البعض إلى أن يجدوا حلا في وضعية المنزل المشترك</desc>
+  </programme>
+  <programme start="20260714184000 +0100" stop="20260714192400 +0100" channel="wataniya1">
+    <title lang="ar">برنامج صيف وكيف</title>
+    <desc lang="ar">من قلب السواحل التونسية</desc>
+  </programme>
+  <programme start="20260714192500 +0100" stop="20260714195900 +0100" channel="wataniya1">
+    <title lang="ar">نسمة صيف</title>
+    <desc lang="ar">نسمة صيف هي حصة يومية فيها مواكبة لأبرز العروض في المهرجانات الصيفية</desc>
+  </programme>
+  <programme start="20260714200000 +0100" stop="20260714203900 +0100" channel="wataniya1">
     <title lang="ar">النشرة الرئيسية للأخبار </title>
     <desc lang="ar">النشرة الرئيسية للأخبار </desc>
   </programme>
-  <programme start="20260713204000 +0100" stop="20260713204400 +0100" channel="wataniya1">
+  <programme start="20260714204000 +0100" stop="20260714204400 +0100" channel="wataniya1">
     <title lang="ar">النشرة الجوية</title>
     <desc lang="ar">النشرة الجوية</desc>
   </programme>
-  <programme start="20260713204500 +0100" stop="20260713213400 +0100" channel="wataniya1">
+  <programme start="20260714204500 +0100" stop="20260714213400 +0100" channel="wataniya1">
     <title lang="ar">أستوديو المونديال</title>
     <desc lang="ar"> استوديو المونديال: حصة يومية خاصة بكأس العالم 2026 ...في الحصة مواكبات … تغطية خاصة لكواليس المنتخب التونسي تصريحات … وهوامش مع بعثة التلفزة الوطنية إلى المكسيك.</desc>
   </programme>
-  <programme start="20260713213500 +0100" stop="20260713222900 +0100" channel="wataniya1">
+  <programme start="20260714213500 +0100" stop="20260714222900 +0100" channel="wataniya1">
     <title lang="ar">باب الرزق</title>
     <desc lang="ar">باب الرزق</desc>
   </programme>
-  <programme start="20260713223000 +0100" stop="20260713235900 +0100" channel="wataniya1">
+  <programme start="20260714223000 +0100" stop="20260714235900 +0100" channel="wataniya1">
     <title lang="ar">حفل من مهرجان</title>
     <desc lang="ar">حفل من أحد المهرجانات، في أجواء احتفالية تجمع بين الفن والموسيقى وحضور جماهيري مميز.
 سهرة نابضة بالحياة، يلتقي فيها الجمهور مع عروض فنية متنوّعة، تعكس ثراء المشهد الثقافي وروح الاحتفال.</desc>
   </programme>
-  <programme start="20260713000000 +0100" stop="20260713001400 +0100" channel="wataniya1">
+  <programme start="20260714000000 +0100" stop="20260714001400 +0100" channel="wataniya1">
     <title lang="ar">نشرة منتصف الليل للأخبار </title>
     <desc lang="ar">نشرة منتصف الليل للأخبار </desc>
   </programme>
-  <programme start="20260713001500 +0100" stop="20260713001900 +0100" channel="wataniya1">
+  <programme start="20260714001500 +0100" stop="20260714001900 +0100" channel="wataniya1">
     <title lang="ar">النشرة الجوية</title>
     <desc lang="ar">النشرة الجوية</desc>
   </programme>
-  <programme start="20260713002000 +0100" stop="20260713010900 +0100" channel="wataniya1">
+  <programme start="20260714002000 +0100" stop="20260714011400 +0100" channel="wataniya1">
     <title lang="ar">مسلسل ضفائر</title>
     <desc lang="ar">تدور أحداث المسلسل في الثلاثينات من القرن الماضي ويروي قصة فتاة ريفية إسمها عارم تعرضت للإختطاف ليلة زواجها من ابن عمها إبراهيم لكنها بقيت تحبه وتقابله خلسة وتتحول فيما بعد إلى مقاومة للإستعمار وتنضم إلى مجموعة الفلاقة فتكرّس كل حياتها من أجل المقاومة والدفاع عن بلدها.</desc>
   </programme>
-  <programme start="20260713011000 +0100" stop="20260713014900 +0100" channel="wataniya1">
+  <programme start="20260714011500 +0100" stop="20260714015900 +0100" channel="wataniya1">
     <title lang="ar">دار الخلاعة</title>
     <desc lang="ar">كريّم، خبير محاسب، يقرر قضاء عطلته الصيفية مع زوجته الجديدة حياة، التي تصغره سنًا. يدعو شقيقتي حياة، هادية وهناء، لقضاء العطلة معهما في منزل على البحر في منطقة الوطن القبلي، رفقة عائلاتهما.</desc>
   </programme>
-  <programme start="20260713015000 +0100" stop="20260713020900 +0100" channel="wataniya1">
+  <programme start="20260714020000 +0100" stop="20260714021900 +0100" channel="wataniya1">
+    <title lang="ar">نسمة صيف</title>
+    <desc lang="ar">نسمة صيف هي حصة يومية فيها مواكبة لأبرز العروض في المهرجانات الصيفية</desc>
+  </programme>
+  <programme start="20260714022000 +0100" stop="20260714023900 +0100" channel="wataniya1">
     <title lang="ar">جيران الغفلة</title>
     <desc lang="ar">في إطار كوميدي تتبع أحداث المسلسل قصة الكابتن طيار كمال وعائلته مع مدربة اليوغا انتصار وعائلتها اللذان قاما بشراء نفس المنزل من قبل شخص متحيل مما اضطرهم إلى السكن مع بعضهم البعض إلى أن يجدوا حلا في وضعية المنزل المشترك</desc>
   </programme>
-  <programme start="20260713021000 +0100" stop="20260713032400 +0100" channel="wataniya1">
-    <title lang="ar">من حكايات العروي</title>
-    <desc lang="ar">من حكايات العروي</desc>
+  <programme start="20260714024000 +0100" stop="20260714034400 +0100" channel="wataniya1">
+    <title lang="ar">جيل المستقبل</title>
+    <desc lang="ar">برنامج يواكب طموحات الشباب التونسي، بين قصص نجاح ملهمة ونقاشات حول تحديات العصر الرقمي والاجتماعي.
+مساحة لصوت الجيل الجديد ورؤيته للمستقبل.
+جيل المستقبل برنامج نصف شهري إعداد وتقديم فاطمة بن جمعة</desc>
   </programme>
-  <programme start="20260713032400 +0100" stop="20260713050900 +0100" channel="wataniya1">
-    <title lang="ar">حدث وتحليل</title>
-    <desc lang="ar">برنامج 'حدث وتحليل' يجمع نخبة من المحللين ليقدموا لكم قراءة هادئة وسط ضجيج الأخبار. من كواليس السياسة إلى أزمات الاقتصاد، نمنحكم الأدوات لتحليل الواقع واستشراف المستقبل</desc>
+  <programme start="20260714034500 +0100" stop="20260714044400 +0100" channel="wataniya1">
+    <title lang="ar"> فات الفوت</title>
+    <desc lang="ar">فات الفوت لعبداللطيف قروري حول ظاهرة كرة القدم في تونس... معالجة اجتماعية وسياسية و نفسية واقتصادية</desc>
   </programme>
-  <programme start="20260713051000 +0100" stop="20260713055900 +0100" channel="wataniya1">
+  <programme start="20260714044500 +0100" stop="20260714051900 +0100" channel="wataniya1">
+    <title lang="ar">تونس المدينة العتيقة</title>
+    <desc lang="ar">رحلة داخل أزقة المدينة العتيقة، حيث يلتقي التاريخ بالحياة اليومية في تناغم فريد. ن خلال معالمها العريقة، وأسواقها النابضة، وحِرفها التقليدية نغوص في ذاكرة المكان، حيث لكل زاوية حكاية، ولكل باب أثر يروي جزءًا من تاريخ تونس.</desc>
+  </programme>
+  <programme start="20260714052000 +0100" stop="20260714055900 +0100" channel="wataniya1">
     <title lang="ar">قصص من الأرض</title>
     <desc lang="ar">رحلة استكشافية حول أعظم وأطول الأنهار في العالم، والتي كانت مهداً للحضارات وشريان الحياة لملايين الكائنات</desc>
   </programme>
