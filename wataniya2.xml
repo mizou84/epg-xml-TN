@@ -4,64 +4,64 @@
     <display-name>Wataniya 2</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/langfr-500px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png"/>
   </channel>
-  <programme start="20260729060000 +0100" stop="20260729060100 +0100" channel="wataniya2">
+  <programme start="20260730060000 +0100" stop="20260730060100 +0100" channel="wataniya2">
     <title lang="ar">النشيد الرسمي</title>
     <desc lang="ar">النشيد الرسمي</desc>
   </programme>
-  <programme start="20260729060200 +0100" stop="20260729061800 +0100" channel="wataniya2">
+  <programme start="20260730060200 +0100" stop="20260730061900 +0100" channel="wataniya2">
     <title lang="ar">القرآن الكريم</title>
     <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
   </programme>
-  <programme start="20260729061900 +0100" stop="20260729062900 +0100" channel="wataniya2">
+  <programme start="20260730062000 +0100" stop="20260730062900 +0100" channel="wataniya2">
     <title lang="ar">ابتهالات</title>
     <desc lang="ar">لحظات روحانية مع ابتهالات خاشعة تلامس القلوب وتُحلّق بالأرواح نحو السمو. بكلمات مناجية وأصوات صادقة،… حيث ترتقي الأرواح وتطمئن القلوب.</desc>
   </programme>
-  <programme start="20260729063000 +0100" stop="20260729070400 +0100" channel="wataniya2">
+  <programme start="20260730063000 +0100" stop="20260730070400 +0100" channel="wataniya2">
     <title lang="ar">مقتطفات من حفل فيروز</title>
     <desc lang="ar">مقتطفات من حفل فيروز</desc>
   </programme>
-  <programme start="20260729070500 +0100" stop="20260729075900 +0100" channel="wataniya2">
+  <programme start="20260730070500 +0100" stop="20260730075900 +0100" channel="wataniya2">
     <title lang="ar">تبّعني</title>
     <desc lang="ar">دعوة لاكتشاف تونس بعيون جديدة، حيث تتقاطع الطبيعة مع التاريخ في لوحات نابضة بالحياة. من الشواطئ الساحرة إلى الجبال والواحات، ومن المدن العريقة إلى القرى الهادئة، يعرّفكم البرنامج على أبرز الوجهات السياحية وأجمل المناطق الطبيعية، ويكشف خفايا أماكن قد لا يعرفها الكثيرون</desc>
   </programme>
-  <programme start="20260729080000 +0100" stop="20260729084400 +0100" channel="wataniya2">
+  <programme start="20260730080000 +0100" stop="20260730084400 +0100" channel="wataniya2">
     <title lang="ar">فج الرمل </title>
     <desc lang="ar">يتناول المسلسل قصة منطقة فج الرمل التي تشكو من نقص مياه الآبار فيها وجفاف التربة ومحاولة استيلاء أحد الأعيان محمود ولد خليفة المقرب من المستعمر الفرنسي في تلك الحقبة التاريخية على أراضي السكان.</desc>
   </programme>
-  <programme start="20260729084500 +0100" stop="20260729085900 +0100" channel="wataniya2">
+  <programme start="20260730084500 +0100" stop="20260730090400 +0100" channel="wataniya2">
     <title lang="ar">صنعة إيديك</title>
     <desc lang="ar">صنعة إيديك</desc>
   </programme>
-  <programme start="20260729090000 +0100" stop="20260729095900 +0100" channel="wataniya2">
+  <programme start="20260730090500 +0100" stop="20260730095900 +0100" channel="wataniya2">
     <title lang="ar">غالية</title>
     <desc lang="ar">غالية فتاة فيها كل مواصفات فتاة الأحلام ورغم نشأتها في المدينة إلا أنها قبلت الزواج والعيش في الريف من شاب طيب أصيل وميسور الحال. تتعرض عائلة زوجها الى مشاكل اقتصادية فتتحمل مسؤولية الاعتناء بكامل العائلة واصلاح المشاكل قدر المستطاع وتنجح في إخراج عائلة زوجها إلى بر الأمان.</desc>
   </programme>
-  <programme start="20260729100000 +0100" stop="20260729193400 +0100" channel="wataniya2">
+  <programme start="20260730100000 +0100" stop="20260730193400 +0100" channel="wataniya2">
     <title lang="ar">نقل مباشر لجلسات مجلس نواب الشعب </title>
     <desc lang="ar">نقل مباشر لجلسات مجلس نواب الشعب </desc>
   </programme>
-  <programme start="20260729193500 +0100" stop="20260729202900 +0100" channel="wataniya2">
+  <programme start="20260730193500 +0100" stop="20260730202900 +0100" channel="wataniya2">
     <title lang="ar">غالية</title>
     <desc lang="ar">غالية فتاة فيها كل مواصفات فتاة الأحلام ورغم نشأتها في المدينة إلا أنها قبلت الزواج والعيش في الريف من شاب طيب أصيل وميسور الحال. تتعرض عائلة زوجها الى مشاكل اقتصادية فتتحمل مسؤولية الاعتناء بكامل العائلة واصلاح المشاكل قدر المستطاع وتنجح في إخراج عائلة زوجها إلى بر الأمان.</desc>
   </programme>
-  <programme start="20260729203000 +0100" stop="20260729211400 +0100" channel="wataniya2">
+  <programme start="20260730203000 +0100" stop="20260730211400 +0100" channel="wataniya2">
     <title lang="ar">شوفلي حل</title>
     <desc lang="ar">شوفلي حل</desc>
   </programme>
-  <programme start="20260729211500 +0100" stop="20260729220400 +0100" channel="wataniya2">
+  <programme start="20260730211500 +0100" stop="20260730220400 +0100" channel="wataniya2">
     <title lang="ar">مسلسل صيد الريم</title>
     <desc lang="ar">مسلسل صيد الريم</desc>
   </programme>
-  <programme start="20260729220500 +0100" stop="20260729224900 +0100" channel="wataniya2">
+  <programme start="20260730220500 +0100" stop="20260730224900 +0100" channel="wataniya2">
     <title lang="ar">بنات الباشا</title>
     <desc lang="ar">بعد مقتل زوجها، تجد صباح نفسها وحيدة في مواجهة واقع قاسٍ، حين تتعرض للغدر والخيانة على يد حكمت باشا، الرجل المتسلّط الذي يفرض نفوذه على الحي بلا رحمة.وين الظلم والقوة، تبدأ معركة مفتوحة، عنوانها الانتقام والعدالة.</desc>
   </programme>
-  <programme start="20260729225000 +0100" stop="20260729233400 +0100" channel="wataniya2">
+  <programme start="20260730225000 +0100" stop="20260730233400 +0100" channel="wataniya2">
     <title lang="ar">فج الرمل </title>
     <desc lang="ar">يتناول المسلسل قصة منطقة فج الرمل التي تشكو من نقص مياه الآبار فيها وجفاف التربة ومحاولة استيلاء أحد الأعيان محمود ولد خليفة المقرب من المستعمر الفرنسي في تلك الحقبة التاريخية على أراضي السكان.</desc>
   </programme>
-  <programme start="20260729233500 +0100" stop="20260729235900 +0100" channel="wataniya2">
-    <title lang="ar">لقاء الذكريات</title>
-    <desc lang="ar">لقاء الذكريات</desc>
+  <programme start="20260730233500 +0100" stop="20260730235900 +0100" channel="wataniya2">
+    <title lang="ar">فقرة غنائية: أم كلثوم</title>
+    <desc lang="ar">فقرة غنائية: أم كلثوم</desc>
   </programme>
 </tv>
