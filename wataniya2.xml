@@ -4,112 +4,113 @@
     <display-name>Wataniya 2</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/langfr-500px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png"/>
   </channel>
-  <programme start="20260808060000 +0100" stop="20260808060100 +0100" channel="wataniya2">
+  <programme start="20260809060000 +0100" stop="20260809060100 +0100" channel="wataniya2">
     <title lang="ar">النشيد الرسمي</title>
     <desc lang="ar">النشيد الرسمي</desc>
   </programme>
-  <programme start="20260808060200 +0100" stop="20260808061800 +0100" channel="wataniya2">
+  <programme start="20260809060200 +0100" stop="20260809062200 +0100" channel="wataniya2">
     <title lang="ar">القرآن الكريم</title>
     <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
   </programme>
-  <programme start="20260808061900 +0100" stop="20260808062900 +0100" channel="wataniya2">
+  <programme start="20260809062300 +0100" stop="20260809062900 +0100" channel="wataniya2">
     <title lang="ar">ابتهالات</title>
     <desc lang="ar">لحظات روحانية مع ابتهالات خاشعة تلامس القلوب وتُحلّق بالأرواح نحو السمو. بكلمات مناجية وأصوات صادقة،… حيث ترتقي الأرواح وتطمئن القلوب.</desc>
   </programme>
-  <programme start="20260808063000 +0100" stop="20260808070400 +0100" channel="wataniya2">
-    <title lang="ar">مقتطفات من أغاني أحمد جلمام</title>
-    <desc lang="ar">مقتطفات من أغاني أحمد جلمام</desc>
+  <programme start="20260809063000 +0100" stop="20260809070400 +0100" channel="wataniya2">
+    <title lang="ar">مقتطفات من حفل فيروز</title>
+    <desc lang="ar">مقتطفات من حفل فيروز</desc>
   </programme>
-  <programme start="20260808070500 +0100" stop="20260808075900 +0100" channel="wataniya2">
+  <programme start="20260809070500 +0100" stop="20260809075900 +0100" channel="wataniya2">
     <title lang="ar">تبّعني</title>
     <desc lang="ar">دعوة لاكتشاف تونس بعيون جديدة، حيث تتقاطع الطبيعة مع التاريخ في لوحات نابضة بالحياة. من الشواطئ الساحرة إلى الجبال والواحات، ومن المدن العريقة إلى القرى الهادئة، يعرّفكم البرنامج على أبرز الوجهات السياحية وأجمل المناطق الطبيعية، ويكشف خفايا أماكن قد لا يعرفها الكثيرون</desc>
   </programme>
-  <programme start="20260808080000 +0100" stop="20260808085400 +0100" channel="wataniya2">
+  <programme start="20260809080000 +0100" stop="20260809084400 +0100" channel="wataniya2">
     <title lang="ar">فج الرمل </title>
     <desc lang="ar">يتناول المسلسل قصة منطقة فج الرمل التي تشكو من نقص مياه الآبار فيها وجفاف التربة ومحاولة استيلاء أحد الأعيان محمود ولد خليفة المقرب من المستعمر الفرنسي في تلك الحقبة التاريخية على أراضي السكان.</desc>
   </programme>
-  <programme start="20260808085500 +0100" stop="20260808091900 +0100" channel="wataniya2">
-    <title lang="ar">صنعة إيديك</title>
-    <desc lang="ar">صنعة إيديك</desc>
+  <programme start="20260809084500 +0100" stop="20260809092400 +0100" channel="wataniya2">
+    <title lang="ar">تونس المدينة العتيقة</title>
+    <desc lang="ar">رحلة داخل أزقة المدينة العتيقة، حيث يلتقي التاريخ بالحياة اليومية في تناغم فريد. ن خلال معالمها العريقة، وأسواقها النابضة، وحِرفها التقليدية نغوص في ذاكرة المكان، حيث لكل زاوية حكاية، ولكل باب أثر يروي جزءًا من تاريخ تونس.</desc>
   </programme>
-  <programme start="20260808092000 +0100" stop="20260808100900 +0100" channel="wataniya2">
+  <programme start="20260809092500 +0100" stop="20260809101900 +0100" channel="wataniya2">
     <title lang="ar">غالية</title>
     <desc lang="ar">غالية فتاة فيها كل مواصفات فتاة الأحلام ورغم نشأتها في المدينة إلا أنها قبلت الزواج والعيش في الريف من شاب طيب أصيل وميسور الحال. تتعرض عائلة زوجها الى مشاكل اقتصادية فتتحمل مسؤولية الاعتناء بكامل العائلة واصلاح المشاكل قدر المستطاع وتنجح في إخراج عائلة زوجها إلى بر الأمان.</desc>
   </programme>
-  <programme start="20260808101000 +0100" stop="20260808103400 +0100" channel="wataniya2">
-    <title lang="ar">الجم صرح شامخ و فن راسخ</title>
-    <desc lang="ar">الجم.. صرحٌ شامخ وفنٌّ راسخ. رحلة بصرية في قلب التراث العالمي.</desc>
+  <programme start="20260809102000 +0100" stop="20260809104400 +0100" channel="wataniya2">
+    <title lang="ar">وثائقي: جربة قباب من نور</title>
+    <desc lang="ar">"جربة… قباب من نور" وثائقي يستكشف جمال العمارة في جزيرة جربة، حيث تروي القباب البيضاء حكاية المكان والذاكرة. </desc>
   </programme>
-  <programme start="20260808103500 +0100" stop="20260808112900 +0100" channel="wataniya2">
+  <programme start="20260809104500 +0100" stop="20260809112900 +0100" channel="wataniya2">
     <title lang="ar">سلسلة كان يا ما كانش</title>
     <desc lang="ar">يتناول العمل في إطار كوميدي ساخر، وضع تونس قبل 3000 سنة، وتحديداً في عهد "الملك ساطور". تبدأ الأحداث عندما يمرض الملك بشدة ويتولى ابنه "برغل" الحكم، لكن الشخصية الشريرة "خفاش" يتمكن من تدبير مؤامرة لإدخال برغل السجن والاستيلاء على السلطة. يبدأ برغل برفقة أصدقائه "نعناع" و"مهراس" و"فلوكة" رحلة لاستعادة العرش والمملكة وسط مفارقات تاريخية مضحكة</desc>
   </programme>
-  <programme start="20260808113000 +0100" stop="20260808125900 +0100" channel="wataniya2">
+  <programme start="20260809113000 +0100" stop="20260809125900 +0100" channel="wataniya2">
     <title lang="ar">صور متحركة</title>
     <desc lang="ar">صور متحركة</desc>
   </programme>
-  <programme start="20260808130000 +0100" stop="20260808133900 +0100" channel="wataniya2">
+  <programme start="20260809130000 +0100" stop="20260809133900 +0100" channel="wataniya2">
     <title lang="ar">شوفلي حل</title>
     <desc lang="ar">شوفلي حل</desc>
   </programme>
-  <programme start="20260808134000 +0100" stop="20260808142900 +0100" channel="wataniya2">
+  <programme start="20260809134000 +0100" stop="20260809143900 +0100" channel="wataniya2">
     <title lang="ar">مسلسل صيد الريم</title>
     <desc lang="ar">مسلسل صيد الريم</desc>
   </programme>
-  <programme start="20260808143000 +0100" stop="20260808150400 +0100" channel="wataniya2">
+  <programme start="20260809144000 +0100" stop="20260809151900 +0100" channel="wataniya2">
     <title lang="ar">دار الخلاعة</title>
     <desc lang="ar">كريّم، خبير محاسب، يقرر قضاء عطلته الصيفية مع زوجته الجديدة حياة، التي تصغره سنًا. يدعو شقيقتي حياة، هادية وهناء، لقضاء العطلة معهما في منزل على البحر في منطقة الوطن القبلي، رفقة عائلاتهما.</desc>
   </programme>
-  <programme start="20260808150500 +0100" stop="20260808154900 +0100" channel="wataniya2">
-    <title lang="ar">لمة ونجوم</title>
-    <desc lang="ar">برنامج لمة ونجوم 
-إعداد و تقديم : نعيمة بن عمار</desc>
+  <programme start="20260809152000 +0100" stop="20260809163400 +0100" channel="wataniya2">
+    <title lang="ar">فقرة غنائية: عبد الحليم حافظ</title>
+    <desc lang="ar">فقرة غنائية: عبد الحليم حافظ</desc>
   </programme>
-  <programme start="20260808155000 +0100" stop="20260808165900 +0100" channel="wataniya2">
-    <title lang="ar">في الذاكرة الرياضية</title>
-    <desc lang="ar">في الذاكرة الرياضية</desc>
+  <programme start="20260809163500 +0100" stop="20260809165900 +0100" channel="wataniya2">
+    <title lang="ar">صنعة إيديك</title>
+    <desc lang="ar">صنعة إيديك</desc>
   </programme>
-  <programme start="20260808170000 +0100" stop="20260808174400 +0100" channel="wataniya2">
+  <programme start="20260809170000 +0100" stop="20260809174400 +0100" channel="wataniya2">
     <title lang="ar">بنات الباشا</title>
     <desc lang="ar">بعد مقتل زوجها، تجد صباح نفسها وحيدة في مواجهة واقع قاسٍ، حين تتعرض للغدر والخيانة على يد حكمت باشا، الرجل المتسلّط الذي يفرض نفوذه على الحي بلا رحمة.وين الظلم والقوة، تبدأ معركة مفتوحة، عنوانها الانتقام والعدالة.</desc>
   </programme>
-  <programme start="20260808174500 +0100" stop="20260808182900 +0100" channel="wataniya2">
+  <programme start="20260809174500 +0100" stop="20260809182900 +0100" channel="wataniya2">
     <title lang="ar">صور متحركة</title>
     <desc lang="ar">صور متحركة</desc>
   </programme>
-  <programme start="20260808183000 +0100" stop="20260808191400 +0100" channel="wataniya2">
-    <title lang="ar">سلسلة كان يا ما كانش</title>
-    <desc lang="ar">يتناول العمل في إطار كوميدي ساخر، وضع تونس قبل 3000 سنة، وتحديداً في عهد "الملك ساطور". تبدأ الأحداث عندما يمرض الملك بشدة ويتولى ابنه "برغل" الحكم، لكن الشخصية الشريرة "خفاش" يتمكن من تدبير مؤامرة لإدخال برغل السجن والاستيلاء على السلطة. يبدأ برغل برفقة أصدقائه "نعناع" و"مهراس" و"فلوكة" رحلة لاستعادة العرش والمملكة وسط مفارقات تاريخية مضحكة</desc>
+  <programme start="20260809183000 +0100" stop="20260809185900 +0100" channel="wataniya2">
+    <title lang="ar">تونس يا بلادي</title>
+    <desc lang="ar"> وثائقي تونس يا بلادي: بمناسبة اليوم العالمي للسياحة، حصة خاصة بعنوان  تونس يا بلادي
+هي رحلة عبر الزمن والمكان نستعيد فيها أجمل ما قُدم في برنامج محلاها بلادي من الشمال إلى الجنوب
+من أزقة المدينة العتيقة وسحر سيدي بو سعيد إلى عبق التاريخ في سليمان الأندلسية وتستور بنكهات المتسمنات... مرورًا بجمال الطبيعة في طبرقة وعين دراهم و سليانة والكاف.
+</desc>
   </programme>
-  <programme start="20260808191500 +0100" stop="20260808193400 +0100" channel="wataniya2">
+  <programme start="20260809190000 +0100" stop="20260809193400 +0100" channel="wataniya2">
     <title lang="ar">أحكيلي عليها</title>
     <desc lang="ar">برنامجنا الجديد على الوطنية الأولى بمناسبة شهر رمضان المعظم سوف يأخذنا في جولات داخل الأحياء(الحوم جمع حومة) وفي كل حي أو مدينة سوف تتحدث عن الماضي و الحاضر.
  تذكر بما كان يرويه الأسلاف من حكايات في شكل خرافات حتى نربط الماضي بالحاضر.
 </desc>
   </programme>
-  <programme start="20260808193500 +0100" stop="20260808202900 +0100" channel="wataniya2">
+  <programme start="20260809193500 +0100" stop="20260809202900 +0100" channel="wataniya2">
     <title lang="ar">غالية</title>
     <desc lang="ar">غالية فتاة فيها كل مواصفات فتاة الأحلام ورغم نشأتها في المدينة إلا أنها قبلت الزواج والعيش في الريف من شاب طيب أصيل وميسور الحال. تتعرض عائلة زوجها الى مشاكل اقتصادية فتتحمل مسؤولية الاعتناء بكامل العائلة واصلاح المشاكل قدر المستطاع وتنجح في إخراج عائلة زوجها إلى بر الأمان.</desc>
   </programme>
-  <programme start="20260808203000 +0100" stop="20260808211400 +0100" channel="wataniya2">
+  <programme start="20260809203000 +0100" stop="20260809211400 +0100" channel="wataniya2">
     <title lang="ar">شوفلي حل</title>
     <desc lang="ar">شوفلي حل</desc>
   </programme>
-  <programme start="20260808211500 +0100" stop="20260808221400 +0100" channel="wataniya2">
+  <programme start="20260809211500 +0100" stop="20260809221400 +0100" channel="wataniya2">
     <title lang="ar">مسلسل صيد الريم</title>
     <desc lang="ar">مسلسل صيد الريم</desc>
   </programme>
-  <programme start="20260808221500 +0100" stop="20260808225900 +0100" channel="wataniya2">
+  <programme start="20260809221400 +0100" stop="20260809225900 +0100" channel="wataniya2">
     <title lang="ar">بنات الباشا</title>
     <desc lang="ar">بعد مقتل زوجها، تجد صباح نفسها وحيدة في مواجهة واقع قاسٍ، حين تتعرض للغدر والخيانة على يد حكمت باشا، الرجل المتسلّط الذي يفرض نفوذه على الحي بلا رحمة.وين الظلم والقوة، تبدأ معركة مفتوحة، عنوانها الانتقام والعدالة.</desc>
   </programme>
-  <programme start="20260808230000 +0100" stop="20260808234900 +0100" channel="wataniya2">
+  <programme start="20260809230000 +0100" stop="20260809234400 +0100" channel="wataniya2">
     <title lang="ar">فج الرمل </title>
     <desc lang="ar">يتناول المسلسل قصة منطقة فج الرمل التي تشكو من نقص مياه الآبار فيها وجفاف التربة ومحاولة استيلاء أحد الأعيان محمود ولد خليفة المقرب من المستعمر الفرنسي في تلك الحقبة التاريخية على أراضي السكان.</desc>
   </programme>
-  <programme start="20260808235000 +0100" stop="20260808235900 +0100" channel="wataniya2">
-    <title lang="ar">لمة ونجوم</title>
-    <desc lang="ar">برنامج لمة ونجوم 
-إعداد و تقديم : نعيمة بن عمار</desc>
+  <programme start="20260809234500 +0100" stop="20260809235900 +0100" channel="wataniya2">
+    <title lang="ar">فقرة غنائية: عبد الحليم حافظ</title>
+    <desc lang="ar">فقرة غنائية: عبد الحليم حافظ</desc>
   </programme>
 </tv>
