@@ -4,110 +4,110 @@
     <display-name>Wataniya 2</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/langfr-500px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png"/>
   </channel>
-  <programme start="20260810060000 +0100" stop="20260810060100 +0100" channel="wataniya2">
+  <programme start="20260811060000 +0100" stop="20260811060100 +0100" channel="wataniya2">
     <title lang="ar">النشيد الرسمي</title>
     <desc lang="ar">النشيد الرسمي</desc>
   </programme>
-  <programme start="20260810060200 +0100" stop="20260810062200 +0100" channel="wataniya2">
+  <programme start="20260811060200 +0100" stop="20260811062200 +0100" channel="wataniya2">
     <title lang="ar">القرآن الكريم</title>
     <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
   </programme>
-  <programme start="20260810062300 +0100" stop="20260810062900 +0100" channel="wataniya2">
+  <programme start="20260811062300 +0100" stop="20260811062900 +0100" channel="wataniya2">
     <title lang="ar">ابتهالات</title>
     <desc lang="ar">لحظات روحانية مع ابتهالات خاشعة تلامس القلوب وتُحلّق بالأرواح نحو السمو. بكلمات مناجية وأصوات صادقة،… حيث ترتقي الأرواح وتطمئن القلوب.</desc>
   </programme>
-  <programme start="20260810063000 +0100" stop="20260810070400 +0100" channel="wataniya2">
+  <programme start="20260811063000 +0100" stop="20260811070400 +0100" channel="wataniya2">
     <title lang="ar">مقتطفات من حفل فيروز</title>
     <desc lang="ar">مقتطفات من حفل فيروز</desc>
   </programme>
-  <programme start="20260810070500 +0100" stop="20260810075900 +0100" channel="wataniya2">
+  <programme start="20260811070500 +0100" stop="20260811075900 +0100" channel="wataniya2">
     <title lang="ar">تبّعني</title>
     <desc lang="ar">دعوة لاكتشاف تونس بعيون جديدة، حيث تتقاطع الطبيعة مع التاريخ في لوحات نابضة بالحياة. من الشواطئ الساحرة إلى الجبال والواحات، ومن المدن العريقة إلى القرى الهادئة، يعرّفكم البرنامج على أبرز الوجهات السياحية وأجمل المناطق الطبيعية، ويكشف خفايا أماكن قد لا يعرفها الكثيرون</desc>
   </programme>
-  <programme start="20260810080000 +0100" stop="20260810084400 +0100" channel="wataniya2">
-    <title lang="ar">فج الرمل </title>
-    <desc lang="ar">يتناول المسلسل قصة منطقة فج الرمل التي تشكو من نقص مياه الآبار فيها وجفاف التربة ومحاولة استيلاء أحد الأعيان محمود ولد خليفة المقرب من المستعمر الفرنسي في تلك الحقبة التاريخية على أراضي السكان.</desc>
+  <programme start="20260811080000 +0100" stop="20260811084400 +0100" channel="wataniya2">
+    <title lang="ar">مسلسل ماطوس</title>
+    <desc lang="ar">تدور أحداث المسلسل في قرية «ماطوس» في نهاية القرن السابع عشر بالجنوب الشرقي التونسي، و التي يعيش متساكنوها في كنف الأمن والرخاء، إذ يعمرون تلك الأراضي الصحراوية القاحلة و يحولونها إلى واحات خضراء، لكن سرعان ما تنقلب الأمور رأسا على عقب عندما تتم مهاجمتها و مهاجمة سكانها من طرف بعض قطاع الطرق لتنقلب الموازين</desc>
   </programme>
-  <programme start="20260810084500 +0100" stop="20260810090900 +0100" channel="wataniya2">
-    <title lang="ar">المتحف الوطني بباردو.. كنوز الحضارات</title>
-    <desc lang="ar">وثائقي يسلط الضوء على كنوز متحف باردو</desc>
+  <programme start="20260811084500 +0100" stop="20260811091400 +0100" channel="wataniya2">
+    <title lang="ar">شريط وثائقي: الفن المعماري في الجريد التونسي </title>
+    <desc lang="ar">شريط وثائقي: الفن المعماري في الجريد التونسي </desc>
   </programme>
-  <programme start="20260810091000 +0100" stop="20260810095900 +0100" channel="wataniya2">
+  <programme start="20260811091500 +0100" stop="20260811100400 +0100" channel="wataniya2">
     <title lang="ar">غالية</title>
     <desc lang="ar">غالية فتاة فيها كل مواصفات فتاة الأحلام ورغم نشأتها في المدينة إلا أنها قبلت الزواج والعيش في الريف من شاب طيب أصيل وميسور الحال. تتعرض عائلة زوجها الى مشاكل اقتصادية فتتحمل مسؤولية الاعتناء بكامل العائلة واصلاح المشاكل قدر المستطاع وتنجح في إخراج عائلة زوجها إلى بر الأمان.</desc>
   </programme>
-  <programme start="20260810100000 +0100" stop="20260810104900 +0100" channel="wataniya2">
-    <title lang="ar">وثائقي: قرطاجنة</title>
-    <desc lang="ar">قرطاجنة هي مدينة ساحلية تقع في منطقة مرسية جنوب شرق إسبانيا</desc>
-  </programme>
-  <programme start="20260810104500 +0100" stop="20260810112900 +0100" channel="wataniya2">
+  <programme start="20260811100500 +0100" stop="20260811105900 +0100" channel="wataniya2">
     <title lang="ar">تونس المزيانة</title>
     <desc lang="ar">تونس المزيانة</desc>
   </programme>
-  <programme start="20260810113000 +0100" stop="20260810125900 +0100" channel="wataniya2">
-    <title lang="ar">صور متحركة</title>
-    <desc lang="ar">صور متحركة</desc>
-  </programme>
-  <programme start="20260810130000 +0100" stop="20260810134400 +0100" channel="wataniya2">
-    <title lang="ar">شوفلي حل</title>
-    <desc lang="ar">شوفلي حل</desc>
-  </programme>
-  <programme start="20260810134500 +0100" stop="20260810143900 +0100" channel="wataniya2">
-    <title lang="ar">مسلسل صيد الريم</title>
-    <desc lang="ar">مسلسل صيد الريم</desc>
-  </programme>
-  <programme start="20260810144000 +0100" stop="20260810150900 +0100" channel="wataniya2">
-    <title lang="ar">دار الخلاعة</title>
-    <desc lang="ar">كريّم، خبير محاسب، يقرر قضاء عطلته الصيفية مع زوجته الجديدة حياة، التي تصغره سنًا. يدعو شقيقتي حياة، هادية وهناء، لقضاء العطلة معهما في منزل على البحر في منطقة الوطن القبلي، رفقة عائلاتهما.</desc>
-  </programme>
-  <programme start="20260810151000 +0100" stop="20260810163900 +0100" channel="wataniya2">
-    <title lang="ar">سهرة من الأرشيف </title>
-    <desc lang="ar"> سهرة من الأرشيف </desc>
-  </programme>
-  <programme start="20260810164000 +0100" stop="20260810165900 +0100" channel="wataniya2">
-    <title lang="ar">و الله زمان</title>
-    <desc lang="ar">لأن الأمم بثقافاتها تنهض و لأن الأمجاد تخط بسواعد مبدعيها...و لان لا خير في جيل تنكر لماضيه..ارتأينا هذا العمل الذي أردناه توثيقا و لمسة شكر لهؤلاء...مبدعين و فنانين كانوا و لازالوا صناعا للأمجاد.</desc>
-  </programme>
-  <programme start="20260810170000 +0100" stop="20260810174400 +0100" channel="wataniya2">
-    <title lang="ar">بنات الباشا</title>
-    <desc lang="ar">بعد مقتل زوجها، تجد صباح نفسها وحيدة في مواجهة واقع قاسٍ، حين تتعرض للغدر والخيانة على يد حكمت باشا، الرجل المتسلّط الذي يفرض نفوذه على الحي بلا رحمة.وين الظلم والقوة، تبدأ معركة مفتوحة، عنوانها الانتقام والعدالة.</desc>
-  </programme>
-  <programme start="20260810174500 +0100" stop="20260810182900 +0100" channel="wataniya2">
-    <title lang="ar">صور متحركة</title>
-    <desc lang="ar">صور متحركة</desc>
-  </programme>
-  <programme start="20260810183000 +0100" stop="20260810185900 +0100" channel="wataniya2">
+  <programme start="20260811110000 +0100" stop="20260811112900 +0100" channel="wataniya2">
     <title lang="ar">للا سندريلا</title>
     <desc lang="ar">للا سندريلا</desc>
   </programme>
-  <programme start="20260810190000 +0100" stop="20260810193400 +0100" channel="wataniya2">
+  <programme start="20260811113000 +0100" stop="20260811125900 +0100" channel="wataniya2">
+    <title lang="ar">صور متحركة</title>
+    <desc lang="ar">صور متحركة</desc>
+  </programme>
+  <programme start="20260811130000 +0100" stop="20260811133900 +0100" channel="wataniya2">
+    <title lang="ar">شوفلي حل</title>
+    <desc lang="ar">شوفلي حل</desc>
+  </programme>
+  <programme start="20260811134000 +0100" stop="20260811144400 +0100" channel="wataniya2">
+    <title lang="ar">مسلسل صيد الريم</title>
+    <desc lang="ar">مسلسل صيد الريم</desc>
+  </programme>
+  <programme start="20260811144500 +0100" stop="20260811151400 +0100" channel="wataniya2">
+    <title lang="ar">دار الخلاعة</title>
+    <desc lang="ar">كريّم، خبير محاسب، يقرر قضاء عطلته الصيفية مع زوجته الجديدة حياة، التي تصغره سنًا. يدعو شقيقتي حياة، هادية وهناء، لقضاء العطلة معهما في منزل على البحر في منطقة الوطن القبلي، رفقة عائلاتهما.</desc>
+  </programme>
+  <programme start="20260811151500 +0100" stop="20260811162900 +0100" channel="wataniya2">
+    <title lang="ar">رحلة في ذاكرة التلفزة</title>
+    <desc lang="ar">رحلة في ذاكرة التلفزة</desc>
+  </programme>
+  <programme start="20260811163000 +0100" stop="20260811165900 +0100" channel="wataniya2">
+    <title lang="ar">والله زمان</title>
+    <desc lang="ar">والله زمان</desc>
+  </programme>
+  <programme start="20260811170000 +0100" stop="20260811174400 +0100" channel="wataniya2">
+    <title lang="ar">بنات الباشا</title>
+    <desc lang="ar">بعد مقتل زوجها، تجد صباح نفسها وحيدة في مواجهة واقع قاسٍ، حين تتعرض للغدر والخيانة على يد حكمت باشا، الرجل المتسلّط الذي يفرض نفوذه على الحي بلا رحمة.وين الظلم والقوة، تبدأ معركة مفتوحة، عنوانها الانتقام والعدالة.</desc>
+  </programme>
+  <programme start="20260811174500 +0100" stop="20260811182900 +0100" channel="wataniya2">
+    <title lang="ar">صور متحركة</title>
+    <desc lang="ar">صور متحركة</desc>
+  </programme>
+  <programme start="20260811183000 +0100" stop="20260811185900 +0100" channel="wataniya2">
+    <title lang="ar">للا سندريلا</title>
+    <desc lang="ar">للا سندريلا</desc>
+  </programme>
+  <programme start="20260811190000 +0100" stop="20260811193400 +0100" channel="wataniya2">
     <title lang="ar">أحكيلي عليها</title>
     <desc lang="ar">برنامجنا الجديد على الوطنية الأولى بمناسبة شهر رمضان المعظم سوف يأخذنا في جولات داخل الأحياء(الحوم جمع حومة) وفي كل حي أو مدينة سوف تتحدث عن الماضي و الحاضر.
  تذكر بما كان يرويه الأسلاف من حكايات في شكل خرافات حتى نربط الماضي بالحاضر.
 </desc>
   </programme>
-  <programme start="20260810193500 +0100" stop="20260810202900 +0100" channel="wataniya2">
+  <programme start="20260811193500 +0100" stop="20260811202900 +0100" channel="wataniya2">
     <title lang="ar">غالية</title>
     <desc lang="ar">غالية فتاة فيها كل مواصفات فتاة الأحلام ورغم نشأتها في المدينة إلا أنها قبلت الزواج والعيش في الريف من شاب طيب أصيل وميسور الحال. تتعرض عائلة زوجها الى مشاكل اقتصادية فتتحمل مسؤولية الاعتناء بكامل العائلة واصلاح المشاكل قدر المستطاع وتنجح في إخراج عائلة زوجها إلى بر الأمان.</desc>
   </programme>
-  <programme start="20260810203000 +0100" stop="20260810211400 +0100" channel="wataniya2">
+  <programme start="20260811203000 +0100" stop="20260811211400 +0100" channel="wataniya2">
     <title lang="ar">شوفلي حل</title>
     <desc lang="ar">شوفلي حل</desc>
   </programme>
-  <programme start="20260810211500 +0100" stop="20260810221400 +0100" channel="wataniya2">
-    <title lang="ar">مسلسل صيد الريم</title>
-    <desc lang="ar">مسلسل صيد الريم</desc>
+  <programme start="20260811211500 +0100" stop="20260811221400 +0100" channel="wataniya2">
+    <title lang="ar">مسلسل يوميات إمرأة </title>
+    <desc lang="ar">يحكي المسلسل يوميات مجموعة من النساء اللاتي يعشن في نفس العمارة بأحد أحياء العاصمة التونسية، حيث تواجه كل واحدة منهن مشاكلها الخاصة، مثل داليا، موظفة بنك، التي تكتشف خيانة زوجها إبراهيم لها، حيث أنه متزوج من امرأة ثانية بشكل عرفي، فتقرر تقديم شكوى ضده أمام المحاكم التونسية، لأن القانون التونسي يمنع تعدد الزوجات، قبل أن تتراجع بعد أن توسلت إليها ابنتها نور.</desc>
   </programme>
-  <programme start="20260810221500 +0100" stop="20260810225900 +0100" channel="wataniya2">
+  <programme start="20260811221500 +0100" stop="20260811225900 +0100" channel="wataniya2">
     <title lang="ar">بنات الباشا</title>
     <desc lang="ar">بعد مقتل زوجها، تجد صباح نفسها وحيدة في مواجهة واقع قاسٍ، حين تتعرض للغدر والخيانة على يد حكمت باشا، الرجل المتسلّط الذي يفرض نفوذه على الحي بلا رحمة.وين الظلم والقوة، تبدأ معركة مفتوحة، عنوانها الانتقام والعدالة.</desc>
   </programme>
-  <programme start="20260810230000 +0100" stop="20260810233900 +0100" channel="wataniya2">
-    <title lang="ar">فج الرمل </title>
-    <desc lang="ar">يتناول المسلسل قصة منطقة فج الرمل التي تشكو من نقص مياه الآبار فيها وجفاف التربة ومحاولة استيلاء أحد الأعيان محمود ولد خليفة المقرب من المستعمر الفرنسي في تلك الحقبة التاريخية على أراضي السكان.</desc>
+  <programme start="20260811230000 +0100" stop="20260811233900 +0100" channel="wataniya2">
+    <title lang="ar">مسلسل ماطوس</title>
+    <desc lang="ar">تدور أحداث المسلسل في قرية «ماطوس» في نهاية القرن السابع عشر بالجنوب الشرقي التونسي، و التي يعيش متساكنوها في كنف الأمن والرخاء، إذ يعمرون تلك الأراضي الصحراوية القاحلة و يحولونها إلى واحات خضراء، لكن سرعان ما تنقلب الأمور رأسا على عقب عندما تتم مهاجمتها و مهاجمة سكانها من طرف بعض قطاع الطرق لتنقلب الموازين</desc>
   </programme>
-  <programme start="20260810234000 +0100" stop="20260810235900 +0100" channel="wataniya2">
-    <title lang="ar">سهرة من الأرشيف </title>
-    <desc lang="ar"> سهرة من الأرشيف </desc>
+  <programme start="20260811234000 +0100" stop="20260811235900 +0100" channel="wataniya2">
+    <title lang="ar">رحلة في ذاكرة التلفزة</title>
+    <desc lang="ar">رحلة في ذاكرة التلفزة</desc>
   </programme>
 </tv>
