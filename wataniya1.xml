@@ -4,145 +4,142 @@
     <display-name>Wataniya 1</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/960px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png"/>
   </channel>
-  <programme start="20260811060000 +0100" stop="20260811060100 +0100" channel="wataniya1">
+  <programme start="20260812060000 +0100" stop="20260812060100 +0100" channel="wataniya1">
     <title lang="ar">النشيد الرسمي</title>
     <desc lang="ar">النشيد الرسمي</desc>
   </programme>
-  <programme start="20260811060200 +0100" stop="20260811061500 +0100" channel="wataniya1">
+  <programme start="20260812060200 +0100" stop="20260812061900 +0100" channel="wataniya1">
     <title lang="ar">القرآن الكريم</title>
     <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
   </programme>
-  <programme start="20260811061600 +0100" stop="20260811063900 +0100" channel="wataniya1">
+  <programme start="20260812062000 +0100" stop="20260812063900 +0100" channel="wataniya1">
     <title lang="ar">ابتهالات</title>
     <desc lang="ar">لحظات روحانية مع ابتهالات خاشعة تلامس القلوب وتُحلّق بالأرواح نحو السمو. بكلمات مناجية وأصوات صادقة،… حيث ترتقي الأرواح وتطمئن القلوب.</desc>
   </programme>
-  <programme start="20260811064000 +0100" stop="20260811070400 +0100" channel="wataniya1">
+  <programme start="20260812064000 +0100" stop="20260812070400 +0100" channel="wataniya1">
     <title lang="ar">في خلقه شؤون</title>
     <desc lang="ar">وثائقي يسلّط الضوء على عظمة خلق الله وتنوّع شؤونه في الكون، من خلال عرض مشاهد الطبيعة والحياة، مبرزًا دقّة الخلق وجماله وتجدّده المستمر بأسلوب بصري وتأمّلي يعزّز الإيمان والتفكّر</desc>
   </programme>
-  <programme start="20260811070500 +0100" stop="20260811073400 +0100" channel="wataniya1">
+  <programme start="20260812070500 +0100" stop="20260812073400 +0100" channel="wataniya1">
     <title lang="ar">نساء في الذاكرة</title>
     <desc lang="ar">نساء في الذاكرة</desc>
   </programme>
-  <programme start="20260811073500 +0100" stop="20260811082400 +0100" channel="wataniya1">
+  <programme start="20260812073500 +0100" stop="20260812082400 +0100" channel="wataniya1">
     <title lang="ar">قصص من الأرض</title>
     <desc lang="ar">رحلة استكشافية حول أعظم وأطول الأنهار في العالم، والتي كانت مهداً للحضارات وشريان الحياة لملايين الكائنات</desc>
   </programme>
-  <programme start="20260811082500 +0100" stop="20260811092900 +0100" channel="wataniya1">
-    <title lang="ar">وثائقي: أحيانا نغني أثناء التصوير</title>
-    <desc lang="ar">في قلب المدينة العتيقة، حيث يمتزج عبق الأزقة بصخب الحياة، يروي سوق القماش حكاية زمنٍ حيّ لم ينقطع. هذا الوثائقي يغوص في تاريخ السوق وعلاقته بـجامع الزيتونة المعمور، حيث كان الأئمة من روّاده، في تداخل فريد بين العلم والتجارة.
-وبمرافقة باحث في الأنثروبولوجيا، نكتشف كيف ظلّ السوق يحافظ على روحه، رابطًا بين ذاكرة الماضي وتحولات الحاضر.
+  <programme start="20260812082500 +0100" stop="20260812092900 +0100" channel="wataniya1">
+    <title lang="ar">الفرجة التي نصنعها</title>
+    <desc lang="ar">الفرجة التي نصنعها...الفيلم كاملا(اشتغال بالأساس على كواليس المادة المصورة مع شخصياتنا في علاقة بالبحث العلمي في مواضيع لها علاقة بالتاريخ والحضارة والفن والتصوف)...
+اكتشافات غير منتظرة ومواهب وطباع خاصة بالشخصيات أدهشتنا وستدهش وتبهر من لا يعرفهم خارج اختصاصهم العلمي والبحثي... فاجأتنا هذه الشخصيات وتفاجأنا بمواهبهم وجلهم لم يسبق له أن غنى أمام كاميرا.
+على خلاف التقاليد المعروفة في الاحتراف أثناء تسجيل الأغاني لم نستعد تقنيا لجودة الصوت ولا الصورة أحينا لكن حرارة اللقاء بالشخصيات هي التي عوض عن الكل.
 </desc>
   </programme>
-  <programme start="20260811093000 +0100" stop="20260811095900 +0100" channel="wataniya1">
+  <programme start="20260812093000 +0100" stop="20260812095900 +0100" channel="wataniya1">
     <title lang="ar">ديما عامرة</title>
     <desc lang="ar">من الأكلات الشعبية إلى الأطباق العائلية الغنية، نكتشف معًا أسرار المطبخ التونسي، بلمسة عصرية وروح مليئة بالدفء والكرم</desc>
   </programme>
-  <programme start="20260811100000 +0100" stop="20260811101400 +0100" channel="wataniya1">
+  <programme start="20260812100000 +0100" stop="20260812101400 +0100" channel="wataniya1">
     <title lang="ar">صنعة إيديك</title>
     <desc lang="ar">صنعة إيديك</desc>
   </programme>
-  <programme start="20260811101500 +0100" stop="20260811105900 +0100" channel="wataniya1">
+  <programme start="20260812101500 +0100" stop="20260812105900 +0100" channel="wataniya1">
     <title lang="ar">وادي الباي</title>
     <desc lang="ar">بينما الأمور في الظاهر مستقرة تبرز أصوات من الحركات العمالية في منجم فٌسفَاط قفصة للمطالبة بحقوق العمال، وإنشاء النقابات في كامل التراب التونسي وكان ذلك سببا في إشعال شرارة الثورة ضد الاستعمار الفرنسي.</desc>
   </programme>
-  <programme start="20260811110000 +0100" stop="20260811125900 +0100" channel="wataniya1">
+  <programme start="20260812101500 +0100" stop="20260812105900 +0100" channel="wataniya1">
+    <title lang="ar">وادي الباي</title>
+    <desc lang="ar">بينما الأمور في الظاهر مستقرة تبرز أصوات من الحركات العمالية في منجم فٌسفَاط قفصة للمطالبة بحقوق العمال، وإنشاء النقابات في كامل التراب التونسي وكان ذلك سببا في إشعال شرارة الثورة ضد الاستعمار الفرنسي.</desc>
+  </programme>
+  <programme start="20260812110000 +0100" stop="20260812125900 +0100" channel="wataniya1">
     <title lang="ar">أهلا تونس</title>
     <desc lang="ar">يتناول البرنامج اهتمامات التونسيين المقيمين بالخارج بكل ما يتعلّق بالشأن التونسي، من قضايا اجتماعية واقتصادية، إلى الاستثمار، الثقافة، والحنين إلى الجذور.
  صورة حيّة عن علاقة لا تنقطع، حيث يظلّ الوطن حاضرًا في تفاصيل يومهم واختياراتهم.</desc>
   </programme>
-  <programme start="20260811130000 +0100" stop="20260811132900 +0100" channel="wataniya1">
+  <programme start="20260812130000 +0100" stop="20260812132400 +0100" channel="wataniya1">
     <title lang="ar">نشرة الظهر للأخبار </title>
     <desc lang="ar">نشرة الظهر للأخبار </desc>
   </programme>
-  <programme start="20260811133000 +0100" stop="20260811144400 +0100" channel="wataniya1">
-    <title lang="ar">منازل الفن</title>
-    <desc lang="ar">منازل الفن فضاء للتفكير والتفكيك داخل بيوت الثقافة والفن ..ليس المهم أن نجيب عن جميع الأسئلة ولكن حسبنا أننا نستعرض الأسئلة وندعو الى التفكير والفهم.
-منازل الفن برنامج ثقافي إعداد وتقديم شادية خذير إخراج هشام العكرمي 
-</desc>
+  <programme start="20260812132500 +0100" stop="20260812152400 +0100" channel="wataniya1">
+    <title lang="ar">مسرحية عمتي عيشة راجل</title>
+    <desc lang="ar">مسرحية عمتي عيشة راجل</desc>
   </programme>
-  <programme start="20260811144500 +0100" stop="20260811152400 +0100" channel="wataniya1">
-    <title lang="ar">شريط تلفزي طين الأجبال</title>
-    <desc lang="ar">يتأمل الطفل (مروان) في الكون ويؤمن بنظريات العلم الحديثة لكنه يعاني من تفكير عقيم من المحيطين به في القرية ويقرر جده تسفيره فرنسا ليدرس هناك وتمر السنين ويكبر ليصبح طبيب قلب شهير ويعود لبلده ويساعد أبناء بلده ويعالجهم، لكنه يقع أمام حالة والدته ومرضها الشديد وخوفه من إجراء عملية جراحية لها خوفًا عليها.</desc>
+  <programme start="20260812152500 +0100" stop="20260812162400 +0100" channel="wataniya1">
+    <title lang="ar">قصص من الأرض</title>
+    <desc lang="ar">رحلة استكشافية حول أعظم وأطول الأنهار في العالم، والتي كانت مهداً للحضارات وشريان الحياة لملايين الكائنات</desc>
   </programme>
-  <programme start="20260811162500 +0100" stop="20260811165900 +0100" channel="wataniya1">
+  <programme start="20260812162500 +0100" stop="20260812165900 +0100" channel="wataniya1">
     <title lang="ar">عند عزيز</title>
     <desc lang="ar">يروي المسلسل قصة عزيّز، الذي يملك محلا تجاريا أو كما يسميه هو «سوبارات» ويعاني من صعوبات بسبب افتتاح محل تجاري ضخم قرب محله.</desc>
   </programme>
-  <programme start="20260811170000 +0100" stop="20260811172400 +0100" channel="wataniya1">
+  <programme start="20260812170000 +0100" stop="20260812171900 +0100" channel="wataniya1">
     <title lang="ar">النشرة المسائية للأخبار</title>
     <desc lang="ar">النشرة المسائية للأخبار</desc>
   </programme>
-  <programme start="20260811172500 +0100" stop="20260811172900 +0100" channel="wataniya1">
+  <programme start="20260812172000 +0100" stop="20260812172400 +0100" channel="wataniya1">
     <title lang="ar">إصدارات</title>
     <desc lang="ar">ملخص لآخر الاصدارات الادبية والدواوين الشعرية والنشريات الثقافية</desc>
   </programme>
-  <programme start="20260811173000 +0100" stop="20260811181900 +0100" channel="wataniya1">
+  <programme start="20260812172500 +0100" stop="20260812182900 +0100" channel="wataniya1">
     <title lang="ar">مسلسل عطر الغضب</title>
     <desc lang="ar">يغوص المسلسل في الموضوعات الاجتماعية المختلفة، كما يسعى لتقديم حلول للقضايا الاجتماعية في واقعنا المعاصر</desc>
   </programme>
-  <programme start="20260811182000 +0100" stop="20260811184400 +0100" channel="wataniya1">
+  <programme start="20260812183000 +0100" stop="20260812185400 +0100" channel="wataniya1">
     <title lang="ar">سيتكوم الفارمسي</title>
     <desc lang="ar">سيتكوم الفارمسي</desc>
   </programme>
-  <programme start="20260811184500 +0100" stop="20260811192400 +0100" channel="wataniya1">
+  <programme start="20260812185500 +0100" stop="20260812192400 +0100" channel="wataniya1">
     <title lang="ar">نسمة صيف</title>
     <desc lang="ar">نسمة صيف هي حصة يومية فيها مواكبة لأبرز العروض في المهرجانات الصيفية</desc>
   </programme>
-  <programme start="20260811192500 +0100" stop="20260811195900 +0100" channel="wataniya1">
-    <title lang="ar">محلاها بلادي... تونس البية</title>
-    <desc lang="ar">برنامج يحتفي بجمال تونس يكتشف ملامحها كما نحبّها: أصيلة، متنوّعة، ومليئة بالحياة. هو دعوة لاكتشاف تفاصيل صغيرة تصنع الفرق، وتُبرز روح البلاد في أبسط صورها وأجملها.</desc>
+  <programme start="20260812191500 +0100" stop="20260812195900 +0100" channel="wataniya1">
+    <title lang="ar">وثائقي تونس يا بلادي</title>
+    <desc lang="ar">وثائقي تونس يا بلادي</desc>
   </programme>
-  <programme start="20260811200000 +0100" stop="20260811204400 +0100" channel="wataniya1">
+  <programme start="20260812200000 +0100" stop="20260812204400 +0100" channel="wataniya1">
     <title lang="ar">النشرة الرئيسية للأخبار </title>
     <desc lang="ar">النشرة الرئيسية للأخبار </desc>
   </programme>
-  <programme start="20260811204500 +0100" stop="20260811205900 +0100" channel="wataniya1">
+  <programme start="20260812204500 +0100" stop="20260812205900 +0100" channel="wataniya1">
     <title lang="ar">النشرة الجوية</title>
     <desc lang="ar">النشرة الجوية</desc>
   </programme>
-  <programme start="20260811210000 +0100" stop="20260811215900 +0100" channel="wataniya1">
+  <programme start="20260812210000 +0100" stop="20260812215900 +0100" channel="wataniya1">
     <title lang="ar">وادي الباي</title>
     <desc lang="ar">بينما الأمور في الظاهر مستقرة تبرز أصوات من الحركات العمالية في منجم فٌسفَاط قفصة للمطالبة بحقوق العمال، وإنشاء النقابات في كامل التراب التونسي وكان ذلك سببا في إشعال شرارة الثورة ضد الاستعمار الفرنسي.</desc>
   </programme>
-  <programme start="20260811220000 +0100" stop="20260811235900 +0100" channel="wataniya1">
+  <programme start="20260812220000 +0100" stop="20260812235900 +0100" channel="wataniya1">
     <title lang="ar">حفل من مهرجان</title>
     <desc lang="ar">حفل من أحد المهرجانات، في أجواء احتفالية تجمع بين الفن والموسيقى وحضور جماهيري مميز.
 سهرة نابضة بالحياة، يلتقي فيها الجمهور مع عروض فنية متنوّعة، تعكس ثراء المشهد الثقافي وروح الاحتفال.</desc>
   </programme>
-  <programme start="20260811000000 +0100" stop="20260811001400 +0100" channel="wataniya1">
+  <programme start="20260812000000 +0100" stop="20260812001400 +0100" channel="wataniya1">
     <title lang="ar">نشرة منتصف الليل للأخبار </title>
     <desc lang="ar">نشرة منتصف الليل للأخبار </desc>
   </programme>
-  <programme start="20260811001500 +0100" stop="20260811001900 +0100" channel="wataniya1">
+  <programme start="20260812001500 +0100" stop="20260812001900 +0100" channel="wataniya1">
     <title lang="ar">النشرة الجوية</title>
     <desc lang="ar">النشرة الجوية</desc>
   </programme>
-  <programme start="20260811002000 +0100" stop="20260811010900 +0100" channel="wataniya1">
+  <programme start="20260812002000 +0100" stop="20260812010900 +0100" channel="wataniya1">
     <title lang="ar">مسلسل عطر الغضب</title>
     <desc lang="ar">يغوص المسلسل في الموضوعات الاجتماعية المختلفة، كما يسعى لتقديم حلول للقضايا الاجتماعية في واقعنا المعاصر</desc>
   </programme>
-  <programme start="20260811011000 +0100" stop="20260811013900 +0100" channel="wataniya1">
+  <programme start="20260812011000 +0100" stop="20260812013900 +0100" channel="wataniya1">
     <title lang="ar">عند عزيز</title>
     <desc lang="ar">يروي المسلسل قصة عزيّز، الذي يملك محلا تجاريا أو كما يسميه هو «سوبارات» ويعاني من صعوبات بسبب افتتاح محل تجاري ضخم قرب محله.</desc>
   </programme>
-  <programme start="20260811014000 +0100" stop="20260811020400 +0100" channel="wataniya1">
+  <programme start="20260812014000 +0100" stop="20260812020400 +0100" channel="wataniya1">
     <title lang="ar">سيتكوم الفارمسي</title>
     <desc lang="ar">سيتكوم الفارمسي</desc>
   </programme>
-  <programme start="20260811020500 +0100" stop="20260811031400 +0100" channel="wataniya1">
-    <title lang="ar">وثائقي: أحيانا نغني أثناء التصوير</title>
-    <desc lang="ar">في قلب المدينة العتيقة، حيث يمتزج عبق الأزقة بصخب الحياة، يروي سوق القماش حكاية زمنٍ حيّ لم ينقطع. هذا الوثائقي يغوص في تاريخ السوق وعلاقته بـجامع الزيتونة المعمور، حيث كان الأئمة من روّاده، في تداخل فريد بين العلم والتجارة.
-وبمرافقة باحث في الأنثروبولوجيا، نكتشف كيف ظلّ السوق يحافظ على روحه، رابطًا بين ذاكرة الماضي وتحولات الحاضر.
-</desc>
+  <programme start="20260812020500 +0100" stop="20260812035900 +0100" channel="wataniya1">
+    <title lang="ar">مسرحية عمتي عيشة راجل</title>
+    <desc lang="ar">مسرحية عمتي عيشة راجل</desc>
   </programme>
-  <programme start="20260811031500 +0100" stop="20260811051400 +0100" channel="wataniya1">
+  <programme start="20260812040000 +0100" stop="20260812055900 +0100" channel="wataniya1">
     <title lang="ar">أهلا تونس</title>
     <desc lang="ar">يتناول البرنامج اهتمامات التونسيين المقيمين بالخارج بكل ما يتعلّق بالشأن التونسي، من قضايا اجتماعية واقتصادية، إلى الاستثمار، الثقافة، والحنين إلى الجذور.
  صورة حيّة عن علاقة لا تنقطع، حيث يظلّ الوطن حاضرًا في تفاصيل يومهم واختياراتهم.</desc>
-  </programme>
-  <programme start="20260811051500 +0100" stop="20260811055900 +0100" channel="wataniya1">
-    <title lang="ar">محلاها بلادي... تونس البية</title>
-    <desc lang="ar">برنامج يحتفي بجمال تونس يكتشف ملامحها كما نحبّها: أصيلة، متنوّعة، ومليئة بالحياة. هو دعوة لاكتشاف تفاصيل صغيرة تصنع الفرق، وتُبرز روح البلاد في أبسط صورها وأجملها.</desc>
   </programme>
 </tv>
