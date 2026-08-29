@@ -4,122 +4,98 @@
     <display-name>Wataniya 2</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/langfr-500px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png"/>
   </channel>
-  <programme start="20260828060000 +0100" stop="20260828060100 +0100" channel="wataniya2">
+  <programme start="20260830060000 +0100" stop="20260830060100 +0100" channel="wataniya2">
     <title lang="ar">النشيد الرسمي</title>
     <desc lang="ar">النشيد الرسمي</desc>
   </programme>
-  <programme start="20260828060200 +0100" stop="20260828062200 +0100" channel="wataniya2">
+  <programme start="20260830060200 +0100" stop="20260830061900 +0100" channel="wataniya2">
     <title lang="ar">القرآن الكريم</title>
     <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
   </programme>
-  <programme start="20260828062300 +0100" stop="20260828062900 +0100" channel="wataniya2">
+  <programme start="20260830062000 +0100" stop="20260830062900 +0100" channel="wataniya2">
     <title lang="ar">ابتهالات</title>
     <desc lang="ar">لحظات روحانية مع ابتهالات خاشعة تلامس القلوب وتُحلّق بالأرواح نحو السمو. بكلمات مناجية وأصوات صادقة،… حيث ترتقي الأرواح وتطمئن القلوب.</desc>
   </programme>
-  <programme start="20260828063000 +0100" stop="20260828065900 +0100" channel="wataniya2">
-    <title lang="ar">مقتطفات من أغاني أحمد جلمام</title>
-    <desc lang="ar">مقتطفات من أغاني أحمد جلمام</desc>
+  <programme start="20260830063000 +0100" stop="20260830065900 +0100" channel="wataniya2">
+    <title lang="ar">مقتطفات من حفل فيروز</title>
+    <desc lang="ar">مقتطفات من حفل فيروز</desc>
   </programme>
-  <programme start="20260828070000 +0100" stop="20260828075900 +0100" channel="wataniya2">
+  <programme start="20260830070000 +0100" stop="20260830075900 +0100" channel="wataniya2">
     <title lang="ar">تبّعني</title>
     <desc lang="ar">دعوة لاكتشاف تونس بعيون جديدة، حيث تتقاطع الطبيعة مع التاريخ في لوحات نابضة بالحياة. من الشواطئ الساحرة إلى الجبال والواحات، ومن المدن العريقة إلى القرى الهادئة، يعرّفكم البرنامج على أبرز الوجهات السياحية وأجمل المناطق الطبيعية، ويكشف خفايا أماكن قد لا يعرفها الكثيرون</desc>
   </programme>
-  <programme start="20260828080000 +0100" stop="20260828084400 +0100" channel="wataniya2">
+  <programme start="20260830080000 +0100" stop="20260830084400 +0100" channel="wataniya2">
     <title lang="ar">مسلسل ماطوس</title>
     <desc lang="ar">تدور أحداث المسلسل في قرية «ماطوس» في نهاية القرن السابع عشر بالجنوب الشرقي التونسي، و التي يعيش متساكنوها في كنف الأمن والرخاء، إذ يعمرون تلك الأراضي الصحراوية القاحلة و يحولونها إلى واحات خضراء، لكن سرعان ما تنقلب الأمور رأسا على عقب عندما تتم مهاجمتها و مهاجمة سكانها من طرف بعض قطاع الطرق لتنقلب الموازين</desc>
   </programme>
-  <programme start="20260828084500 +0100" stop="20260828091400 +0100" channel="wataniya2">
-    <title lang="ar">في حضرة الزيتونة</title>
-    <desc lang="ar">وثائقي يروي تاريخ جامع الزيتونة المعمور و علمائه و أبرز محطات التأسيس و النشأة مع إعادة تسجيد لفترات تاريخية و حضارات مرت على تونس.</desc>
+  <programme start="20260830084500 +0100" stop="20260830091400 +0100" channel="wataniya2">
+    <title lang="ar">وثائقي: جربة قباب من نور</title>
+    <desc lang="ar">"جربة… قباب من نور" وثائقي يستكشف جمال العمارة في جزيرة جربة، حيث تروي القباب البيضاء حكاية المكان والذاكرة. </desc>
   </programme>
-  <programme start="20260828091500 +0100" stop="20260828101400 +0100" channel="wataniya2">
-    <title lang="ar">مسلسل أقفاص بلا طيور</title>
-    <desc lang="ar">مسلسل أقفاص بلا طيور</desc>
+  <programme start="20260830091500 +0100" stop="20260830095900 +0100" channel="wataniya2">
+    <title lang="ar">وثائقي: قرطاجنة</title>
+    <desc lang="ar">قرطاجنة هي مدينة ساحلية تقع في منطقة مرسية جنوب شرق إسبانيا</desc>
   </programme>
-  <programme start="20260828101500 +0100" stop="20260828105900 +0100" channel="wataniya2">
-    <title lang="ar">القيروان في خرائط الزمن</title>
-    <desc lang="ar">القيروان في خرائط الزمن</desc>
+  <programme start="20260830100000 +0100" stop="20260830105900 +0100" channel="wataniya2">
+    <title lang="ar">شريط وثائقي: تلفزيون الامتاع والمؤانسة</title>
+    <desc lang="ar">شريط وثائقي: تلفزيون الامتاع والمؤانسة</desc>
   </programme>
-  <programme start="20260828110000 +0100" stop="20260828112900 +0100" channel="wataniya2">
+  <programme start="20260830110000 +0100" stop="20260830112900 +0100" channel="wataniya2">
     <title lang="ar">للا سندريلا</title>
     <desc lang="ar">للا سندريلا</desc>
   </programme>
-  <programme start="20260828113000 +0100" stop="20260828121400 +0100" channel="wataniya2">
+  <programme start="20260830113000 +0100" stop="20260830125900 +0100" channel="wataniya2">
     <title lang="ar">صور متحركة</title>
     <desc lang="ar">صور متحركة</desc>
   </programme>
-  <programme start="20260828121500 +0100" stop="20260828122400 +0100" channel="wataniya2">
-    <title lang="ar">مقتطفات من أغاني أحمد جلمام</title>
-    <desc lang="ar">مقتطفات من أغاني أحمد جلمام</desc>
+  <programme start="20260830113000 +0100" stop="20260830125900 +0100" channel="wataniya2">
+    <title lang="ar">صور متحركة</title>
+    <desc lang="ar">صور متحركة</desc>
   </programme>
-  <programme start="20260828122500 +0100" stop="20260828122900 +0100" channel="wataniya2">
-    <title lang="ar">القرآن الكريم</title>
-    <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
-  </programme>
-  <programme start="20260828123000 +0100" stop="20260828125900 +0100" channel="wataniya2">
-    <title lang="ar">خطبة وصلاة الجمعة</title>
-    <desc lang="ar">موعد أسبوعي يجمع بين العبادة والتأملفي  نقل مباشر لخطبة وصلاة الجمعة من أحد الجوامع التونسية</desc>
-  </programme>
-  <programme start="20260828130000 +0100" stop="20260828133900 +0100" channel="wataniya2">
+  <programme start="20260830130000 +0100" stop="20260830133900 +0100" channel="wataniya2">
     <title lang="ar">شوفلي حل</title>
     <desc lang="ar">شوفلي حل</desc>
   </programme>
-  <programme start="20260828134000 +0100" stop="20260828143400 +0100" channel="wataniya2">
+  <programme start="20260830134000 +0100" stop="20260830142900 +0100" channel="wataniya2">
     <title lang="ar">مسلسل الدوار</title>
     <desc lang="ar">تدور أحداث المسلسل في قرية صغيرة اسمه الدوار تابعة لمدينة توزر بالجنوب التونسي، يتحكم في هذه القرية رجل ظالم تزوج أرملة طمعًا في مالها وأصبح يتحكم فيه بدلا من ابنها وابنتها ويعاملهم معاملة قاسية.</desc>
   </programme>
-  <programme start="20260828143500 +0100" stop="20260828151400 +0100" channel="wataniya2">
+  <programme start="20260830143000 +0100" stop="20260830145900 +0100" channel="wataniya2">
     <title lang="ar">دار الخلاعة</title>
     <desc lang="ar">كريّم، خبير محاسب، يقرر قضاء عطلته الصيفية مع زوجته الجديدة حياة، التي تصغره سنًا. يدعو شقيقتي حياة، هادية وهناء، لقضاء العطلة معهما في منزل على البحر في منطقة الوطن القبلي، رفقة عائلاتهما.</desc>
   </programme>
-  <programme start="20260828151500 +0100" stop="20260828165900 +0100" channel="wataniya2">
-    <title lang="ar">شريط تلفزي: رسالة حب</title>
-    <desc lang="ar">(سعاد) تقع في حب (فوزي) الشاب الفقير تعمل والدته خياطة، يحبها جارها (مصطفى) الشاب الغني ويزوجها والدها له دون إرادتها مقابل فك رهن أرضه المحجوز عليها، يعلم (مصطفى) حبها لفوزي الذي ترك البلاد، تنجب (سعاد) ولد وبنت، يعود (فوزي) بعد 25 عامًا، تصاب (سعاد) بورم في المخ.</desc>
+  <programme start="20260830150000 +0100" stop="20260830161400 +0100" channel="wataniya2">
+    <title lang="ar">الذكرى الستون للتلفزة التونسية: الميلاد و العنفوان (الدراما...الروايات و التمثليات -الجزء الأول- ) </title>
+    <desc lang="ar">وثائقي بمناسبة الذكرى 60 لتأسيس التلفزة التونسية</desc>
   </programme>
-  <programme start="20260828170000 +0100" stop="20260828174400 +0100" channel="wataniya2">
-    <title lang="ar">مسلسل نص يوم</title>
-    <desc lang="ar">تبدأ أحداث العمل بوفاة رجل لديه إقطاعية زيتون واسعة، فيعود ابنه المغترب (ميار) إلى البلاد لإنهاء كل الالتزامات المهنية والعائلية للسفر من جديد، إلا أنهيقع شاب في حب يارا، الفتاة الجميلة التي تأسر قلبه وتدفعه إلى تغيير خططه والتخلي عن السفر، مفضّلًا البقاء إلى جانبها.
-
-لكن ما يبدو في البداية قصة حب واعدة سرعان ما يتحوّل إلى رحلة مليئة بالغموض والمفاجآت، حين يكتشف أن يارا تخفي وراء سحرها أسرارًا كثيرة</desc>
+  <programme start="20260830161500 +0100" stop="20260830182900 +0100" channel="wataniya2">
+    <title lang="ar">كرة القدم: النجم الرياضي الساحلي /النجم الرياضي بالمتلوي  </title>
+    <desc lang="ar">كرة القدم: النجم الرياضي الساحلي /النجم الرياضي بالمتلوي  </desc>
   </programme>
-  <programme start="20260828174500 +0100" stop="20260828182900 +0100" channel="wataniya2">
-    <title lang="ar">صور متحركة</title>
-    <desc lang="ar">صور متحركة</desc>
-  </programme>
-  <programme start="20260828183000 +0100" stop="20260828190400 +0100" channel="wataniya2">
+  <programme start="20260830183000 +0100" stop="20260830185900 +0100" channel="wataniya2">
     <title lang="ar">للا سندريلا</title>
     <desc lang="ar">للا سندريلا</desc>
   </programme>
-  <programme start="20260828190500 +0100" stop="20260828192900 +0100" channel="wataniya2">
-    <title lang="ar">أحكيلي عليها</title>
-    <desc lang="ar">برنامجنا الجديد على الوطنية الأولى بمناسبة شهر رمضان المعظم سوف يأخذنا في جولات داخل الأحياء(الحوم جمع حومة) وفي كل حي أو مدينة سوف تتحدث عن الماضي و الحاضر.
- تذكر بما كان يرويه الأسلاف من حكايات في شكل خرافات حتى نربط الماضي بالحاضر.
-</desc>
+  <programme start="20260830190000 +0100" stop="20260830202900 +0100" channel="wataniya2">
+    <title lang="ar">كرة القدم-تسجيل: نادي حمام الأنف /النادي البنزرتي</title>
+    <desc lang="ar">كرة القدم- تسجيل: نادي حمام الأنف /النادي البنزرتي</desc>
   </programme>
-  <programme start="20260828193000 +0100" stop="20260828203400 +0100" channel="wataniya2">
-    <title lang="ar">مسلسل أقفاص بلا طيور</title>
-    <desc lang="ar">مسلسل أقفاص بلا طيور</desc>
-  </programme>
-  <programme start="20260828203500 +0100" stop="20260828211400 +0100" channel="wataniya2">
+  <programme start="20260830203000 +0100" stop="20260830211400 +0100" channel="wataniya2">
     <title lang="ar">شوفلي حل</title>
     <desc lang="ar">شوفلي حل</desc>
   </programme>
-  <programme start="20260828211500 +0100" stop="20260828221400 +0100" channel="wataniya2">
+  <programme start="20260830211500 +0100" stop="20260830221400 +0100" channel="wataniya2">
     <title lang="ar">مسلسل الدوار</title>
     <desc lang="ar">تدور أحداث المسلسل في قرية صغيرة اسمه الدوار تابعة لمدينة توزر بالجنوب التونسي، يتحكم في هذه القرية رجل ظالم تزوج أرملة طمعًا في مالها وأصبح يتحكم فيه بدلا من ابنها وابنتها ويعاملهم معاملة قاسية.</desc>
   </programme>
-  <programme start="20260828221500 +0100" stop="20260828225900 +0100" channel="wataniya2">
+  <programme start="20260830221400 +0100" stop="20260830225900 +0100" channel="wataniya2">
     <title lang="ar">مسلسل نص يوم</title>
     <desc lang="ar">تبدأ أحداث العمل بوفاة رجل لديه إقطاعية زيتون واسعة، فيعود ابنه المغترب (ميار) إلى البلاد لإنهاء كل الالتزامات المهنية والعائلية للسفر من جديد، إلا أنهيقع شاب في حب يارا، الفتاة الجميلة التي تأسر قلبه وتدفعه إلى تغيير خططه والتخلي عن السفر، مفضّلًا البقاء إلى جانبها.
 
 لكن ما يبدو في البداية قصة حب واعدة سرعان ما يتحوّل إلى رحلة مليئة بالغموض والمفاجآت، حين يكتشف أن يارا تخفي وراء سحرها أسرارًا كثيرة</desc>
   </programme>
-  <programme start="20260828230000 +0100" stop="20260828234400 +0100" channel="wataniya2">
-    <title lang="ar">مسلسل ماطوس</title>
-    <desc lang="ar">تدور أحداث المسلسل في قرية «ماطوس» في نهاية القرن السابع عشر بالجنوب الشرقي التونسي، و التي يعيش متساكنوها في كنف الأمن والرخاء، إذ يعمرون تلك الأراضي الصحراوية القاحلة و يحولونها إلى واحات خضراء، لكن سرعان ما تنقلب الأمور رأسا على عقب عندما تتم مهاجمتها و مهاجمة سكانها من طرف بعض قطاع الطرق لتنقلب الموازين</desc>
-  </programme>
-  <programme start="20260828234500 +0100" stop="20260828235900 +0100" channel="wataniya2">
-    <title lang="ar">شريط تلفزي: رسالة حب</title>
-    <desc lang="ar">(سعاد) تقع في حب (فوزي) الشاب الفقير تعمل والدته خياطة، يحبها جارها (مصطفى) الشاب الغني ويزوجها والدها له دون إرادتها مقابل فك رهن أرضه المحجوز عليها، يعلم (مصطفى) حبها لفوزي الذي ترك البلاد، تنجب (سعاد) ولد وبنت، يعود (فوزي) بعد 25 عامًا، تصاب (سعاد) بورم في المخ.</desc>
+  <programme start="20260830230000 +0100" stop="20260830235900 +0100" channel="wataniya2">
+    <title lang="ar">الحاج كلوف</title>
+    <desc lang="ar">شخصية "الحاج كلوف" صارت مضرب الأمثال، كيف يتدخل شخص في ما لا يعنيه.</desc>
   </programme>
 </tv>
