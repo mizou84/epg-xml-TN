@@ -4,81 +4,122 @@
     <display-name>Wataniya 1</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/960px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png"/>
   </channel>
-  <programme start="20260911060000 +0100" stop="20260911060100 +0100" channel="wataniya1">
+  <programme start="20260912060000 +0100" stop="20260912060100 +0100" channel="wataniya1">
     <title lang="ar">النشيد الرسمي</title>
     <desc lang="ar">النشيد الرسمي</desc>
   </programme>
-  <programme start="20260911060200 +0100" stop="20260911062400 +0100" channel="wataniya1">
-    <title lang="ar">القرآن الكريم</title>
-    <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
-  </programme>
-  <programme start="20260911062500 +0100" stop="20260911065900 +0100" channel="wataniya1">
+  <programme start="20260912062300 +0100" stop="20260912065900 +0100" channel="wataniya1">
     <title lang="ar">ابتهالات</title>
     <desc lang="ar">لحظات روحانية مع ابتهالات خاشعة تلامس القلوب وتُحلّق بالأرواح نحو السمو. بكلمات مناجية وأصوات صادقة،… حيث ترتقي الأرواح وتطمئن القلوب.</desc>
   </programme>
-  <programme start="20260911070000 +0100" stop="20260911072400 +0100" channel="wataniya1">
+  <programme start="20260912070000 +0100" stop="20260912072400 +0100" channel="wataniya1">
     <title lang="ar">في خلقه شؤون</title>
     <desc lang="ar">وثائقي يسلّط الضوء على عظمة خلق الله وتنوّع شؤونه في الكون، من خلال عرض مشاهد الطبيعة والحياة، مبرزًا دقّة الخلق وجماله وتجدّده المستمر بأسلوب بصري وتأمّلي يعزّز الإيمان والتفكّر</desc>
   </programme>
-  <programme start="20260911072500 +0100" stop="20260911074400 +0100" channel="wataniya1">
+  <programme start="20260912072500 +0100" stop="20260912074400 +0100" channel="wataniya1">
     <title lang="ar">قضاة من تاريخنا</title>
     <desc lang="ar">حلقات قصيرة منفصلة تتمحور حول شخصيات تاريخية تولّوا القضاء في القيروان أثروا في العديد من مواقف حكام الدولة الأغلبية، متناولًا مسیرة كل منھم.</desc>
   </programme>
-  <programme start="20260911074500 +0100" stop="20260911083400 +0100" channel="wataniya1">
+  <programme start="20260912074500 +0100" stop="20260912083400 +0100" channel="wataniya1">
     <title lang="ar">قصص من الأرض</title>
     <desc lang="ar">رحلة استكشافية حول أعظم وأطول الأنهار في العالم، والتي كانت مهداً للحضارات وشريان الحياة لملايين الكائنات</desc>
   </programme>
-  <programme start="20260911083500 +0100" stop="20260911093900 +0100" channel="wataniya1">
-    <title lang="ar">في كنف الله</title>
-    <desc lang="ar">وثائقي يستعرض التاريخ الروحاني والاجتماعي لمدينة تونس العتيقة من خلال تسليط الضوء على حياة العباد والزهاد ودور الزوايا الصوفية.</desc>
+  <programme start="20260912083500 +0100" stop="20260912092400 +0100" channel="wataniya1">
+    <title lang="ar">شريط وثائقي: المقام الأندلسي</title>
+    <desc lang="ar">شريط وثائقي: المقام الأندلسي</desc>
   </programme>
-  <programme start="20260911094000 +0100" stop="20260911095900 +0100" channel="wataniya1">
-    <title lang="ar">العمارة الإسلامية</title>
-    <desc lang="ar"> لم تكن العمارة الإسلامية يوماً مجرد أحجار تُرصَف أو أسقف تُرفَع، بل كانت تجسيداً مادياً لفلسفة روحية عميقة، ولغة بصرية تتحدث بلسان الحضارة والجمال. من نقوش القصور وصولاً إلى المآذن والزواياتروي لنا العمارة قصة أمة استطاعت ترويض الفضاء والمادة لخدمة المعنى.</desc>
+  <programme start="20260912092500 +0100" stop="20260912095900 +0100" channel="wataniya1">
+    <title lang="ar">تونس المدينة العتيقة</title>
+    <desc lang="ar">رحلة داخل أزقة المدينة العتيقة، حيث يلتقي التاريخ بالحياة اليومية في تناغم فريد. ن خلال معالمها العريقة، وأسواقها النابضة، وحِرفها التقليدية نغوص في ذاكرة المكان، حيث لكل زاوية حكاية، ولكل باب أثر يروي جزءًا من تاريخ تونس.</desc>
   </programme>
-  <programme start="20260911100000 +0100" stop="20260911102900 +0100" channel="wataniya1">
+  <programme start="20260912100000 +0100" stop="20260912102900 +0100" channel="wataniya1">
     <title lang="ar">ديما عامرة</title>
     <desc lang="ar">من الأكلات الشعبية إلى الأطباق العائلية الغنية، نكتشف معًا أسرار المطبخ التونسي، بلمسة عصرية وروح مليئة بالدفء والكرم</desc>
   </programme>
-  <programme start="20260911103000 +0100" stop="20260911105400 +0100" channel="wataniya1">
+  <programme start="20260912103000 +0100" stop="20260912105900 +0100" channel="wataniya1">
     <title lang="ar">محلاها بلادي... تونس البية</title>
     <desc lang="ar">برنامج يحتفي بجمال تونس يكتشف ملامحها كما نحبّها: أصيلة، متنوّعة، ومليئة بالحياة. هو دعوة لاكتشاف تفاصيل صغيرة تصنع الفرق، وتُبرز روح البلاد في أبسط صورها وأجملها.</desc>
   </programme>
-  <programme start="20260911105500 +0100" stop="20260911115400 +0100" channel="wataniya1">
-    <title lang="ar">المجلة الصحية</title>
-    <desc lang="ar">المجلة الصحية</desc>
+  <programme start="20260912110000 +0100" stop="20260912125900 +0100" channel="wataniya1">
+    <title lang="ar">أهلا تونس</title>
+    <desc lang="ar">يتناول البرنامج اهتمامات التونسيين المقيمين بالخارج بكل ما يتعلّق بالشأن التونسي، من قضايا اجتماعية واقتصادية، إلى الاستثمار، الثقافة، والحنين إلى الجذور.
+ صورة حيّة عن علاقة لا تنقطع، حيث يظلّ الوطن حاضرًا في تفاصيل يومهم واختياراتهم.</desc>
   </programme>
-  <programme start="20260911115500 +0100" stop="20260911125900 +0100" channel="wataniya1">
-    <title lang="ar">مسلسل حياة</title>
-    <desc lang="ar">مسلسل حياة</desc>
-  </programme>
-  <programme start="20260911130000 +0100" stop="20260911132900 +0100" channel="wataniya1">
+  <programme start="20260912130000 +0100" stop="20260912132900 +0100" channel="wataniya1">
     <title lang="ar">نشرة الظهر للأخبار </title>
     <desc lang="ar">نشرة الظهر للأخبار </desc>
   </programme>
-  <programme start="20260911133000 +0100" stop="20260911133900 +0100" channel="wataniya1">
-    <title lang="ar">القرآن الكريم</title>
-    <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
-  </programme>
-  <programme start="20260911134000 +0100" stop="20260911141400 +0100" channel="wataniya1">
-    <title lang="ar">خطبة وصلاة الجمعة</title>
-    <desc lang="ar">موعد أسبوعي يجمع بين العبادة والتأملفي  نقل مباشر لخطبة وصلاة الجمعة من أحد الجوامع التونسية</desc>
-  </programme>
-  <programme start="20260911141500 +0100" stop="20260911144400 +0100" channel="wataniya1">
-    <title lang="ar">في حضرة الزيتونة</title>
-    <desc lang="ar">وثائقي يروي تاريخ جامع الزيتونة المعمور و علمائه و أبرز محطات التأسيس و النشأة مع إعادة تسجيد لفترات تاريخية و حضارات مرت على تونس.</desc>
-  </programme>
-  <programme start="20260911144500 +0100" stop="20260911152900 +0100" channel="wataniya1">
+  <programme start="20260912133000 +0100" stop="20260912141400 +0100" channel="wataniya1">
     <title lang="ar">مسلسل خمسة ونص</title>
     <desc lang="ar">تتناول أحداث المسلسل قصة حب غير مألوفة بين حبيبين غمار الغانم (قصي خولي) والدكتورة بيان نجم الدين (نادين نسيب نجيم)، تحاول فيها المرأة ترويض حبيب يشتهي مجد المال ويعاني من الحقد وصراعات على السلطة، وقدرتها على لعب دور نافذ في حياته.</desc>
   </programme>
-  <programme start="20260911153000 +0100" stop="20260911162400 +0100" channel="wataniya1">
+  <programme start="20260912141500 +0100" stop="20260912155900 +0100" channel="wataniya1">
+    <title lang="ar">المجلة الصحية</title>
+    <desc lang="ar">المجلة الصحية</desc>
+  </programme>
+  <programme start="20260912160000 +0100" stop="20260912164400 +0100" channel="wataniya1">
+    <title lang="ar">كرة القدم: مستقبل المرسى - النجم الساحلي</title>
+    <desc lang="ar">نقل مباشر من ملعب عبد العزيز الشتيوي لمباراة مستقبل المرسى والنجم الساحلي في إطار الجولة الرابعة للرابطة المحترفة الأولى لكرة القدم</desc>
+  </programme>
+  <programme start="20260912164500 +0100" stop="20260912165900 +0100" channel="wataniya1">
+    <title lang="ar">النشرة المسائية للأخبار</title>
+    <desc lang="ar">النشرة المسائية للأخبار</desc>
+  </programme>
+  <programme start="20260912170000 +0100" stop="20260912175900 +0100" channel="wataniya1">
+    <title lang="ar">كرة القدم: مستقبل المرسى - النجم الساحلي</title>
+    <desc lang="ar">نقل مباشر من ملعب عبد العزيز الشتيوي لمباراة مستقبل المرسى والنجم الساحلي في إطار الجولة الرابعة للرابطة المحترفة الأولى لكرة القدم</desc>
+  </programme>
+  <programme start="20260912180000 +0100" stop="20260912185900 +0100" channel="wataniya1">
+    <title lang="ar">حسابات وعقابات</title>
+    <desc lang="ar">لزهر عروش، مهندس في البيولوجيا الغذائية من أصل ريفي، ينحدر من قرية «المسيكات». يعود إلى تونس من فرنسا، محملا بالشهائد العلمية ومتطلعا إلى وظيفة تتماشى مع مؤهلاته وشغفه بالبحث العلمي...</desc>
+  </programme>
+  <programme start="20260912182000 +0100" stop="20260912191400 +0100" channel="wataniya1">
     <title lang="ar">منازل الفن</title>
     <desc lang="ar">منازل الفن فضاء للتفكير والتفكيك داخل بيوت الثقافة والفن ..ليس المهم أن نجيب عن جميع الأسئلة ولكن حسبنا أننا نستعرض الأسئلة وندعو الى التفكير والفهم.
 منازل الفن برنامج ثقافي إعداد وتقديم شادية خذير إخراج هشام العكرمي 
 </desc>
   </programme>
-  <programme start="20260911162500 +0100" stop="20260911165900 +0100" channel="wataniya1">
+  <programme start="20260912190000 +0100" stop="20260912191400 +0100" channel="wataniya1">
+    <title lang="ar">الحجامة</title>
+    <desc lang="ar">الحجامة</desc>
+  </programme>
+  <programme start="20260912191500 +0100" stop="20260912195900 +0100" channel="wataniya1">
+    <title lang="ar">برنامج صيف وكيف</title>
+    <desc lang="ar">من قلب السواحل التونسية</desc>
+  </programme>
+  <programme start="20260912200000 +0100" stop="20260912203400 +0100" channel="wataniya1">
+    <title lang="ar">النشرة الرئيسية للأخبار </title>
+    <desc lang="ar">النشرة الرئيسية للأخبار </desc>
+  </programme>
+  <programme start="20260912203500 +0100" stop="20260912203900 +0100" channel="wataniya1">
+    <title lang="ar">النشرة الجوية</title>
+    <desc lang="ar">حالة الطقس المتوقعة  (حالة الطقس , الرياح و الرطوبة، أوقات الصلاة، الشروق و الغروب والتنبيهات...)</desc>
+  </programme>
+  <programme start="20260912204000 +0100" stop="20260912213900 +0100" channel="wataniya1">
+    <title lang="ar">مسلسل حياة</title>
+    <desc lang="ar">مسلسل حياة</desc>
+  </programme>
+  <programme start="20260912214000 +0100" stop="20260912235900 +0100" channel="wataniya1">
+    <title lang="ar">حفل ميادة الحناوي مهرجان قرطاج 2026</title>
+    <desc lang="ar">حفل ميادة الحناوي مهرجان قرطاج 2026</desc>
+  </programme>
+  <programme start="20260912000000 +0100" stop="20260912001400 +0100" channel="wataniya1">
+    <title lang="ar">نشرة منتصف الليل للأخبار </title>
+    <desc lang="ar">نشرة منتصف الليل للأخبار </desc>
+  </programme>
+  <programme start="20260912001500 +0100" stop="20260912001900 +0100" channel="wataniya1">
+    <title lang="ar">النشرة الجوية</title>
+    <desc lang="ar">حالة الطقس المتوقعة  (حالة الطقس , الرياح و الرطوبة، أوقات الصلاة، الشروق و الغروب والتنبيهات...)</desc>
+  </programme>
+  <programme start="20260912002000 +0100" stop="20260912012900 +0100" channel="wataniya1">
+    <title lang="ar">حسابات وعقابات</title>
+    <desc lang="ar">لزهر عروش، مهندس في البيولوجيا الغذائية من أصل ريفي، ينحدر من قرية «المسيكات». يعود إلى تونس من فرنسا، محملا بالشهائد العلمية ومتطلعا إلى وظيفة تتماشى مع مؤهلاته وشغفه بالبحث العلمي...</desc>
+  </programme>
+  <programme start="20260912013000 +0100" stop="20260912014400 +0100" channel="wataniya1">
+    <title lang="ar">الحجامة</title>
+    <desc lang="ar">الحجامة</desc>
+  </programme>
+  <programme start="20260912014500 +0100" stop="20260912021900 +0100" channel="wataniya1">
     <title lang="ar">سيتكوم لوتيل</title>
     <desc lang="ar">تدور أحداث المسلسل في فندق صغير في قلب العاصمة التونسية، يديره سي الشريف التونسي، بعد أن ورثه عن والده.
 
@@ -86,75 +127,16 @@
 
 يعيش سي الشريف مع عائلته في الفندق، ومن بينهم زوجته جميلة (جيجي) وأبناؤه من زواجه الأول: قمر، طالبة الحقوق، وعزيز، التلميذ الكسول الذي يسعى للحصول على الباكالوريا. ابنته قمر تربطها علاقة حب مع التيجاني، وهو فنان موسيقي ونادل في مقهى الفندق.</desc>
   </programme>
-  <programme start="20260911170000 +0100" stop="20260911172400 +0100" channel="wataniya1">
-    <title lang="ar">النشرة المسائية للأخبار</title>
-    <desc lang="ar">النشرة المسائية للأخبار</desc>
+  <programme start="20260912022000 +0100" stop="20260912025900 +0100" channel="wataniya1">
+    <title lang="ar">برنامج صيف وكيف</title>
+    <desc lang="ar">من قلب السواحل التونسية</desc>
   </programme>
-  <programme start="20260911172500 +0100" stop="20260911173400 +0100" channel="wataniya1">
-    <title lang="ar">إصدارات</title>
-    <desc lang="ar">ملخص لآخر الاصدارات الادبية والدواوين الشعرية والنشريات الثقافية</desc>
+  <programme start="20260912030000 +0100" stop="20260912050400 +0100" channel="wataniya1">
+    <title lang="ar">أهلا تونس</title>
+    <desc lang="ar">يتناول البرنامج اهتمامات التونسيين المقيمين بالخارج بكل ما يتعلّق بالشأن التونسي، من قضايا اجتماعية واقتصادية، إلى الاستثمار، الثقافة، والحنين إلى الجذور.
+ صورة حيّة عن علاقة لا تنقطع، حيث يظلّ الوطن حاضرًا في تفاصيل يومهم واختياراتهم.</desc>
   </programme>
-  <programme start="20260911173500 +0100" stop="20260911184400 +0100" channel="wataniya1">
-    <title lang="ar">مسلسل كمنجة سلامة</title>
-    <desc lang="ar">كمنجة سلّامة مسلسل درامي تونسي يتكون من خمس عشرة حلقة، عُرض في النصف الأول من شهر رمضان سنة 2007 وهو من تأليف علي اللواتي وإخراج حمادي عرافة</desc>
-  </programme>
-  <programme start="20260911184500 +0100" stop="20260911185900 +0100" channel="wataniya1">
-    <title lang="ar">الحجامة</title>
-    <desc lang="ar">الحجامة</desc>
-  </programme>
-  <programme start="20260911190000 +0100" stop="20260911195900 +0100" channel="wataniya1">
-    <title lang="ar">المجلة الصحية</title>
-    <desc lang="ar">المجلة الصحية</desc>
-  </programme>
-  <programme start="20260911200000 +0100" stop="20260911203400 +0100" channel="wataniya1">
-    <title lang="ar">النشرة الرئيسية للأخبار </title>
-    <desc lang="ar">النشرة الرئيسية للأخبار </desc>
-  </programme>
-  <programme start="20260911203500 +0100" stop="20260911203900 +0100" channel="wataniya1">
-    <title lang="ar">النشرة الجوية</title>
-    <desc lang="ar">حالة الطقس المتوقعة  (حالة الطقس , الرياح و الرطوبة، أوقات الصلاة، الشروق و الغروب والتنبيهات...)</desc>
-  </programme>
-  <programme start="20260911204000 +0100" stop="20260911212400 +0100" channel="wataniya1">
-    <title lang="ar">مسلسل حياة</title>
-    <desc lang="ar">مسلسل حياة</desc>
-  </programme>
-  <programme start="20260911212500 +0100" stop="20260911230900 +0100" channel="wataniya1">
-    <title lang="ar">في الذاكرة الرياضية</title>
-    <desc lang="ar">في الذاكرة الرياضية</desc>
-  </programme>
-  <programme start="20260911231000 +0100" stop="20260911235900 +0100" channel="wataniya1">
-    <title lang="ar">مسلسل خمسة ونص</title>
-    <desc lang="ar">تتناول أحداث المسلسل قصة حب غير مألوفة بين حبيبين غمار الغانم (قصي خولي) والدكتورة بيان نجم الدين (نادين نسيب نجيم)، تحاول فيها المرأة ترويض حبيب يشتهي مجد المال ويعاني من الحقد وصراعات على السلطة، وقدرتها على لعب دور نافذ في حياته.</desc>
-  </programme>
-  <programme start="20260911000000 +0100" stop="20260911001400 +0100" channel="wataniya1">
-    <title lang="ar">نشرة منتصف الليل للأخبار </title>
-    <desc lang="ar">نشرة منتصف الليل للأخبار </desc>
-  </programme>
-  <programme start="20260911001500 +0100" stop="20260911001900 +0100" channel="wataniya1">
-    <title lang="ar">النشرة الجوية</title>
-    <desc lang="ar">حالة الطقس المتوقعة  (حالة الطقس , الرياح و الرطوبة، أوقات الصلاة، الشروق و الغروب والتنبيهات...)</desc>
-  </programme>
-  <programme start="20260911002000 +0100" stop="20260911012900 +0100" channel="wataniya1">
-    <title lang="ar">مسلسل كمنجة سلامة</title>
-    <desc lang="ar">كمنجة سلّامة مسلسل درامي تونسي يتكون من خمس عشرة حلقة، عُرض في النصف الأول من شهر رمضان سنة 2007 وهو من تأليف علي اللواتي وإخراج حمادي عرافة</desc>
-  </programme>
-  <programme start="20260911013000 +0100" stop="20260911014400 +0100" channel="wataniya1">
-    <title lang="ar">الحجامة</title>
-    <desc lang="ar">الحجامة</desc>
-  </programme>
-  <programme start="20260911014500 +0100" stop="20260911024400 +0100" channel="wataniya1">
-    <title lang="ar">المجلة الصحية</title>
-    <desc lang="ar">المجلة الصحية</desc>
-  </programme>
-  <programme start="20260911024500 +0100" stop="20260911030900 +0100" channel="wataniya1">
-    <title lang="ar">محلاها بلادي... تونس البية</title>
-    <desc lang="ar">برنامج يحتفي بجمال تونس يكتشف ملامحها كما نحبّها: أصيلة، متنوّعة، ومليئة بالحياة. هو دعوة لاكتشاف تفاصيل صغيرة تصنع الفرق، وتُبرز روح البلاد في أبسط صورها وأجملها.</desc>
-  </programme>
-  <programme start="20260911031000 +0100" stop="20260911051400 +0100" channel="wataniya1">
-    <title lang="ar">في الذاكرة الرياضية</title>
-    <desc lang="ar">في الذاكرة الرياضية</desc>
-  </programme>
-  <programme start="20260911051500 +0100" stop="20260911055900 +0100" channel="wataniya1">
+  <programme start="20260912050500 +0100" stop="20260912055900 +0100" channel="wataniya1">
     <title lang="ar">قصص من الأرض</title>
     <desc lang="ar">رحلة استكشافية حول أعظم وأطول الأنهار في العالم، والتي كانت مهداً للحضارات وشريان الحياة لملايين الكائنات</desc>
   </programme>
