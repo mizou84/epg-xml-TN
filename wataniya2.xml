@@ -4,105 +4,94 @@
     <display-name>Wataniya 2</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/langfr-500px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png"/>
   </channel>
-  <programme start="20260912060000 +0100" stop="20260912060100 +0100" channel="wataniya2">
+  <programme start="20260913060000 +0100" stop="20260913060100 +0100" channel="wataniya2">
     <title lang="ar">النشيد الرسمي</title>
     <desc lang="ar">النشيد الرسمي</desc>
   </programme>
-  <programme start="20260912060200 +0100" stop="20260912061700 +0100" channel="wataniya2">
+  <programme start="20260913060200 +0100" stop="20260913061800 +0100" channel="wataniya2">
     <title lang="ar">القرآن الكريم</title>
     <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
   </programme>
-  <programme start="20260912061800 +0100" stop="20260912062900 +0100" channel="wataniya2">
+  <programme start="20260913061900 +0100" stop="20260913062900 +0100" channel="wataniya2">
     <title lang="ar">ابتهالات</title>
     <desc lang="ar">لحظات روحانية مع ابتهالات خاشعة تلامس القلوب وتُحلّق بالأرواح نحو السمو. بكلمات مناجية وأصوات صادقة،… حيث ترتقي الأرواح وتطمئن القلوب.</desc>
   </programme>
-  <programme start="20260912063000 +0100" stop="20260912065900 +0100" channel="wataniya2">
-    <title lang="ar">مقتطفات من حفل فيروز</title>
-    <desc lang="ar">مقتطفات من حفل فيروز</desc>
+  <programme start="20260913063000 +0100" stop="20260913065900 +0100" channel="wataniya2">
+    <title lang="ar">مقتطفات من أغاني أحمد جلمام</title>
+    <desc lang="ar">مقتطفات من أغاني أحمد جلمام</desc>
   </programme>
-  <programme start="20260912070000 +0100" stop="20260912075900 +0100" channel="wataniya2">
+  <programme start="20260913070000 +0100" stop="20260913075900 +0100" channel="wataniya2">
     <title lang="ar">تبّعني</title>
     <desc lang="ar">دعوة لاكتشاف تونس بعيون جديدة، حيث تتقاطع الطبيعة مع التاريخ في لوحات نابضة بالحياة. من الشواطئ الساحرة إلى الجبال والواحات، ومن المدن العريقة إلى القرى الهادئة، يعرّفكم البرنامج على أبرز الوجهات السياحية وأجمل المناطق الطبيعية، ويكشف خفايا أماكن قد لا يعرفها الكثيرون</desc>
   </programme>
-  <programme start="20260912080000 +0100" stop="20260912083400 +0100" channel="wataniya2">
+  <programme start="20260913080000 +0100" stop="20260913083400 +0100" channel="wataniya2">
     <title lang="ar">سلسلة بنت الخزاف</title>
     <desc lang="ar">سلسلة بنت الخزاف</desc>
   </programme>
-  <programme start="20260912083500 +0100" stop="20260912085900 +0100" channel="wataniya2">
-    <title lang="ar">وثائقي: جربة قباب من نور</title>
-    <desc lang="ar">"جربة… قباب من نور" وثائقي يستكشف جمال العمارة في جزيرة جربة، حيث تروي القباب البيضاء حكاية المكان والذاكرة. </desc>
+  <programme start="20260913083500 +0100" stop="20260913085900 +0100" channel="wataniya2">
+    <title lang="ar">الجم صرح شامخ و فن راسخ</title>
+    <desc lang="ar">الجم.. صرحٌ شامخ وفنٌّ راسخ. رحلة بصرية في قلب التراث العالمي.</desc>
   </programme>
-  <programme start="20260912090000 +0100" stop="20260912091400 +0100" channel="wataniya2">
+  <programme start="20260913090000 +0100" stop="20260913091400 +0100" channel="wataniya2">
     <title lang="ar">صنعة إيديك</title>
     <desc lang="ar">صنعة إيديك</desc>
   </programme>
-  <programme start="20260912091500 +0100" stop="20260912101400 +0100" channel="wataniya2">
-    <title lang="ar">مسلسل عشقة وحكايات</title>
-    <desc lang="ar">تعيش عائلة مكونة من أم وثلاثة ابناء في منزل واحد، يحاول كل منهم البحث عن ذاته، وتبدأ الأمور في التغير حينما يأتي خالهم لزيارتهم.
-ﺗﺄﻟﻴﻒ: علي اللواتي
-ﺇﺧﺮاﺝ: صلاح الدين الصيد</desc>
-  </programme>
-  <programme start="20260912101500 +0100" stop="20260912105900 +0100" channel="wataniya2">
+  <programme start="20260913091500 +0100" stop="20260913095900 +0100" channel="wataniya2">
     <title lang="ar">تونس المزيانة</title>
     <desc lang="ar">تونس المزيانة</desc>
   </programme>
-  <programme start="20260912110000 +0100" stop="20260912112900 +0100" channel="wataniya2">
+  <programme start="20260913100000 +0100" stop="20260913105900 +0100" channel="wataniya2">
+    <title lang="ar">وثائقي: أحيانا نغني أثناء التصوير</title>
+    <desc lang="ar">في قلب المدينة العتيقة، حيث يمتزج عبق الأزقة بصخب الحياة، يروي سوق القماش حكاية زمنٍ حيّ لم ينقطع. هذا الوثائقي يغوص في تاريخ السوق وعلاقته بـجامع الزيتونة المعمور، حيث كان الأئمة من روّاده، في تداخل فريد بين العلم والتجارة.
+وبمرافقة باحث في الأنثروبولوجيا، نكتشف كيف ظلّ السوق يحافظ على روحه، رابطًا بين ذاكرة الماضي وتحولات الحاضر.
+</desc>
+  </programme>
+  <programme start="20260913110000 +0100" stop="20260913112900 +0100" channel="wataniya2">
     <title lang="ar">صحة برو</title>
     <desc lang="ar">كوميديا يومية من قلب الحي ...بشبش يقرّر تغيير حياته… ويجدد صالون الحلاقة من الأرض إلى السقف. لكن المرايا الجديدة تعكس نفس الفوضى والزبائن</desc>
   </programme>
-  <programme start="20260912113000 +0100" stop="20260912125900 +0100" channel="wataniya2">
+  <programme start="20260913113000 +0100" stop="20260913125900 +0100" channel="wataniya2">
     <title lang="ar">صور متحركة</title>
     <desc lang="ar">صور متحركة</desc>
   </programme>
-  <programme start="20260912130000 +0100" stop="20260912133900 +0100" channel="wataniya2">
+  <programme start="20260913130000 +0100" stop="20260913133900 +0100" channel="wataniya2">
     <title lang="ar">شوفلي حل</title>
     <desc lang="ar">شوفلي حل</desc>
   </programme>
-  <programme start="20260912134000 +0100" stop="20260912142900 +0100" channel="wataniya2">
+  <programme start="20260913134000 +0100" stop="20260913142900 +0100" channel="wataniya2">
     <title lang="ar">الخطاب على الباب</title>
     <desc lang="ar">يروي المسلسل أجواء الأحياء العتيقة بالعاصمة التونسية خلال شهر رمضان المعظم، مما يدخل الفكاهة سواء من الشيخ تحيفة وسطيّش في منزل الشاذلي التمار، أو من عبودة وتصرفاته الكوميدية في محل النجار صليح أو في المقهى مع أبناء الحي عندما يحين موعد الإفطار ليحلو السهر في «قهوة السوق». كما يروي المسلسل قصة حب بين فاطمة ابنة الشاذلي التمار، والطالب أحمد المقيم بتونس، إضافة إلى طرح عدة قضايا اجتماعية أخرى. </desc>
   </programme>
-  <programme start="20260912143000 +0100" stop="20260912161900 +0100" channel="wataniya2">
-    <title lang="ar">في الذاكرة الرياضية</title>
-    <desc lang="ar">في الذاكرة الرياضية</desc>
+  <programme start="20260913143000 +0100" stop="20260913155900 +0100" channel="wataniya2">
+    <title lang="ar">رحلة في ذاكرة التلفزة</title>
+    <desc lang="ar">رحلة في ذاكرة التلفزة</desc>
   </programme>
-  <programme start="20260912162000 +0100" stop="20260912165900 +0100" channel="wataniya2">
-    <title lang="ar">لمة ونجوم</title>
-    <desc lang="ar">برنامج لمة ونجوم 
-إعداد و تقديم : نعيمة بن عمار</desc>
+  <programme start="20260913160000 +0100" stop="20260913175900 +0100" channel="wataniya2">
+    <title lang="ar">كرة القدم: الأولمبي الباجي - تقدم ساقية الداير</title>
+    <desc lang="ar">نقل مباشر من ملعب بوجمعة الكميتي لمباراة الأولمبي الباجي وتقدم ساقية الداير في إطار الجولة الرابعة للرابطة المحترفة الأولى لكرة القدم</desc>
   </programme>
-  <programme start="20260912170000 +0100" stop="20260912174400 +0100" channel="wataniya2">
-    <title lang="ar">مسلسل نص يوم</title>
-    <desc lang="ar">تبدأ أحداث العمل بوفاة رجل لديه إقطاعية زيتون واسعة، فيعود ابنه المغترب (ميار) إلى البلاد لإنهاء كل الالتزامات المهنية والعائلية للسفر من جديد، إلا أنهيقع شاب في حب يارا، الفتاة الجميلة التي تأسر قلبه وتدفعه إلى تغيير خططه والتخلي عن السفر، مفضّلًا البقاء إلى جانبها.
-
-لكن ما يبدو في البداية قصة حب واعدة سرعان ما يتحوّل إلى رحلة مليئة بالغموض والمفاجآت، حين يكتشف أن يارا تخفي وراء سحرها أسرارًا كثيرة</desc>
+  <programme start="20260913180000 +0100" stop="20260913195900 +0100" channel="wataniya2">
+    <title lang="ar">كرة القدم: النادي الصفاقسي - شوتينغ ستارز النيجيري</title>
+    <desc lang="ar">نقل مباشر من ملعب الطيب المهيري بصفاقس لمباراة النادي الصفاقسي ونادي شوتينغ ستارز النيجيري في إطار إياب الدور التمهدي الأول لكأس الكندرالية الإفريقية لكرة القدم</desc>
   </programme>
-  <programme start="20260912174500 +0100" stop="20260912182900 +0100" channel="wataniya2">
-    <title lang="ar">صور متحركة</title>
-    <desc lang="ar">صور متحركة</desc>
+  <programme start="20260913200000 +0100" stop="20260913202900 +0100" channel="wataniya2">
+    <title lang="ar">وثائقي: جربة قباب من نور</title>
+    <desc lang="ar">"جربة… قباب من نور" وثائقي يستكشف جمال العمارة في جزيرة جربة، حيث تروي القباب البيضاء حكاية المكان والذاكرة. </desc>
   </programme>
-  <programme start="20260912183000 +0100" stop="20260912185900 +0100" channel="wataniya2">
-    <title lang="ar">صحة برو</title>
-    <desc lang="ar">كوميديا يومية من قلب الحي ...بشبش يقرّر تغيير حياته… ويجدد صالون الحلاقة من الأرض إلى السقف. لكن المرايا الجديدة تعكس نفس الفوضى والزبائن</desc>
-  </programme>
-  <programme start="20260912190000 +0100" stop="20260912202900 +0100" channel="wataniya2">
-    <title lang="ar">كرة القدم: أمل حمام سوسة - الملعب التونسي</title>
-    <desc lang="ar">تسجيل لمباراة أمل حمام سوسة والملعب التونسي في إطار الجولة الرابعة للرابطة المحترفة الأولى لكرة القم</desc>
-  </programme>
-  <programme start="20260912203000 +0100" stop="20260912211400 +0100" channel="wataniya2">
+  <programme start="20260913203000 +0100" stop="20260913211400 +0100" channel="wataniya2">
     <title lang="ar">شوفلي حل</title>
     <desc lang="ar">شوفلي حل</desc>
   </programme>
-  <programme start="20260912211500 +0100" stop="20260912221400 +0100" channel="wataniya2">
+  <programme start="20260913211500 +0100" stop="20260913220400 +0100" channel="wataniya2">
     <title lang="ar">الخطاب على الباب</title>
     <desc lang="ar">يروي المسلسل أجواء الأحياء العتيقة بالعاصمة التونسية خلال شهر رمضان المعظم، مما يدخل الفكاهة سواء من الشيخ تحيفة وسطيّش في منزل الشاذلي التمار، أو من عبودة وتصرفاته الكوميدية في محل النجار صليح أو في المقهى مع أبناء الحي عندما يحين موعد الإفطار ليحلو السهر في «قهوة السوق». كما يروي المسلسل قصة حب بين فاطمة ابنة الشاذلي التمار، والطالب أحمد المقيم بتونس، إضافة إلى طرح عدة قضايا اجتماعية أخرى. </desc>
   </programme>
-  <programme start="20260912221500 +0100" stop="20260912234500 +0100" channel="wataniya2">
-    <title lang="ar">كرة القدم: الاتحاد المنستيري - اتحاد بنقردان</title>
-    <desc lang="ar">تسجيل لمباراة الاتحاد المنستيري واتحاد بنقردان في إطار الجولة الرابعة للرابطة المحترفة الأولى لكرة القدم</desc>
+  <programme start="20260913220500 +0100" stop="20260913231900 +0100" channel="wataniya2">
+    <title lang="ar">شريط وثائقي: نجوم يحلون بتونس</title>
+    <desc lang="ar">شريط وثائقي: نجوم يحلون بتونس</desc>
   </programme>
-  <programme start="20260912234500 +0100" stop="20260912235900 +0100" channel="wataniya2">
-    <title lang="ar">سهرة من الأرشيف </title>
-    <desc lang="ar"> سهرة من الأرشيف </desc>
+  <programme start="20260913232000 +0100" stop="20260913235900 +0100" channel="wataniya2">
+    <title lang="ar">رحلة في ذاكرة التلفزة</title>
+    <desc lang="ar">رحلة في ذاكرة التلفزة</desc>
   </programme>
 </tv>
