@@ -4,102 +4,110 @@
     <display-name>Wataniya 2</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/langfr-500px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png"/>
   </channel>
-  <programme start="20260924060000 +0100" stop="20260924060100 +0100" channel="wataniya2">
+  <programme start="20260925060000 +0100" stop="20260925060100 +0100" channel="wataniya2">
     <title lang="ar">النشيد الرسمي</title>
     <desc lang="ar">النشيد الرسمي</desc>
   </programme>
-  <programme start="20260924060200 +0100" stop="20260924061800 +0100" channel="wataniya2">
+  <programme start="20260925060200 +0100" stop="20260925062400 +0100" channel="wataniya2">
     <title lang="ar">القرآن الكريم</title>
     <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
   </programme>
-  <programme start="20260924061900 +0100" stop="20260924062900 +0100" channel="wataniya2">
+  <programme start="20260925062500 +0100" stop="20260925062900 +0100" channel="wataniya2">
     <title lang="ar">ابتهالات</title>
     <desc lang="ar">لحظات روحانية مع ابتهالات خاشعة تلامس القلوب وتُحلّق بالأرواح نحو السمو. بكلمات مناجية وأصوات صادقة،… حيث ترتقي الأرواح وتطمئن القلوب.</desc>
   </programme>
-  <programme start="20260924063000 +0100" stop="20260924065900 +0100" channel="wataniya2">
-    <title lang="ar">مقتطفات من أغاني أحمد جلمام</title>
-    <desc lang="ar">مقتطفات من أغاني أحمد جلمام</desc>
+  <programme start="20260925063000 +0100" stop="20260925065900 +0100" channel="wataniya2">
+    <title lang="ar">فقرة انشادية: حاتم الفرشيشي</title>
+    <desc lang="ar">فقرة انشادية: حاتم الفرشيشي</desc>
   </programme>
-  <programme start="20260924070000 +0100" stop="20260924075900 +0100" channel="wataniya2">
+  <programme start="20260925070000 +0100" stop="20260925075900 +0100" channel="wataniya2">
     <title lang="ar">تبّعني</title>
     <desc lang="ar">دعوة لاكتشاف تونس بعيون جديدة، حيث تتقاطع الطبيعة مع التاريخ في لوحات نابضة بالحياة. من الشواطئ الساحرة إلى الجبال والواحات، ومن المدن العريقة إلى القرى الهادئة، يعرّفكم البرنامج على أبرز الوجهات السياحية وأجمل المناطق الطبيعية، ويكشف خفايا أماكن قد لا يعرفها الكثيرون</desc>
   </programme>
-  <programme start="20260924080000 +0100" stop="20260924083400 +0100" channel="wataniya2">
+  <programme start="20260925080000 +0100" stop="20260925083400 +0100" channel="wataniya2">
     <title lang="ar">سلسلة بنت الخزاف</title>
     <desc lang="ar">سلسلة بنت الخزاف</desc>
   </programme>
-  <programme start="20260924083500 +0100" stop="20260924094400 +0100" channel="wataniya2">
-    <title lang="ar">وثائقي: الجمهور عايز كده</title>
-    <desc lang="ar">وثائقي: الجمهور عايز كده</desc>
+  <programme start="20260925083500 +0100" stop="20260925094400 +0100" channel="wataniya2">
+    <title lang="ar">في كنف الله</title>
+    <desc lang="ar">وثائقي يستعرض التاريخ الروحاني والاجتماعي لمدينة تونس العتيقة من خلال تسليط الضوء على حياة العباد والزهاد ودور الزوايا الصوفية.</desc>
   </programme>
-  <programme start="20260924094500 +0100" stop="20260924102900 +0100" channel="wataniya2">
+  <programme start="20260925094500 +0100" stop="20260925102900 +0100" channel="wataniya2">
     <title lang="ar">مسلسل شرع الحب</title>
     <desc lang="ar">يعرض المسلسل حالتين طلاق في سن مبكرة وأخرى في سن متقدمة؛ ولكن لكل من الحالتين خصوصيتهما ومشاكلهما ومعاناتهما التي تتجمع لتنسج دراما ملتصقة بالواقع.</desc>
   </programme>
-  <programme start="20260924103000 +0100" stop="20260924104900 +0100" channel="wataniya2">
-    <title lang="ar">صنعة إيديك</title>
-    <desc lang="ar">صنعة إيديك</desc>
-  </programme>
-  <programme start="20260924105000 +0100" stop="20260924112900 +0100" channel="wataniya2">
-    <title lang="ar">تونس المزيانة</title>
-    <desc lang="ar">تونس المزيانة</desc>
-  </programme>
-  <programme start="20260924113000 +0100" stop="20260924125900 +0100" channel="wataniya2">
-    <title lang="ar">صور متحركة</title>
-    <desc lang="ar">صور متحركة</desc>
-  </programme>
-  <programme start="20260924130000 +0100" stop="20260924133400 +0100" channel="wataniya2">
-    <title lang="ar">شوفلي حل</title>
-    <desc lang="ar">شوفلي حل</desc>
-  </programme>
-  <programme start="20260924133500 +0100" stop="20260924141900 +0100" channel="wataniya2">
-    <title lang="ar">الخطاب على الباب</title>
-    <desc lang="ar">يروي المسلسل أجواء الأحياء العتيقة بالعاصمة التونسية خلال شهر رمضان المعظم، مما يدخل الفكاهة سواء من الشيخ تحيفة وسطيّش في منزل الشاذلي التمار، أو من عبودة وتصرفاته الكوميدية في محل النجار صليح أو في المقهى مع أبناء الحي عندما يحين موعد الإفطار ليحلو السهر في «قهوة السوق». كما يروي المسلسل قصة حب بين فاطمة ابنة الشاذلي التمار، والطالب أحمد المقيم بتونس، إضافة إلى طرح عدة قضايا اجتماعية أخرى. </desc>
-  </programme>
-  <programme start="20260924142000 +0100" stop="20260924162900 +0100" channel="wataniya2">
-    <title lang="ar">كرة القدم: تونس - الجزائر</title>
-    <desc lang="ar">نقل مباشر من مصر لمباراة المنتخب التونسي ونظيره الجزائري في ّإطار كأس إفريقيا لأقل من 20 سنة لكرة القدم.</desc>
-  </programme>
-  <programme start="20260924163000 +0100" stop="20260924165900 +0100" channel="wataniya2">
-    <title lang="ar">محلاها بلادي... تونس البية</title>
-    <desc lang="ar">برنامج يحتفي بجمال تونس يكتشف ملامحها كما نحبّها: أصيلة، متنوّعة، ومليئة بالحياة. هو دعوة لاكتشاف تفاصيل صغيرة تصنع الفرق، وتُبرز روح البلاد في أبسط صورها وأجملها.</desc>
-  </programme>
-  <programme start="20260924170000 +0100" stop="20260924174900 +0100" channel="wataniya2">
-    <title lang="ar">سوبر فاميلي الجزء 1</title>
-    <desc lang="ar">سوبر فاميلي هو مسلسل اجتماعي كوميدي سوري</desc>
-  </programme>
-  <programme start="20260924175000 +0100" stop="20260924183900 +0100" channel="wataniya2">
-    <title lang="ar">صور متحركة</title>
-    <desc lang="ar">صور متحركة</desc>
-  </programme>
-  <programme start="20260924184000 +0100" stop="20260924185900 +0100" channel="wataniya2">
+  <programme start="20260925103000 +0100" stop="20260925104900 +0100" channel="wataniya2">
     <title lang="ar">كود زين</title>
     <desc lang="ar">تدور أحداث المسلسل داخل محل لمُصور فوتوغرافي، حيث تلتقي فيه كل فئات المجتمع بكافة أطيافها، ويكون فضاءاً لكشف زيف البعض وأحلام آخرين بطريقة هزلية ساخرة.</desc>
   </programme>
-  <programme start="20260924190000 +0100" stop="20260924192900 +0100" channel="wataniya2">
+  <programme start="20260925105000 +0100" stop="20260925112900 +0100" channel="wataniya2">
+    <title lang="ar">في حضرة الزيتونة</title>
+    <desc lang="ar">وثائقي يروي تاريخ جامع الزيتونة المعمور و علمائه و أبرز محطات التأسيس و النشأة مع إعادة تسجيد لفترات تاريخية و حضارات مرت على تونس.</desc>
+  </programme>
+  <programme start="20260925113000 +0100" stop="20260925121900 +0100" channel="wataniya2">
+    <title lang="ar">صور متحركة</title>
+    <desc lang="ar">صور متحركة</desc>
+  </programme>
+  <programme start="20260925122000 +0100" stop="20260925124900 +0100" channel="wataniya2">
+    <title lang="ar">مقتطفات من أغاني أحمد جلمام</title>
+    <desc lang="ar">مقتطفات من أغاني أحمد جلمام</desc>
+  </programme>
+  <programme start="20260925125000 +0100" stop="20260925125900 +0100" channel="wataniya2">
+    <title lang="ar">القرآن الكريم</title>
+    <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
+  </programme>
+  <programme start="20260925130000 +0100" stop="20260925132400 +0100" channel="wataniya2">
+    <title lang="ar">خطبة وصلاة الجمعة</title>
+    <desc lang="ar">موعد أسبوعي يجمع بين العبادة والتأملفي  نقل مباشر لخطبة وصلاة الجمعة من أحد الجوامع التونسية</desc>
+  </programme>
+  <programme start="20260925132500 +0100" stop="20260925140400 +0100" channel="wataniya2">
+    <title lang="ar">شوفلي حل</title>
+    <desc lang="ar">شوفلي حل</desc>
+  </programme>
+  <programme start="20260925140500 +0100" stop="20260925150400 +0100" channel="wataniya2">
+    <title lang="ar">الخطاب على الباب</title>
+    <desc lang="ar">يروي المسلسل أجواء الأحياء العتيقة بالعاصمة التونسية خلال شهر رمضان المعظم، مما يدخل الفكاهة سواء من الشيخ تحيفة وسطيّش في منزل الشاذلي التمار، أو من عبودة وتصرفاته الكوميدية في محل النجار صليح أو في المقهى مع أبناء الحي عندما يحين موعد الإفطار ليحلو السهر في «قهوة السوق». كما يروي المسلسل قصة حب بين فاطمة ابنة الشاذلي التمار، والطالب أحمد المقيم بتونس، إضافة إلى طرح عدة قضايا اجتماعية أخرى. </desc>
+  </programme>
+  <programme start="20260925150500 +0100" stop="20260925155900 +0100" channel="wataniya2">
+    <title lang="ar">شريط وثائقي: تلفزيون الامتاع والمؤانسة</title>
+    <desc lang="ar">شريط وثائقي: تلفزيون الامتاع والمؤانسة</desc>
+  </programme>
+  <programme start="20260925160000 +0100" stop="20260925165900 +0100" channel="wataniya2">
+    <title lang="ar">أستديو تحليلي</title>
+    <desc lang="ar">أستديو تحليلي</desc>
+  </programme>
+  <programme start="20260925170000 +0100" stop="20260925182900 +0100" channel="wataniya2">
+    <title lang="ar">الكرة الطائرة: تونس - الكامرون</title>
+    <desc lang="ar">نقل مباشر من قصر الرياضة بالمنزه لمباراة تونس والكامرون في إطار الدور النهائي لبطولة إفريقيا للأمم في الكرة الطائرة</desc>
+  </programme>
+  <programme start="20260925183000 +0100" stop="20260925185900 +0100" channel="wataniya2">
+    <title lang="ar">صور متحركة</title>
+    <desc lang="ar">صور متحركة</desc>
+  </programme>
+  <programme start="20260925190000 +0100" stop="20260925192900 +0100" channel="wataniya2">
     <title lang="ar">أحكيلي عليها</title>
     <desc lang="ar">برنامجنا الجديد على الوطنية الأولى بمناسبة شهر رمضان المعظم سوف يأخذنا في جولات داخل الأحياء(الحوم جمع حومة) وفي كل حي أو مدينة سوف تتحدث عن الماضي و الحاضر.
  تذكر بما كان يرويه الأسلاف من حكايات في شكل خرافات حتى نربط الماضي بالحاضر.
 </desc>
   </programme>
-  <programme start="20260924193000 +0100" stop="20260924202900 +0100" channel="wataniya2">
+  <programme start="20260925193000 +0100" stop="20260925202900 +0100" channel="wataniya2">
     <title lang="ar">مسلسل شرع الحب</title>
     <desc lang="ar">يعرض المسلسل حالتين طلاق في سن مبكرة وأخرى في سن متقدمة؛ ولكن لكل من الحالتين خصوصيتهما ومشاكلهما ومعاناتهما التي تتجمع لتنسج دراما ملتصقة بالواقع.</desc>
   </programme>
-  <programme start="20260924203000 +0100" stop="20260924211400 +0100" channel="wataniya2">
+  <programme start="20260925203000 +0100" stop="20260925211400 +0100" channel="wataniya2">
     <title lang="ar">شوفلي حل</title>
     <desc lang="ar">شوفلي حل</desc>
   </programme>
-  <programme start="20260924211500 +0100" stop="20260924221400 +0100" channel="wataniya2">
+  <programme start="20260925211500 +0100" stop="20260925221400 +0100" channel="wataniya2">
     <title lang="ar">الخطاب على الباب</title>
     <desc lang="ar">يروي المسلسل أجواء الأحياء العتيقة بالعاصمة التونسية خلال شهر رمضان المعظم، مما يدخل الفكاهة سواء من الشيخ تحيفة وسطيّش في منزل الشاذلي التمار، أو من عبودة وتصرفاته الكوميدية في محل النجار صليح أو في المقهى مع أبناء الحي عندما يحين موعد الإفطار ليحلو السهر في «قهوة السوق». كما يروي المسلسل قصة حب بين فاطمة ابنة الشاذلي التمار، والطالب أحمد المقيم بتونس، إضافة إلى طرح عدة قضايا اجتماعية أخرى. </desc>
   </programme>
-  <programme start="20260924221500 +0100" stop="20260924230400 +0100" channel="wataniya2">
+  <programme start="20260925221500 +0100" stop="20260925230400 +0100" channel="wataniya2">
     <title lang="ar">سوبر فاميلي الجزء 1</title>
     <desc lang="ar">سوبر فاميلي هو مسلسل اجتماعي كوميدي سوري</desc>
   </programme>
-  <programme start="20260924230500 +0100" stop="20260924235900 +0100" channel="wataniya2">
-    <title lang="ar">فقرة غنائية: أم كلثوم</title>
-    <desc lang="ar">فقرة غنائية: أم كلثوم</desc>
+  <programme start="20260925230500 +0100" stop="20260925235900 +0100" channel="wataniya2">
+    <title lang="ar">شريط تلفزي: و توقف النزيف</title>
+    <desc lang="ar">تدور الأحداث حول عائلة يقوم العم فيها بإدارة شئون شقيقته وثروتها، ولكنه يبدأ في التدخل بحياة ابنه أخيه ومحاولة منعها من علاقتها حبيبها (سيد)، وتبدأ صراعات عائلية غير متوقعة.</desc>
   </programme>
 </tv>
