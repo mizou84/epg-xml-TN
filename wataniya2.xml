@@ -4,123 +4,122 @@
     <display-name>Wataniya 2</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/langfr-500px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png"/>
   </channel>
-  <programme start="20261015060000 +0100" stop="20261015060100 +0100" channel="wataniya2">
+  <programme start="20261016060000 +0100" stop="20261016060100 +0100" channel="wataniya2">
     <title lang="ar">النشيد الرسمي</title>
     <desc lang="ar">النشيد الرسمي</desc>
   </programme>
-  <programme start="20261015060200 +0100" stop="20261015062200 +0100" channel="wataniya2">
+  <programme start="20261016060200 +0100" stop="20261016062200 +0100" channel="wataniya2">
     <title lang="ar">القرآن الكريم</title>
     <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
   </programme>
-  <programme start="20261015062300 +0100" stop="20261015062900 +0100" channel="wataniya2">
+  <programme start="20261016062300 +0100" stop="20261016062900 +0100" channel="wataniya2">
     <title lang="ar">ابتهالات</title>
     <desc lang="ar">لحظات روحانية مع ابتهالات خاشعة تلامس القلوب وتُحلّق بالأرواح نحو السمو. بكلمات مناجية وأصوات صادقة،… حيث ترتقي الأرواح وتطمئن القلوب.</desc>
   </programme>
-  <programme start="20261015063000 +0100" stop="20261015065900 +0100" channel="wataniya2">
-    <title lang="ar">مقتطفات من حفل فيروز</title>
-    <desc lang="ar">مقتطفات من حفل فيروز</desc>
+  <programme start="20261016063000 +0100" stop="20261016065900 +0100" channel="wataniya2">
+    <title lang="ar">فقرة انشادية: حاتم الفرشيشي</title>
+    <desc lang="ar">فقرة انشادية: حاتم الفرشيشي</desc>
   </programme>
-  <programme start="20261015070000 +0100" stop="20261015075900 +0100" channel="wataniya2">
+  <programme start="20261016070000 +0100" stop="20261016075900 +0100" channel="wataniya2">
     <title lang="ar">تبّعني</title>
     <desc lang="ar">دعوة لاكتشاف تونس بعيون جديدة، حيث تتقاطع الطبيعة مع التاريخ في لوحات نابضة بالحياة. من الشواطئ الساحرة إلى الجبال والواحات، ومن المدن العريقة إلى القرى الهادئة، يعرّفكم البرنامج على أبرز الوجهات السياحية وأجمل المناطق الطبيعية، ويكشف خفايا أماكن قد لا يعرفها الكثيرون</desc>
   </programme>
-  <programme start="20261015080000 +0100" stop="20261015083900 +0100" channel="wataniya2">
+  <programme start="20261016080000 +0100" stop="20261016083900 +0100" channel="wataniya2">
     <title lang="ar">سلسلة خضراء والكنز </title>
     <desc lang="ar">سلسلة هزلية ومواقف طريف </desc>
   </programme>
-  <programme start="20261015084000 +0100" stop="20261015085900 +0100" channel="wataniya2">
-    <title lang="ar">علية "بني وطني"</title>
-    <desc lang="ar">علية "بني وطني"</desc>
+  <programme start="20261016084000 +0100" stop="20261016090900 +0100" channel="wataniya2">
+    <title lang="ar">في حضرة الزيتونة</title>
+    <desc lang="ar">وثائقي يروي تاريخ جامع الزيتونة المعمور و علمائه و أبرز محطات التأسيس و النشأة مع إعادة تسجيد لفترات تاريخية و حضارات مرت على تونس.</desc>
   </programme>
-  <programme start="20261015090000 +0100" stop="20261015091900 +0100" channel="wataniya2">
-    <title lang="ar">وثائقي: معارك في ميزان التضحية</title>
-    <desc lang="ar">وثائقي "عيد الجلاء... معارك في ميزان التضحية" هو عمل تليفيزيوني وثائقي تبثه التلفزة التونسية</desc>
+  <programme start="20261016091000 +0100" stop="20261016094400 +0100" channel="wataniya2">
+    <title lang="ar">شريط وثائقي: نوافذ البراق</title>
+    <desc lang="ar">شريط وثائقي: نوافذ البراق</desc>
   </programme>
-  <programme start="20261015092000 +0100" stop="20261015094400 +0100" channel="wataniya2">
-    <title lang="ar">وثائقي: بنزرت مدينة لا تكرر نفسها</title>
-    <desc lang="ar">"بنزرت.. مدينة لا تكرر نفسها" هو برنامج وثائقي تونسي من إنتاج مؤسسة التلفزة التونسية، يسلط الضوء على الخصوصية الثقافية والتاريخية والجغرافية لمدينة بنزرت الساحلية في شمال تونس</desc>
-  </programme>
-  <programme start="20261015094500 +0100" stop="20261015104400 +0100" channel="wataniya2">
+  <programme start="20261016094500 +0100" stop="20261016104900 +0100" channel="wataniya2">
     <title lang="ar">مسلسل الحصاد</title>
     <desc lang="ar">مسلسل الحصاد</desc>
   </programme>
-  <programme start="20261015104500 +0100" stop="20261015105900 +0100" channel="wataniya2">
+  <programme start="20261016105000 +0100" stop="20261016111400 +0100" channel="wataniya2">
     <title lang="ar">ياسمين وفلة</title>
     <desc lang="ar">
 ياسمين صانعة محتوى تقضي وقتها على مواقع التواصل االجتماعي وتتفاجأ بشقيقتها الكبرى فلة تعود إلى أرض الوطن لقضاء شهر رمضان بجانبها وتبدأ الحكاية بمواقفها الهزلية يرافقهما فيها الربعي حارس البيت الذي أمضى حياته في منزلهما</desc>
   </programme>
-  <programme start="20261015110000 +0100" stop="20261015114400 +0100" channel="wataniya2">
+  <programme start="20261016111500 +0100" stop="20261016115400 +0100" channel="wataniya2">
     <title lang="ar">تونس المزيانة</title>
     <desc lang="ar">تونس المزيانة</desc>
   </programme>
-  <programme start="20261015114500 +0100" stop="20261015125900 +0100" channel="wataniya2">
+  <programme start="20261016115500 +0100" stop="20261016122900 +0100" channel="wataniya2">
     <title lang="ar">صور متحركة</title>
     <desc lang="ar">صور متحركة</desc>
   </programme>
-  <programme start="20261015130000 +0100" stop="20261015134400 +0100" channel="wataniya2">
+  <programme start="20261016123000 +0100" stop="20261016124900 +0100" channel="wataniya2">
+    <title lang="ar">مقتطفات من أغاني أحمد جلمام</title>
+    <desc lang="ar">مقتطفات من أغاني أحمد جلمام</desc>
+  </programme>
+  <programme start="20261016125000 +0100" stop="20261016125900 +0100" channel="wataniya2">
+    <title lang="ar">القرآن الكريم</title>
+    <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
+  </programme>
+  <programme start="20261016130000 +0100" stop="20261016132900 +0100" channel="wataniya2">
+    <title lang="ar">خطبة وصلاة الجمعة</title>
+    <desc lang="ar">موعد أسبوعي يجمع بين العبادة والتأملفي  نقل مباشر لخطبة وصلاة الجمعة من أحد الجوامع التونسية</desc>
+  </programme>
+  <programme start="20261016133000 +0100" stop="20261016140900 +0100" channel="wataniya2">
     <title lang="ar">شوفلي حل</title>
     <desc lang="ar">شوفلي حل</desc>
   </programme>
-  <programme start="20261015134500 +0100" stop="20261015144900 +0100" channel="wataniya2">
+  <programme start="20261016141000 +0100" stop="20261016150900 +0100" channel="wataniya2">
     <title lang="ar">الليالي البيض</title>
     <desc lang="ar">الليالي البيض</desc>
   </programme>
-  <programme start="20261015145000 +0100" stop="20261015150200 +0100" channel="wataniya2">
-    <title lang="ar">وثائقي: معارك في ميزان التضحية</title>
-    <desc lang="ar">وثائقي "عيد الجلاء... معارك في ميزان التضحية" هو عمل تليفيزيوني وثائقي تبثه التلفزة التونسية</desc>
+  <programme start="20261016151000 +0100" stop="20261016155900 +0100" channel="wataniya2">
+    <title lang="ar">الذكرى الستون للتلفزة التونسية: الميلاد و العنفوان (الدراما...الروايات و التمثليات -الجزء الأول- ) </title>
+    <desc lang="ar">وثائقي بمناسبة الذكرى 60 لتأسيس التلفزة التونسية</desc>
   </programme>
-  <programme start="20261015150300 +0100" stop="20261015151900 +0100" channel="wataniya2">
-    <title lang="ar">علية "بني وطني"</title>
-    <desc lang="ar">علية "بني وطني"</desc>
+  <programme start="20261016160000 +0100" stop="20261016170900 +0100" channel="wataniya2">
+    <title lang="ar"> من أرشيف الدراما التونسية</title>
+    <desc lang="ar">يمثل أرشيف الدراما التونسية ذاكرة بصرية واجتماعية غنية، حيث برزت العديد من الأعمال الخالدة التي رسخت في وجدان التونسيين ووثقت لتاريخ تونس، عاداتها، وتحولاتها الاجتماعية بأسلوب يجمع بين الطرافة والعمق.</desc>
   </programme>
-  <programme start="20261015152000 +0100" stop="20261015154900 +0100" channel="wataniya2">
-    <title lang="ar">وثائقي: جربة قباب من نور</title>
-    <desc lang="ar">"جربة… قباب من نور" وثائقي يستكشف جمال العمارة في جزيرة جربة، حيث تروي القباب البيضاء حكاية المكان والذاكرة. </desc>
-  </programme>
-  <programme start="20261015155000 +0100" stop="20261015164100 +0100" channel="wataniya2">
-    <title lang="ar">الذكرى الستون للتلفزة التونسية: الميلاد و العنفوان (المنوعات...الحفلات و الطرب -الجزء الثاني- ) </title>
-    <desc lang="ar">وثائقي بمناسبة مرور 60 عاما على تأسيس التلفزة التونسية</desc>
-  </programme>
-  <programme start="20261015164200 +0100" stop="20261015172700 +0100" channel="wataniya2">
+  <programme start="20261016171000 +0100" stop="20261016175900 +0100" channel="wataniya2">
     <title lang="ar">سوبر فاميلي الجزء 1</title>
     <desc lang="ar">سوبر فاميلي هو مسلسل اجتماعي كوميدي سوري</desc>
   </programme>
-  <programme start="20261015172800 +0100" stop="20261015175900 +0100" channel="wataniya2">
+  <programme start="20261016180000 +0100" stop="20261016182900 +0100" channel="wataniya2">
     <title lang="ar">صور متحركة</title>
     <desc lang="ar">صور متحركة</desc>
   </programme>
-  <programme start="20261015180000 +0100" stop="20261015182400 +0100" channel="wataniya2">
+  <programme start="20261016183000 +0100" stop="20261016185400 +0100" channel="wataniya2">
     <title lang="ar">ياسمين وفلة</title>
     <desc lang="ar">
 ياسمين صانعة محتوى تقضي وقتها على مواقع التواصل االجتماعي وتتفاجأ بشقيقتها الكبرى فلة تعود إلى أرض الوطن لقضاء شهر رمضان بجانبها وتبدأ الحكاية بمواقفها الهزلية يرافقهما فيها الربعي حارس البيت الذي أمضى حياته في منزلهما</desc>
   </programme>
-  <programme start="20261015182500 +0100" stop="20261015192900 +0100" channel="wataniya2">
-    <title lang="ar">حبر على ورق... حين تتحدث المخطوطات بلغة التاريخ </title>
-    <desc lang="ar">حبر على ورق... حين تتحدث المخطوطات بلغة التاريخ 
-بين سطور المخطوطات وصفحاتها العتيقة، تختبئ حكايات حضارات، وأسرار علوم ومعارف، وشواهد على مسيرة الإنسان عبر الزمن. حروفٌ خطّتها أنامل الماضي، فحفظت ذاكرة الشعوب، ونقلت إلينا ملامح عصورٍ مضت، وظلّ أثرها حيًّا رغم تعاقب القرون.
-في الفيلم الوثائقي حبر على ورق، نفتح صفحات من ذاكرة الحضارات، وننطلق في رحلة لاكتشاف عالم المخطوطات، بما تحمله من كنوز معرفية وشواهد تاريخية، لنقرأ بين سطورها حكاية الإنسان، ونستعيد إرثًا ثقافيًا ظلّ يقاوم النسيان.
-حبر على ورق... لأن بعض الحكايات لا يمحوها الزمن، ولأن في كل مخطوط حياةً تستحق أن تُروى.
-حبر على ورق تصور وإعداد عبد اللطيف قروري 
-</desc>
+  <programme start="20261016185500 +0100" stop="20261016192400 +0100" channel="wataniya2">
+    <title lang="ar">محلاها بلادي... تونس البية</title>
+    <desc lang="ar">برنامج يحتفي بجمال تونس يكتشف ملامحها كما نحبّها: أصيلة، متنوّعة، ومليئة بالحياة. هو دعوة لاكتشاف تفاصيل صغيرة تصنع الفرق، وتُبرز روح البلاد في أبسط صورها وأجملها.</desc>
   </programme>
-  <programme start="20261015193000 +0100" stop="20261015202900 +0100" channel="wataniya2">
+  <programme start="20261016192500 +0100" stop="20261016202900 +0100" channel="wataniya2">
     <title lang="ar">مسلسل الحصاد</title>
     <desc lang="ar">مسلسل الحصاد</desc>
   </programme>
-  <programme start="20261015203000 +0100" stop="20261015211400 +0100" channel="wataniya2">
+  <programme start="20261016203000 +0100" stop="20261016210900 +0100" channel="wataniya2">
     <title lang="ar">شوفلي حل</title>
     <desc lang="ar">شوفلي حل</desc>
   </programme>
-  <programme start="20261015211500 +0100" stop="20261015221400 +0100" channel="wataniya2">
+  <programme start="20261016211000 +0100" stop="20261016221400 +0100" channel="wataniya2">
     <title lang="ar">الليالي البيض</title>
     <desc lang="ar">الليالي البيض</desc>
   </programme>
-  <programme start="20261015221500 +0100" stop="20261015230400 +0100" channel="wataniya2">
+  <programme start="20261016221500 +0100" stop="20261016230400 +0100" channel="wataniya2">
     <title lang="ar">سوبر فاميلي الجزء 1</title>
     <desc lang="ar">سوبر فاميلي هو مسلسل اجتماعي كوميدي سوري</desc>
   </programme>
-  <programme start="20261015230500 +0100" stop="20261015235900 +0100" channel="wataniya2">
-    <title lang="ar">فقرة غنائية: أم كلثوم</title>
-    <desc lang="ar">فقرة غنائية: أم كلثوم</desc>
+  <programme start="20261016230500 +0100" stop="20261016235400 +0100" channel="wataniya2">
+    <title lang="ar">الذكرى الستون للتلفزة التونسية: الميلاد و العنفوان (الدراما...الروايات و التمثليات -الجزء الأول- ) </title>
+    <desc lang="ar">وثائقي بمناسبة الذكرى 60 لتأسيس التلفزة التونسية</desc>
+  </programme>
+  <programme start="20261016235500 +0100" stop="20261016235900 +0100" channel="wataniya2">
+    <title lang="ar"> من أرشيف الدراما التونسية</title>
+    <desc lang="ar">يمثل أرشيف الدراما التونسية ذاكرة بصرية واجتماعية غنية، حيث برزت العديد من الأعمال الخالدة التي رسخت في وجدان التونسيين ووثقت لتاريخ تونس، عاداتها، وتحولاتها الاجتماعية بأسلوب يجمع بين الطرافة والعمق.</desc>
   </programme>
 </tv>
