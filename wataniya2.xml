@@ -4,103 +4,102 @@
     <display-name>Wataniya 2</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/langfr-500px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png"/>
   </channel>
-  <programme start="20261108060000 +0100" stop="20261108060100 +0100" channel="wataniya2">
+  <programme start="20261109060000 +0100" stop="20261109060100 +0100" channel="wataniya2">
     <title lang="ar">النشيد الرسمي</title>
     <desc lang="ar">النشيد الرسمي</desc>
   </programme>
-  <programme start="20261108060200 +0100" stop="20261108062200 +0100" channel="wataniya2">
+  <programme start="20261109060200 +0100" stop="20261109061900 +0100" channel="wataniya2">
     <title lang="ar">القرآن الكريم</title>
     <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
   </programme>
-  <programme start="20261108062300 +0100" stop="20261108062900 +0100" channel="wataniya2">
+  <programme start="20261109062000 +0100" stop="20261109062900 +0100" channel="wataniya2">
     <title lang="ar">ابتهالات</title>
     <desc lang="ar">لحظات روحانية مع ابتهالات خاشعة تلامس القلوب وتُحلّق بالأرواح نحو السمو. بكلمات مناجية وأصوات صادقة،… حيث ترتقي الأرواح وتطمئن القلوب.</desc>
   </programme>
-  <programme start="20261108063000 +0100" stop="20261108065900 +0100" channel="wataniya2">
-    <title lang="ar">مقتطفات من أغاني أحمد جلمام</title>
-    <desc lang="ar">مقتطفات من أغاني أحمد جلمام</desc>
+  <programme start="20261109063000 +0100" stop="20261109065900 +0100" channel="wataniya2">
+    <title lang="ar">فقرة انشادية: حاتم الفرشيشي</title>
+    <desc lang="ar">فقرة انشادية: حاتم الفرشيشي</desc>
   </programme>
-  <programme start="20261108070000 +0100" stop="20261108080900 +0100" channel="wataniya2">
+  <programme start="20261109070000 +0100" stop="20261109080900 +0100" channel="wataniya2">
     <title lang="ar">تبّعني</title>
     <desc lang="ar">دعوة لاكتشاف تونس بعيون جديدة، حيث تتقاطع الطبيعة مع التاريخ في لوحات نابضة بالحياة. من الشواطئ الساحرة إلى الجبال والواحات، ومن المدن العريقة إلى القرى الهادئة، يعرّفكم البرنامج على أبرز الوجهات السياحية وأجمل المناطق الطبيعية، ويكشف خفايا أماكن قد لا يعرفها الكثيرون</desc>
   </programme>
-  <programme start="20261108081000 +0100" stop="20261108083900 +0100" channel="wataniya2">
-    <title lang="ar">سلسلة خضراء والكنز </title>
-    <desc lang="ar">سلسلة هزلية ومواقف طريف </desc>
+  <programme start="20261109081000 +0100" stop="20261109084900 +0100" channel="wataniya2">
+    <title lang="ar">دعبل أخو دهبل</title>
+    <desc lang="ar">من خلال علاقاته بمن حوله، وخاصة شقيقه دهبل، تنطلق سلسلة من المغامرات والمواقف الساخرة التي تمزج بين الطرافة والنقد الاجتماعي بروح الحكايات الشعبية ومغامرات جحا ونوادره القديمة.</desc>
   </programme>
-  <programme start="20261108084000 +0100" stop="20261108095400 +0100" channel="wataniya2">
-    <title lang="ar">حبر على ورق... حين تتحدث المخطوطات بلغة التاريخ </title>
-    <desc lang="ar">حبر على ورق... حين تتحدث المخطوطات بلغة التاريخ 
-بين سطور المخطوطات وصفحاتها العتيقة، تختبئ حكايات حضارات، وأسرار علوم ومعارف، وشواهد على مسيرة الإنسان عبر الزمن. حروفٌ خطّتها أنامل الماضي، فحفظت ذاكرة الشعوب، ونقلت إلينا ملامح عصورٍ مضت، وظلّ أثرها حيًّا رغم تعاقب القرون.
-في الفيلم الوثائقي حبر على ورق، نفتح صفحات من ذاكرة الحضارات، وننطلق في رحلة لاكتشاف عالم المخطوطات، بما تحمله من كنوز معرفية وشواهد تاريخية، لنقرأ بين سطورها حكاية الإنسان، ونستعيد إرثًا ثقافيًا ظلّ يقاوم النسيان.
-حبر على ورق... لأن بعض الحكايات لا يمحوها الزمن، ولأن في كل مخطوط حياةً تستحق أن تُروى.
-حبر على ورق تصور وإعداد عبد اللطيف قروري 
-</desc>
-  </programme>
-  <programme start="20261108095500 +0100" stop="20261108110900 +0100" channel="wataniya2">
-    <title lang="ar">من حكايات العروي</title>
-    <desc lang="ar">من حكايات العروي</desc>
-  </programme>
-  <programme start="20261108111000 +0100" stop="20261108115900 +0100" channel="wataniya2">
-    <title lang="ar">تونس المزيانة</title>
-    <desc lang="ar">تونس المزيانة</desc>
-  </programme>
-  <programme start="20261108120000 +0100" stop="20261108125900 +0100" channel="wataniya2">
-    <title lang="ar">صور متحركة</title>
-    <desc lang="ar">صور متحركة</desc>
-  </programme>
-  <programme start="20261108130000 +0100" stop="20261108133900 +0100" channel="wataniya2">
-    <title lang="ar">شوفلي حل</title>
-    <desc lang="ar">شوفلي حل</desc>
-  </programme>
-  <programme start="20261108134000 +0100" stop="20261108142900 +0100" channel="wataniya2">
-    <title lang="ar">مسلسل الريحانة</title>
-    <desc lang="ar">دراما تونسية تتناول قصة امرأة ثرية يحاول زوجها القيام بخداعها للاستيلاء على أملاكها وهى دائمًا المرأة الطيبة ذات المشاعر الفياضة التي تعامل جميع من حولها بود وحب.</desc>
-  </programme>
-  <programme start="20261108143000 +0100" stop="20261108152900 +0100" channel="wataniya2">
+  <programme start="20261109085000 +0100" stop="20261109094900 +0100" channel="wataniya2">
     <title lang="ar">شريط وثائقي: تلفزيون الامتاع والمؤانسة</title>
     <desc lang="ar">شريط وثائقي: تلفزيون الامتاع والمؤانسة</desc>
   </programme>
-  <programme start="20261108153000 +0100" stop="20261108154400 +0100" channel="wataniya2">
-    <title lang="ar">بين الفنون</title>
-    <desc lang="ar">ين الفنون حصة أسبوعية ترصد أبرز التظاهرات الثقافية في تونس من خلال التغطيات الميدانية .
-بين الفنون إعداد وتقديم محمد مناعي 
-</desc>
-  </programme>
-  <programme start="20261108154500 +0100" stop="20261108163900 +0100" channel="wataniya2">
-    <title lang="ar">سهرة من الأرشيف </title>
-    <desc lang="ar"> سهرة من الأرشيف </desc>
-  </programme>
-  <programme start="20261108164000 +0100" stop="20261108172900 +0100" channel="wataniya2">
-    <title lang="ar">سوبر فاميلي الجزء 1</title>
-    <desc lang="ar">سوبر فاميلي هو مسلسل اجتماعي كوميدي سوري</desc>
-  </programme>
-  <programme start="20261108173000 +0100" stop="20261108190900 +0100" channel="wataniya2">
-    <title lang="ar">كرة القدم: نجم المتلوي - الترجي الجرجيسي</title>
-    <desc lang="ar">نقل مباشر من الملعب البلدي بالمتلوي لمباراة نجم المكان مع ضيفه الترجي الجرجيسي في إطار بطولة الرابطة المحترفة الأولى لكرة القدم</desc>
-  </programme>
-  <programme start="20261108191000 +0100" stop="20261108193900 +0100" channel="wataniya2">
-    <title lang="ar">محلاها بلادي... تونس البية</title>
-    <desc lang="ar">برنامج يحتفي بجمال تونس يكتشف ملامحها كما نحبّها: أصيلة، متنوّعة، ومليئة بالحياة. هو دعوة لاكتشاف تفاصيل صغيرة تصنع الفرق، وتُبرز روح البلاد في أبسط صورها وأجملها.</desc>
-  </programme>
-  <programme start="20261108194000 +0100" stop="20261108202900 +0100" channel="wataniya2">
+  <programme start="20261109095000 +0100" stop="20261109103400 +0100" channel="wataniya2">
     <title lang="ar">مسلسل: أمواج</title>
     <desc lang="ar">سناء فتاة جميلة وطيبة ومدللة من قبل والدها "مالك". يتوفى والدها ويترك لها ارثا كبيرا فيغار منها عمها وعمتها ويقرران التخلص منها باستعمال كل الطريق لكنهما لا ينجحان خاصة بوجود أشخاص مقربين منها يحولون دون تنفيذ مخططاتهما.</desc>
   </programme>
-  <programme start="20261108203000 +0100" stop="20261108211400 +0100" channel="wataniya2">
+  <programme start="20261109103500 +0100" stop="20261109111400 +0100" channel="wataniya2">
+    <title lang="ar">والله زمان</title>
+    <desc lang="ar">والله زمان</desc>
+  </programme>
+  <programme start="20261109111500 +0100" stop="20261109115900 +0100" channel="wataniya2">
+    <title lang="ar">تونس المزيانة</title>
+    <desc lang="ar">تونس المزيانة</desc>
+  </programme>
+  <programme start="20261109120000 +0100" stop="20261109125900 +0100" channel="wataniya2">
+    <title lang="ar">صور متحركة</title>
+    <desc lang="ar">صور متحركة</desc>
+  </programme>
+  <programme start="20261109130000 +0100" stop="20261109133900 +0100" channel="wataniya2">
     <title lang="ar">شوفلي حل</title>
     <desc lang="ar">شوفلي حل</desc>
   </programme>
-  <programme start="20261108211500 +0100" stop="20261108220900 +0100" channel="wataniya2">
+  <programme start="20261109134000 +0100" stop="20261109141900 +0100" channel="wataniya2">
     <title lang="ar">مسلسل الريحانة</title>
     <desc lang="ar">دراما تونسية تتناول قصة امرأة ثرية يحاول زوجها القيام بخداعها للاستيلاء على أملاكها وهى دائمًا المرأة الطيبة ذات المشاعر الفياضة التي تعامل جميع من حولها بود وحب.</desc>
   </programme>
-  <programme start="20261108221000 +0100" stop="20261108225900 +0100" channel="wataniya2">
+  <programme start="20261109142000 +0100" stop="20261109151900 +0100" channel="wataniya2">
+    <title lang="ar">لمة ونجوم</title>
+    <desc lang="ar">برنامج لمة ونجوم 
+إعداد و تقديم : نعيمة بن عمار</desc>
+  </programme>
+  <programme start="20261109152000 +0100" stop="20261109171900 +0100" channel="wataniya2">
+    <title lang="ar">في الذاكرة الرياضية</title>
+    <desc lang="ar">في الذاكرة الرياضية</desc>
+  </programme>
+  <programme start="20261109172000 +0100" stop="20261109180900 +0100" channel="wataniya2">
     <title lang="ar">سوبر فاميلي الجزء 1</title>
     <desc lang="ar">سوبر فاميلي هو مسلسل اجتماعي كوميدي سوري</desc>
   </programme>
-  <programme start="20261108230000 +0100" stop="20261108235900 +0100" channel="wataniya2">
-    <title lang="ar">شريط تلفزي: رسالة حب</title>
-    <desc lang="ar">(سعاد) تقع في حب (فوزي) الشاب الفقير تعمل والدته خياطة، يحبها جارها (مصطفى) الشاب الغني ويزوجها والدها له دون إرادتها مقابل فك رهن أرضه المحجوز عليها، يعلم (مصطفى) حبها لفوزي الذي ترك البلاد، تنجب (سعاد) ولد وبنت، يعود (فوزي) بعد 25 عامًا، تصاب (سعاد) بورم في المخ.</desc>
+  <programme start="20261109181000 +0100" stop="20261109185400 +0100" channel="wataniya2">
+    <title lang="ar">صور متحركة</title>
+    <desc lang="ar">صور متحركة</desc>
+  </programme>
+  <programme start="20261109185500 +0100" stop="20261109191400 +0100" channel="wataniya2">
+    <title lang="ar">ياسمين وفلة</title>
+    <desc lang="ar">
+ياسمين صانعة محتوى تقضي وقتها على مواقع التواصل االجتماعي وتتفاجأ بشقيقتها الكبرى فلة تعود إلى أرض الوطن لقضاء شهر رمضان بجانبها وتبدأ الحكاية بمواقفها الهزلية يرافقهما فيها الربعي حارس البيت الذي أمضى حياته في منزلهما</desc>
+  </programme>
+  <programme start="20261109191500 +0100" stop="20261109193900 +0100" channel="wataniya2">
+    <title lang="ar">محلاها بلادي... تونس البية</title>
+    <desc lang="ar">برنامج يحتفي بجمال تونس يكتشف ملامحها كما نحبّها: أصيلة، متنوّعة، ومليئة بالحياة. هو دعوة لاكتشاف تفاصيل صغيرة تصنع الفرق، وتُبرز روح البلاد في أبسط صورها وأجملها.</desc>
+  </programme>
+  <programme start="20261109194000 +0100" stop="20261109202900 +0100" channel="wataniya2">
+    <title lang="ar">مسلسل: أمواج</title>
+    <desc lang="ar">سناء فتاة جميلة وطيبة ومدللة من قبل والدها "مالك". يتوفى والدها ويترك لها ارثا كبيرا فيغار منها عمها وعمتها ويقرران التخلص منها باستعمال كل الطريق لكنهما لا ينجحان خاصة بوجود أشخاص مقربين منها يحولون دون تنفيذ مخططاتهما.</desc>
+  </programme>
+  <programme start="20261109203000 +0100" stop="20261109211400 +0100" channel="wataniya2">
+    <title lang="ar">شوفلي حل</title>
+    <desc lang="ar">شوفلي حل</desc>
+  </programme>
+  <programme start="20261109211500 +0100" stop="20261109220900 +0100" channel="wataniya2">
+    <title lang="ar">مسلسل الريحانة</title>
+    <desc lang="ar">دراما تونسية تتناول قصة امرأة ثرية يحاول زوجها القيام بخداعها للاستيلاء على أملاكها وهى دائمًا المرأة الطيبة ذات المشاعر الفياضة التي تعامل جميع من حولها بود وحب.</desc>
+  </programme>
+  <programme start="20261109221000 +0100" stop="20261109225900 +0100" channel="wataniya2">
+    <title lang="ar">سوبر فاميلي الجزء 1</title>
+    <desc lang="ar">سوبر فاميلي هو مسلسل اجتماعي كوميدي سوري</desc>
+  </programme>
+  <programme start="20261109230000 +0100" stop="20261109235900 +0100" channel="wataniya2">
+    <title lang="ar">في الذاكرة الرياضية</title>
+    <desc lang="ar">في الذاكرة الرياضية</desc>
   </programme>
 </tv>
