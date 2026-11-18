@@ -4,101 +4,108 @@
     <display-name>Wataniya 2</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/langfr-500px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png"/>
   </channel>
-  <programme start="20261118060000 +0100" stop="20261118060100 +0100" channel="wataniya2">
+  <programme start="20261119060000 +0100" stop="20261119060100 +0100" channel="wataniya2">
     <title lang="ar">النشيد الرسمي</title>
     <desc lang="ar">النشيد الرسمي</desc>
   </programme>
-  <programme start="20261118060200 +0100" stop="20261118062200 +0100" channel="wataniya2">
+  <programme start="20261119060200 +0100" stop="20261119061700 +0100" channel="wataniya2">
     <title lang="ar">القرآن الكريم</title>
     <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
   </programme>
-  <programme start="20261118062300 +0100" stop="20261118062900 +0100" channel="wataniya2">
+  <programme start="20261119061800 +0100" stop="20261119062900 +0100" channel="wataniya2">
     <title lang="ar">ابتهالات</title>
     <desc lang="ar">لحظات روحانية مع ابتهالات خاشعة تلامس القلوب وتُحلّق بالأرواح نحو السمو. بكلمات مناجية وأصوات صادقة،… حيث ترتقي الأرواح وتطمئن القلوب.</desc>
   </programme>
-  <programme start="20261118063000 +0100" stop="20261118065900 +0100" channel="wataniya2">
-    <title lang="ar">مقتطفات من أغاني أحمد جلمام</title>
-    <desc lang="ar">مقتطفات من أغاني أحمد جلمام</desc>
+  <programme start="20261119063000 +0100" stop="20261119065900 +0100" channel="wataniya2">
+    <title lang="ar">فقرة انشادية: حاتم الفرشيشي</title>
+    <desc lang="ar">فقرة انشادية: حاتم الفرشيشي</desc>
   </programme>
-  <programme start="20261118070000 +0100" stop="20261118081400 +0100" channel="wataniya2">
+  <programme start="20261119070000 +0100" stop="20261119080900 +0100" channel="wataniya2">
     <title lang="ar">تبّعني</title>
     <desc lang="ar">دعوة لاكتشاف تونس بعيون جديدة، حيث تتقاطع الطبيعة مع التاريخ في لوحات نابضة بالحياة. من الشواطئ الساحرة إلى الجبال والواحات، ومن المدن العريقة إلى القرى الهادئة، يعرّفكم البرنامج على أبرز الوجهات السياحية وأجمل المناطق الطبيعية، ويكشف خفايا أماكن قد لا يعرفها الكثيرون</desc>
   </programme>
-  <programme start="20261118081500 +0100" stop="20261118085900 +0100" channel="wataniya2">
+  <programme start="20261119081000 +0100" stop="20261119085900 +0100" channel="wataniya2">
     <title lang="ar">دعبل أخو دهبل</title>
     <desc lang="ar">من خلال علاقاته بمن حوله، وخاصة شقيقه دهبل، تنطلق سلسلة من المغامرات والمواقف الساخرة التي تمزج بين الطرافة والنقد الاجتماعي بروح الحكايات الشعبية ومغامرات جحا ونوادره القديمة.</desc>
   </programme>
-  <programme start="20261118085900 +0100" stop="20261118095900 +0100" channel="wataniya2">
-    <title lang="ar">وثائقي ميلاد التونسية: المنوعات..الحفلات...الطرب</title>
-    <desc lang="ar">يغوص العمل في عالم السهرات الموسيقية والحفلات والطرب، ويكشف كيف تحوّلت الشاشة إلى فضاء للاحتفاء بالفن والثقافة، عبر أصوات ومواعيد بقيت راسخة في ذاكرة الجمهور.
-ومن خلال أرشيف نادر وشهادات حيّة، يوثّق الوثائقي مرحلة شكّلت جزءًا مهمًا من تاريخ المشهد السمعي البصري والفني في تونس.</desc>
+  <programme start="20261119090000 +0100" stop="20261119094900 +0100" channel="wataniya2">
+    <title lang="ar">الذكرى الستون للتلفزة التونسية: الميلاد و العنفوان (المنوعات...الحفلات و الطرب -الجزء الثاني- ) </title>
+    <desc lang="ar">وثائقي بمناسبة مرور 60 عاما على تأسيس التلفزة التونسية</desc>
   </programme>
-  <programme start="20261118090000 +0100" stop="20261118125900 +0100" channel="wataniya2">
+  <programme start="20261119090000 +0100" stop="20261119125900 +0100" channel="wataniya2">
     <title lang="ar">مداولات مجلس نواب الشعب والمجلس الوطني للجهات والأقاليم   (على التردد 10873)</title>
     <desc lang="ar">مداولات مجلس نواب الشعب والمجلس الوطني للجهات والأقاليم</desc>
   </programme>
-  <programme start="20261118100000 +0100" stop="20261118110400 +0100" channel="wataniya2">
+  <programme start="20261119095000 +0100" stop="20261119105400 +0100" channel="wataniya2">
     <title lang="ar">مسلسل العاصفة</title>
     <desc lang="ar">تدور الأحداث في إطار اجتماعي حول الصراع بين الخير والشر من خلال رجال أعمال يستثمرون أموالهم في قطاع الصيد البحري يحاولون السيطرة عليه واستعدادهم لفعل أي شيء من أجل مصالحهم الشخصية وفي المقابل يتصدى لهم رجال أعمال آخرون لا يقبلون بالظلم ولا بقطع الأرزاق.</desc>
   </programme>
-  <programme start="20261118110500 +0100" stop="20261118115900 +0100" channel="wataniya2">
+  <programme start="20261119105500 +0100" stop="20261119113900 +0100" channel="wataniya2">
     <title lang="ar">تونس المزيانة</title>
     <desc lang="ar">تونس المزيانة</desc>
   </programme>
-  <programme start="20261118120000 +0100" stop="20261118123400 +0100" channel="wataniya2">
+  <programme start="20261119114000 +0100" stop="20261119122900 +0100" channel="wataniya2">
     <title lang="ar">صور متحركة</title>
     <desc lang="ar">صور متحركة</desc>
   </programme>
-  <programme start="20261118123500 +0100" stop="20261118125900 +0100" channel="wataniya2">
+  <programme start="20261119123000 +0100" stop="20261119125900 +0100" channel="wataniya2">
     <title lang="ar">سلسلة جنون القايلة</title>
     <desc lang="ar">سلسلة جنون القايلة</desc>
   </programme>
-  <programme start="20261118130000 +0100" stop="20261118134900 +0100" channel="wataniya2">
+  <programme start="20261119130000 +0100" stop="20261119134400 +0100" channel="wataniya2">
     <title lang="ar">شوفلي حل</title>
     <desc lang="ar">شوفلي حل</desc>
   </programme>
-  <programme start="20261118135000 +0100" stop="20261118145900 +0100" channel="wataniya2">
+  <programme start="20261119134500 +0100" stop="20261119145900 +0100" channel="wataniya2">
     <title lang="ar">منامة عروسية </title>
     <desc lang="ar">عروسيّة الشارد، سيدة ثرية في الثمانينات من عمرها، قاسية الطباع، ولكنها تتحلى بالكرم والعطاء ومساعدة الفقراء.
 تنحدر من عائلة الحنافي، في العاصمة وهي أرملة بوبكر الشارد، من عيثة (ضيعة) المغراوي في الشمال الغربي ،تزوجت لأول مرة من بلحسن عزّوز، وهو أحد أعيان العاصمة من الطبقة البورجوازية، وأنجبت منه توأمان: الهادي وبهيجة. تركها عندما كانت في السابعة والعشرين من عمرها ليتزوج من امرأة أخرى، ويحتفظ بحضانة أطفاله.
 </desc>
   </programme>
-  <programme start="20261118150000 +0100" stop="20261118165900 +0100" channel="wataniya2">
-    <title lang="ar">سبور كو</title>
-    <desc lang="ar">سبور كو حصة رياضية تبث في سهرة كل ثلاثاء وتهتم بالرياضات الجماعية على غرار كرة السلة وكرة اليد والكرة الطائرة إعداد ربيع البحوري تقديم مالك الطرابلسي إخراج زياد الأسود</desc>
+  <programme start="20261119150000 +0100" stop="20261119153400 +0100" channel="wataniya2">
+    <title lang="ar">والله زمان</title>
+    <desc lang="ar">والله زمان</desc>
   </programme>
-  <programme start="20261118170000 +0100" stop="20261118175400 +0100" channel="wataniya2">
+  <programme start="20261119153500 +0100" stop="20261119165900 +0100" channel="wataniya2">
+    <title lang="ar">من حكايات العروي</title>
+    <desc lang="ar">من حكايات العروي</desc>
+  </programme>
+  <programme start="20261119170000 +0100" stop="20261119175500 +0100" channel="wataniya2">
     <title lang="ar">سوبر فاميلي الجزء 2</title>
     <desc lang="ar">سوبر فاميلي هو مسلسل اجتماعي كوميدي سوري</desc>
   </programme>
-  <programme start="20261118175500 +0100" stop="20261118184900 +0100" channel="wataniya2">
+  <programme start="20261119175500 +0100" stop="20261119182400 +0100" channel="wataniya2">
     <title lang="ar">صور متحركة</title>
     <desc lang="ar">صور متحركة</desc>
   </programme>
-  <programme start="20261118185000 +0100" stop="20261118192400 +0100" channel="wataniya2">
+  <programme start="20261119182500 +0100" stop="20261119184900 +0100" channel="wataniya2">
+    <title lang="ar">سلسلة جنون القايلة</title>
+    <desc lang="ar">سلسلة جنون القايلة</desc>
+  </programme>
+  <programme start="20261119185000 +0100" stop="20261119192400 +0100" channel="wataniya2">
     <title lang="ar">محلاها بلادي... تونس البية</title>
     <desc lang="ar">برنامج يحتفي بجمال تونس يكتشف ملامحها كما نحبّها: أصيلة، متنوّعة، ومليئة بالحياة. هو دعوة لاكتشاف تفاصيل صغيرة تصنع الفرق، وتُبرز روح البلاد في أبسط صورها وأجملها.</desc>
   </programme>
-  <programme start="20261118192500 +0100" stop="20261118202900 +0100" channel="wataniya2">
+  <programme start="20261119192500 +0100" stop="20261119202900 +0100" channel="wataniya2">
     <title lang="ar">مسلسل العاصفة</title>
     <desc lang="ar">تدور الأحداث في إطار اجتماعي حول الصراع بين الخير والشر من خلال رجال أعمال يستثمرون أموالهم في قطاع الصيد البحري يحاولون السيطرة عليه واستعدادهم لفعل أي شيء من أجل مصالحهم الشخصية وفي المقابل يتصدى لهم رجال أعمال آخرون لا يقبلون بالظلم ولا بقطع الأرزاق.</desc>
   </programme>
-  <programme start="20261118203000 +0100" stop="20261118212400 +0100" channel="wataniya2">
+  <programme start="20261119203000 +0100" stop="20261119212400 +0100" channel="wataniya2">
     <title lang="ar">شوفلي حل</title>
     <desc lang="ar">شوفلي حل</desc>
   </programme>
-  <programme start="20261118212500 +0100" stop="20261118222900 +0100" channel="wataniya2">
+  <programme start="20261119212500 +0100" stop="20261119222900 +0100" channel="wataniya2">
     <title lang="ar">منامة عروسية </title>
     <desc lang="ar">عروسيّة الشارد، سيدة ثرية في الثمانينات من عمرها، قاسية الطباع، ولكنها تتحلى بالكرم والعطاء ومساعدة الفقراء.
 تنحدر من عائلة الحنافي، في العاصمة وهي أرملة بوبكر الشارد، من عيثة (ضيعة) المغراوي في الشمال الغربي ،تزوجت لأول مرة من بلحسن عزّوز، وهو أحد أعيان العاصمة من الطبقة البورجوازية، وأنجبت منه توأمان: الهادي وبهيجة. تركها عندما كانت في السابعة والعشرين من عمرها ليتزوج من امرأة أخرى، ويحتفظ بحضانة أطفاله.
 </desc>
   </programme>
-  <programme start="20261118223000 +0100" stop="20261118231400 +0100" channel="wataniya2">
+  <programme start="20261119223000 +0100" stop="20261119231400 +0100" channel="wataniya2">
     <title lang="ar">سوبر فاميلي الجزء 2</title>
     <desc lang="ar">سوبر فاميلي هو مسلسل اجتماعي كوميدي سوري</desc>
   </programme>
-  <programme start="20261118231500 +0100" stop="20261118235900 +0100" channel="wataniya2">
-    <title lang="ar">سهرة من الأرشيف </title>
-    <desc lang="ar"> سهرة من الأرشيف </desc>
+  <programme start="20261119231500 +0100" stop="20261119235900 +0100" channel="wataniya2">
+    <title lang="ar">فقرة غنائية: أم كلثوم</title>
+    <desc lang="ar">فقرة غنائية: أم كلثوم</desc>
   </programme>
 </tv>
